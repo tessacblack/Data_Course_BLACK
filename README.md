@@ -7,3 +7,4 @@ I'm not really sure how we're supposed to be editing this
 I'm doing my best though
 This is me trying
 At least I'm trying
+I've just been using nano to edit this, which I don't even know what nano does
