@@ -11,3 +11,4 @@ I've just been using nano to edit this, which I don't even know what nano does
 I feel like one of those babies where people try to give swimming lessons to the infants by tossing them into a pool
 At least my computer is pushing to git now after my meeting with Dr. Zahn
 I may have lost count of how many changes I made so I'm covering my bases
+paint the fence
