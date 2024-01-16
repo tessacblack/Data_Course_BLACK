@@ -14,3 +14,4 @@ I may have lost count of how many changes I made so I'm covering my bases
 paint the fence
 how do we open data course without using cd
 did my terminal just fuck itself again
+painting the fence again
