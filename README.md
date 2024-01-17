@@ -16,3 +16,4 @@ how do we open data course without using cd
 did my terminal just fuck itself again
 painting the fence again
 I am nothing if not dedicated to practicing because I refuse to get a 0 on Exam 1
+what the actual fuck. i tried to push that last edit to this document and for some reason, even though I only told it to add this readme file, it deleted every single file from my github repository except this one. So that was really cool. I had to do 'git add .' to re-add all of those files. i have no idea what happened
