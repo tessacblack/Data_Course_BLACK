@@ -145,7 +145,7 @@ summary(big_setosa$Sepal.Area)
 cumsum(big_setosa$Sepal.Area) #cumulative sum
 cumprod(big_setosa$Sepal.Area) #cumulative product
 
-# True/False questions will allow you to color your data set 
+# True/False questions will allow you to color your data set
 
 
 # Assignment: spend several hours playing around with vectors, do math with them, put them in data frames, and make subsets of data with them
