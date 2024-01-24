@@ -150,5 +150,12 @@ cumprod(big_setosa$Sepal.Area) #cumulative product
 
 # Assignment: spend several hours playing around with vectors, do math with them, put them in data frames, and make subsets of data with them
 # Figure out how to say in one statement: give me the rows in iris where species is setosa and sepal area is greater than 5
-# Figure out how to say in one statement: give me the rows in iris where species is setosa or virginia 
+# Figure out how to say in one statement: give me the rows in iris where species is setosa or virginica 
 # How to ask and/or questions and true/false questions. Just get comfortable with subsetting. Make sure you understand how square brackets work
+
+### Assignment: Figure out how to say in one statement: give me the rows in iris where species is setosa and sepal area is greater than 5
+iris[iris$Species=="setosa" & iris$Sepal.Length * iris$Sepal.Width>5,]
+
+### Assignment: Setosa or virginica
+iris[iris$Species==c("setosa","virginica"),]
+

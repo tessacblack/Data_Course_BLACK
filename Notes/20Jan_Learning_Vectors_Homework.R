@@ -26,7 +26,7 @@ fifteen*2
 #     Vectors with a single value in them are called character vectors 
 hi <- "hi"
 # You can ask questions about this vector
-is.vector(hi). #TRUE
+is.vector(hi) #TRUE
 
 # 2. Colon to create a sequence 
 vec1 <- 3:9 # creates a vector with the integers from 3 to 9
@@ -137,4 +137,102 @@ dice # we now see dice under "data" in the environment panel
 
 ####Video: R tutorial 05: Inspecting a data frame ####
 
-titanic <- read.csv("/Users/tessablack/Desktop/Downloads")
+titanic <- read.csv("/Users/tessablack/Desktop/Downloads iCloud/titanic.csv")
+View(titanic)
+
+# How many data points (rows and columns) are there? 
+# The environment panel tells us. Observation is a synonym for row, and variable is a synonym for column
+nrow(titanic)
+ncol(titanic)
+dim(titanic) #dim stands for dimension. It spits out number of rows and columns in that order 
+
+head(titanic) #head prints the first six rows
+tail(titanic) #tail prints the last six rows
+
+#structure
+#str means structure. This will output that titanic is a data frame with 2208 rows and 11 columns 
+# The column names are given on the left side after the $, and the data type is given after the colon. This will also print the first few objects in each column
+str(titanic) 
+
+names(titanic) # will only give us the column names
+
+####Video: R tutorial 06: Extracting values from data frames ####
+# to access elements of a vector, you use square brackets. It's similar for dataframes, but you have to use 2 numbers b/c they have rows and columns 
+
+#Example: What if we are interested in the variable that is in row 2, column 4?
+titanic[2,4]
+
+# We can get a sequence of consecutive rows using a colon operator
+titanic[2:5,4] # gives us rows 2, 3, 4, and 5 from column 4. This is the exact same output as line 186!!!
+titanic[2:5,3:4]
+
+#if you want all columns, leave the second argument blank
+titanic[2:5,]
+
+#What if we want only rows 2 and 4 with all columns? 
+titanic[c(2,4),]
+
+titanic[,c(1,3)] #prints all rows from columns 1 and 3. R doesn't print all of the rows because there are too many, but they are still part out of the output 
+
+# You can also address columns by their titles 
+titanic[,c("fam_name","gender")]
+
+titanic[,"age"] # don't need the c function if you are only interested in one column 
+
+# The dollar operator will only return a single column 
+titanic$age
+
+# When extracting a single column, the output is a vector
+titanic$age[2:5] # Returns the second value in the column (vector) age. This gives the exact same output as line 166!!
+
+# What if we only want the rows in a dataframe that correspond to 40 year old travelers? 
+titanic[titanic$age==40,] 
+
+titanic[titanic$class=="2nd",] # Returns the rows that correspond to second-class passengers. Let's save this as a vector 
+sec_class <- titanic[titanic$class=="2nd",]
+
+#Inspecting sec_class
+nrow(sec_class) #So there were 271 2nd class passengers
+ncol(sec_class)
+
+# How many different values are in a given column, and what are the values? For example, how many different classes of passenger and crew are in the class column? 
+unique(titanic$class) # This tells us there are 4 classes
+
+#### Video: R tutorial 07: Appending and Removing columns from Data Frames ####
+# We're going to convert the ticket cost to a decimal instead of the pounds/shilling/pence system using the formula Total = Pounds + (shillings/20) + (pence/240)
+
+# Dividing all values in the column shl by 20
+length(sec_class$shl) #this vector has length 271
+sec_class$shl/20 #This is a vector divided by a single number. 
+# In R, this is called vectorization. If 1 operon is a vector with multiple elements and the other operon is a single number, R carries out the operation for all elements in the longer vector
+
+## MAKING A NEW COLUMN ####
+# The output is in the console which isn't super useful, because we want this to be linked to the rest of the data such as passenger name. We can create a new column
+sec_class$shl_to_pnd <- sec_class$shl/20 # Type name of data frame you want to make the column in, then $name of new column. Then the assignment operator <- 
+
+# Calculating total price in pounds. R follows PEMDAS on its own, so we don't need to use parentheses 
+sec_class$price <- sec_class$pnd+sec_class$shl/20+sec_class$pnc/240
+
+## How to remove a column from a spreadsheet: getting rid of shl_to_pnd
+# one way would be to make a subset of the data, omitting the shl_to_pnd column 
+sec_class <- sec_class[, -12] # the minus sign tells R to remove the 12th column
+
+# another way: using dollar notation and making column 12 NULL
+sec_class$shl_to_pnd <- NULL #this is easier for this example because you don't have to count the columns 
+
+#### Video: R tutorial 08: Logical Vectors ####
+
+titanic[titanic$age==40,]
+# A logical vector contains only elements that are true or false. The c function can be used to combine multiple logical elements into a vector
+z <- c(TRUE, TRUE, FALSE, FALSE, TRUE)
+
+# Logical vectors can be used to build subsets of other vectors that are equally long
+View(players)
+# We can subset the vector players by vector z, which will return only the players whose values of z are TRUE
+players[z]
+
+# Logical vectors are a natural outcome when we make comparisons 
+scores ==6 # This outputs a logical vector of the same length as scores 
+players[scores==6] #this will tell us the names of the players who had a score of 6
+
+titanic[titanic$age==40,] # The expression before the comma refers to the rows. The blank space after the comma means that we keep all columns. In this example, we use the comparison operator == to return a logical vector that is TRUE only if titanic$age=40. This only keeps the rows where the person was exactly 40 years old. 
