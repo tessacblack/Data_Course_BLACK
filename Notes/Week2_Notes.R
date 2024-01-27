@@ -1,16 +1,65 @@
-#Package spotlight
-#QR code package lets you make a qr code out of any vector that has a length of 1
+##### WEEK 2 NOTES ####
+# Tuesday, 16 Jan and Thursday, 18 Jan #
+
+#### Tuesday, January 16 ####
+# Main focus: 
+
+getwd()
+list.files()
+getwd()
+list.files()[1:10]
+list.files(pattern="x")
+
+list.files(pattern = ".csv", recursive = TRUE)
+
+"Data/wide_income_rent.csv"
+readLines("Data/wide_income_rent.csv")
+# Read lines will read text from a "connection", where a connection is just the path to the file. So you can paste the file path inside the () on read lines and it will read that file 
+# All that read lines can do is open a file and look for line breaks in a file (eg, where you press enter on an excel file)
+# This isn't the most useful. The data is not in the environment which means that R doesn't know anything about what's in this file 
+# We can save it into the environment 
+
+read.csv("Data/wide_income_rent.csv")
+# This was actually helpful
+# What if you need to read in all 161 files? You don't want to type them all in. You can automate it.
+# In line 7 it's showing us the path to all of the .csv files 
+# adding a variable name and the little <-symbol will save them 
+
+x <- list.files(pattern = ".csv",recursive = TRUE)
+# Now we can see that x is in the environment 
+x
+# Typing x and then running that command pulls all of those file paths into our console 
+
+x[158]
+# This just pulled object #158 into our console
+# The technical term for this is 'the 158th character number of the vector x'
+
+read.csv(x[158])
+# this pulled just the data from the 158th character from x into our console. Reminder: character 158 is just the file path to that specific csv file
+# How do we save this data? Save it under a variable name 
+
+dat <- read.csv(x[158])
+# Now we have the data set from 158 in our environment. Since we told it that it's a .csv, it is pulled into the environment as an actual data set
+# Columns are variables
+
+csv_files <- list.files(path = "Data", pattern = ".csv", recursive = TRUE)
+
+#### Thursday, January 18 ####
+# Main focus: Working with vectors
+
+# Package spotlight ####
+# QR code package lets you make a qr code out of any vector that has a length of 1
 # so you can make the url you want into a vector and then turn it into a qr code
 url <-  exampke
 qr <- qrcode::qr_code(url)
 plot (url)
 
-#Installing packacges
+# Installing packacges ####
 install.packages("qrcode") #this installs it 
 library(qrcode) #library loads the package
 
 
-###############
+# Class notes ####
 
 x <- c(1,2,3,4,5)
 for (i in x){
@@ -148,14 +197,13 @@ cumprod(big_setosa$Sepal.Area) #cumulative product
 # True/False questions will allow you to color your data set
 
 
-# Assignment: spend several hours playing around with vectors, do math with them, put them in data frames, and make subsets of data with them
-# Figure out how to say in one statement: give me the rows in iris where species is setosa and sepal area is greater than 5
-# Figure out how to say in one statement: give me the rows in iris where species is setosa or virginica 
-# How to ask and/or questions and true/false questions. Just get comfortable with subsetting. Make sure you understand how square brackets work
+# Assignment: spend several hours playing around with vectors, do math with them, put them in data frames, and make subsets of data with them ####
+## Figure out how to say in one statement: give me the rows in iris where species is setosa and sepal area is greater than 5 ####
+## Figure out how to say in one statement: give me the rows in iris where species is setosa or virginica ####
+## How to ask and/or questions and true/false questions. Just get comfortable with subsetting. Make sure you understand how square brackets work ####
 
-### Assignment: Figure out how to say in one statement: give me the rows in iris where species is setosa and sepal area is greater than 5
+## Assignment: Figure out how to say in one statement: give me the rows in iris where species is setosa and sepal area is greater than 5 ####
 iris[iris$Species=="setosa" & iris$Sepal.Length * iris$Sepal.Width>5,]
 
-### Assignment: Setosa or virginica
+## Assignment: Setosa or virginica ####
 iris[iris$Species==c("setosa","virginica"),]
-
