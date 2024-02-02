@@ -47,11 +47,10 @@ state_max_fatality_rate <- df %>%
 # Even with this partial data set (not current), you should be able to see that (within these dates), different states had very different fatality ratios.
 state_max_fatality_rate %>% 
   mutate(Province_State = factor(Province_State, levels = Province_State[order(-Maximum_Fatality_Ratio)])) %>% 
-  ggplot(aes(x = reorder(Province_State, -Maximum_Fatality_Ratio),
+  ggplot(aes(x = Province_State,
              y = Maximum_Fatality_Ratio))+
   geom_col()+
   theme(axis.text.x = element_text(angle = 90))
-  labs(x = 'Province_State')
   
 # 
 # VI. (BONUS 10 pts) Using the FULL data set, plot cumulative deaths for the entire US over time
