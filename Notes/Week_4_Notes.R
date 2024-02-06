@@ -2,7 +2,7 @@
 ###### WEEK 4 NOTES #######
 ###########################
 
-### Tuesday January 30 and Thursday February 1 ###
+### Class 7 Tuesday January 30 and Class 8 Thursday February 1 ###
 
 ### Package of the week ####
 library(leaflet)

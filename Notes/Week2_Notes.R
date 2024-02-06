@@ -1,5 +1,5 @@
 ##### WEEK 2 NOTES ####
-# Tuesday, 16 Jan and Thursday, 18 Jan #
+# Class 3 Tuesday, 16 Jan and Class 4 Thursday, 18 Jan #
 
 #### Tuesday, January 16 ####
 # Main focus: 

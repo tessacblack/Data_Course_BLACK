@@ -115,6 +115,7 @@ ggplot(faithful, aes(x = eruptions, y = waiting)) +
   geom_density_2d() + 
   geom_point()
 # plots aren't confined to a single geometry 
+# the order of the addition of layers defines the layers of the plot 
 ```
 
 #### Exercise
@@ -124,7 +125,7 @@ See `?geom_point` for more information on the point layer.
 
 ```{r}
 ggplot(faithful) + 
-  geom_point(aes(x = eruptions, y = waiting))
+  geom_point(aes(x = eruptions, y = waiting), shape = 'square', alpha = 0.3)
 ```
 
 Hint 1: transparency is controlled with `alpha`, and shape with `shape`
@@ -136,7 +137,7 @@ Colour the two distributions in the histogram with different colours
 
 ```{r}
 ggplot(faithful) + 
-  geom_histogram(aes(x = eruptions))
+  geom_histogram(aes(x = eruptions,fill=eruptions<3.1))
 ```
 
 Hint 1: For polygons you can map two different colour-like aesthetics: `colour` 
@@ -149,7 +150,7 @@ Colour the distributions in the histogram by whether `waiting` is above or below
 
 ```{r}
 ggplot(faithful) + 
-  geom_histogram(aes(x = eruptions))
+  geom_histogram(aes(x = eruptions,fill = waiting < 60), position = 'dodge',alpha=0.25)
 ```
 
 Change the plot above by setting `position = 'dodge'` in `geom_histogram()` 
@@ -162,7 +163,8 @@ how to draw straight lines from a slope and intercept.
 
 ```{r}
 ggplot(faithful) + 
-  geom_point(aes(x = eruptions, y = waiting))
+  geom_point(aes(x = eruptions, y = waiting))+
+  geom_abline(slope=-40, intercept = 200)
 ```
 
 ### Stat

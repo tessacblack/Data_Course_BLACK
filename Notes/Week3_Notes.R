@@ -1,6 +1,6 @@
 ####### WEEK 3 NOTES ########
 
-# Tuesday, 23 Jan and Thursday, 25 Jan #
+# Class 5 Tuesday, 23 Jan and Class 6 Thursday, 25 Jan #
 #### January 23 ####
 
 # Practice ####
