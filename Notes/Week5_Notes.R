@@ -215,7 +215,7 @@ bp <-
   select(-starts_with("HR")) # Create a new dataset with everything except for the columns that start with HR 
 View(bp)
 
-bp %>% 
+bp <- bp %>% 
   pivot_longer(starts_with("BP"),
                names_to = "visit",
                values_to = "bp") %>% # Visit is still weird, so we want to change it to visits 1, 2, 3
@@ -223,4 +223,42 @@ bp %>%
                            visit=="BP...10"~2,
                            visit=="BP...12"~3))
 
-# Homework: Finish mutating this, then do the same to heart rate, then full join both of them
+# Homework: Finish mutating this (make all the white people the same), then do the same to heart rate, then full join both of them
+
+
+#### homework
+bp <- bp %>% 
+  pivot_longer(starts_with("BP"),
+               names_to = "visit",
+               values_to = "bp") %>%
+  mutate(visit = case_when(visit=="BP...8"~1,
+                           visit=="BP...10"~2,
+                           visit=="BP...12"~3)) #### TALK TO DR. ZHAN ABOUT ERROR
+
+bp <- bp %>% 
+  mutate(Race = case_when(
+    Race %in% c("White","WHITE")~ "Caucasian",
+    TRUE ~ Race
+  ))
+
+## Create hr dataframe
+hr <- dat %>% 
+  select(-starts_with("BP"))
+View(hr)
+
+hr <- hr %>% 
+  pivot_longer(starts_with("HR"),
+               names_to = "visit",
+               values_to = "hr") %>%
+  mutate(visit = case_when(visit=="HR...9"~1,
+                           visit=="HR...11"~2,
+                           visit=="HR...13"~3)) ## SAME FUCKIGN ERROR 
+hr <- hr %>% 
+  mutate(Race = case_when(
+    Race %in% c("White","WHITE")~ "Caucasian",
+    TRUE ~ Race
+  ))
+
+
+## Full join
+full_join(hr,bp)
