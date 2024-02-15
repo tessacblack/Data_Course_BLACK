@@ -8,6 +8,10 @@ df <- read_csv("./data/cleaned_covid_data.csv")
 # II. Subset the data set to just show states that begin with “A” and save this as an object called A_states. (20 pts)
 A_states <- df[startsWith(df$Province_State, 'A'),]
 
+# 2-15-24 reviewing exam 
+A_states_2 <- 
+  df %>% 
+  filter(grepl("^A",Province_State)) # grep grabs things
 
 # Use the tidyverse suite of packages
 # Selecting rows where the state starts with “A” is tricky (you can use the grepl() function or just a vector of those states if you prefer)
@@ -20,6 +24,13 @@ ggplot(A_states, aes(x = Last_Update,
   geom_point()+ # Creates the scatterplot
   geom_smooth(method = "loess", se = FALSE) +  #adds loess curve without SE shading
   facet_wrap(~Province_State, scales = "free")
+
+# in class review
+A_states_2 %>% 
+  ggplot(aes(x=Last_Update, y=Deaths)) +
+  geom_point()+
+  geom_smooth(se=FALSE)+
+  facet_wrap(~Province_State,scales='free')
 
 
 # IV. (Back to the full dataset) Find the “peak” of Case_Fatality_Ratio for each state and save this as a new data frame object called state_max_fatality_rate. (20 pts)
@@ -35,6 +46,13 @@ state_max_fatality_rate <- df %>%
   group_by(Province_State) %>%
   summarise(Maximum_Fatality_Ratio = max(Case_Fatality_Ratio, na.rm = TRUE)) %>% 
   arrange(desc(Maximum_Fatality_Ratio))
+
+# in class review
+state_max_fatality_rate_2 <- 
+  df %>% 
+  group_by(Province_State) %>% 
+  summarize(maximum_fatality_ratio=max(Case_Fatality_Ratio,na.rm=TRUE)) %>% 
+  arrange(desc(maximum_fatality_ratio))
 
 #   
 #   V. Use that new data frame from task IV to create another plot. (20 pts)
@@ -52,6 +70,15 @@ state_max_fatality_rate %>%
   geom_col()+
   theme(axis.text.x = element_text(angle = 90))
   
+# In class review
+# To get things to stay in the same order in your plot, you want to turn things into a factor
+state_max_fatality_rate_2 %>% 
+  mutate(Province_State=factor(Province_State,levels=state_max_fatality_rate_2$Province_State)) %>%  
+  ggplot(aes(x=Province_State,y=maximum_fatality_ratio))+
+  geom_col()+
+  theme(axis.text.x = element_text(angle = 90,hjust=1,vjust=0.5))
+
+
 # 
 # VI. (BONUS 10 pts) Using the FULL data set, plot cumulative deaths for the entire US over time
 # 
@@ -64,3 +91,10 @@ us_cumulative_deaths <- df %>%
 ggplot(us_cumulative_deaths, aes(x = Last_Update, y = Cumulative_Deaths)) +
     geom_line() +
     labs(x = "Date", y = "Cumulative_Deaths")
+
+
+df %>% 
+  group_by(Last_Update) %>% 
+  summarize(total_deaths=sum(Deaths)) %>% 
+  ggplot(aes(x=Last_Update,y=total_deaths))+
+  geom_point()
