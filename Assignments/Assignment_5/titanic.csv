@@ -1,0 +1,2209 @@
+fam_name,given_name,gender,age,class,survived,ticket,pax_on_tckt,pnd,shl,pnc
+ABBING,Anthony,Male,41,3rd,FALSE,5547,1,7,11,0
+ABBOTT,Ernest Owen,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+ABBOTT,Eugene Joseph,Male,13,3rd,FALSE,CA2673,3,20,5,0
+ABBOTT,Rossmore Edward,Male,16,3rd,FALSE,CA2673,3,20,5,0
+ABBOTT,Rhoda Mary 'Rosa',Female,39,3rd,TRUE,CA2673,3,20,5,0
+ABELSETH,Kalle (Karen) Marie Kristiane,Female,16,3rd,TRUE,348125,1,7,13,0
+ABELSETH,Olaus Jorgensen,Male,25,3rd,TRUE,348122,1,7,13,0
+ABELSON,Samuel,Male,30,2nd,FALSE,3381,2,24,0,0
+ABELSON,Anna,Female,28,2nd,TRUE,3381,2,24,0,0
+ABI SA'B,Jirjis Yusuf,Male,45,3rd,FALSE,2685,1,7,4,6
+ABI SA'B,Sha'ninah,Female,38,3rd,TRUE,2688,1,7,4,7
+ABI SHADID,Dahir,Male,19,3rd,FALSE,2698,1,7,4,6
+ABI-AL-MUNA,Nasif Qasim,Male,27,3rd,TRUE,2699,2,18,15,9
+ABRAHAMSSON,August Abraham Johannes,Male,19,3rd,TRUE,3101284,1,7,18,6
+ABRAMS,William Thomas,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+ADAHL,Mauritz,Male,30,3rd,FALSE,7076,1,7,5,0
+ADAMS,John,Male,26,3rd,FALSE,341826,1,8,1,0
+ADAMS,Robert John,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+AHIER,Percy Snowden,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+AHLIN,Johanna Persdotter,Female,40,3rd,FALSE,7546,1,9,9,6
+AHMED,Ali,Male,24,3rd,FALSE,3101311,1,7,1,0
+AIJO-NIRVA,Isakki Antonpoika,Male,41,3rd,FALSE,3101272,1,7,2,6
+AKERMAN,Albert Edward,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+AKERMAN,Joseph Francis,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+AKS,Philip,Male,0,3rd,TRUE,392091,2,9,7,0
+AKS,Leah,Female,21,3rd,TRUE,392091,2,9,7,0
+AL-BA'QLINI,Hilanah,Female,2,3rd,TRUE,2666,4,19,5,2
+AL-BA'QLINI,Mariya,Female,5,3rd,TRUE,2666,4,19,5,2
+AL-BA'QLINI,Uwjiniya,Female,3,3rd,TRUE,2666,4,19,5,2
+AL-BA'QLINI,Latifah,Female,23,3rd,TRUE,2666,4,19,5,2
+AL-MUNA,Farid Husayn Qasim,Male,19,3rd,FALSE,2700,1,7,4,7
+AL-ZA'INNI,Fahim Ruhana,Male,25,3rd,TRUE,2620,1,7,4,6
+ALDWORTH,Augustus Henry,Male,35,Crew,FALSE,248744,1,13,0,0
+ALEXANDER,William Albert,Male,24,3rd,FALSE,3474,1,7,17,9
+ALHOMAKI,Ilmari Rudolf,Male,19,3rd,FALSE,3101287,1,7,18,6
+ALI,William,Male,25,3rd,FALSE,3101312,1,7,1,0
+ALLARIA,Battista Antonio,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+ALLEN,Elisabeth Walton,Female,29,1st,TRUE,24160,1,211,60,9
+ALLEN,Ernest Frederick,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+ALLEN,George,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+ALLEN,Henry,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+ALLEN,Robert Spencer,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+ALLEN,William Henry,Male,39,3rd,FALSE,373450,1,8,1,0
+ALLISON,Hudson Trevor,Male,0,1st,TRUE,113781,6,151,16,0
+ALLISON,Helen Loraine,Female,2,1st,FALSE,113781,6,151,16,0
+ALLISON,Hudson Joshua Creighton,Male,30,1st,FALSE,113781,6,151,16,0
+ALLISON,Bess Waldo,Female,25,1st,FALSE,113781,6,151,16,0
+ALLSOP,Alfred Samuel,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+ALLSOP,Frank Richard,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+ALLUM,Owen George,Male,17,3rd,FALSE,2223,1,8,6,0
+ANDERSEN-JENSEN,Carla Christine Nielsine,Female,19,3rd,TRUE,350046,1,7,17,1
+ANDERSEN,Albert Kaurin,Male,33,3rd,FALSE,4001,3,22,10,6
+ANDERSON,Henry,Male,42,1st,TRUE,19952,1,26,11,0
+ANDERSON,John,Male,42,Crew,TRUE,NA,NA,NA,NA,NA
+ANDERSON,Walter Yuill,Male,50,Crew,FALSE,NA,NA,NA,NA,NA
+ANDERSSON,Sigvard Harald Elias,Male,4,3rd,FALSE,347082,7,31,5,6
+ANDERSSON,Ebba Iris Alfrida,Female,6,3rd,FALSE,347082,7,31,5,6
+ANDERSSON,Ellis Anna Maria,Female,2,3rd,FALSE,347082,7,31,5,6
+ANDERSSON,Erna Alexandra,Female,16,3rd,TRUE,3101281,1,7,18,6
+ANDERSSON,Ida Augusta Margareta,Female,38,3rd,FALSE,347091,1,7,15,6
+ANDERSSON,Ingeborg Constanzia,Female,9,3rd,FALSE,347082,7,31,5,6
+ANDERSSON,Sigrid Elisabeth,Female,11,3rd,FALSE,347082,7,31,5,6
+ANDERSSON,Anders Johan,Male,39,3rd,FALSE,347082,7,31,5,6
+ANDERSSON,Johan Samuel,Male,26,3rd,FALSE,347075,1,7,15,6
+ANDERSSON,Alfrida Konstantia Brogren,Female,39,3rd,FALSE,347082,7,31,5,6
+ANDREASSON,Pal Edvin,Male,20,3rd,FALSE,347466,1,7,17,1
+ANDREW,Edgar Samuel,Male,17,2nd,FALSE,231945,1,11,10,0
+ANDREW,Frank Thomas,Male,26,2nd,FALSE,34050,1,10,10,0
+ANDREWS,Cornelia Theodosia,Female,62,1st,TRUE,13502,3,77,19,2
+ANDREWS,Charles Edward,Male,19,Crew,TRUE,NA,NA,NA,NA,NA
+ANDREWS,Thomas,Male,39,1st,FALSE,112050,1,0,0,0
+ANGLE,William,Male,31,2nd,FALSE,226875,2,26,0,0
+ANGLE,Florence Agnes,Female,36,2nd,TRUE,226875,2,26,0,0
+APPLETON,Charlotte,Female,53,1st,TRUE,11769,2,51,9,7
+ARCHER,Ernest Edward,Male,35,Crew,TRUE,NA,NA,NA,NA,NA
+ARNOLD-FRANCHI,Josef,Male,25,3rd,FALSE,349237,2,17,16,0
+ARNOLD-FRANCHI,Josefine,Female,18,3rd,FALSE,349237,2,17,16,0
+ARONSSON,Ernst Axel Algot,Male,25,3rd,FALSE,349911,1,7,15,6
+ARTAGAVEYTIA,Ramon,Male,71,1st,FALSE,17609,1,49,10,1
+ASHBY,John,Male,57,2nd,FALSE,244346,1,13,0,0
+ASHCROFT,Austin Aloysius,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+ASHE,Henry Wellesley,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+ASIM,Adola,Male,35,3rd,FALSE,3101310,1,7,1,0
+ASPESLAGH,Georges,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+ASPLUND,Carl Edgar,Male,5,3rd,FALSE,347077,7,31,7,9
+ASPLUND,Clarence Gustaf Hugo,Male,9,3rd,FALSE,347077,7,31,7,9
+ASPLUND,Edvin Rojj Felix,Male,3,3rd,TRUE,347077,7,31,7,9
+ASPLUND,Filip Oscar,Male,13,3rd,FALSE,347077,7,31,7,9
+ASPLUND,Lillian Gertrud,Female,5,3rd,TRUE,347077,7,31,7,9
+ASPLUND,Carl Oscar Vilhelm Gustafsson,Male,40,3rd,FALSE,347077,7,31,7,9
+ASPLUND,Johan Charles,Male,23,3rd,TRUE,350054,1,7,15,11
+ASPLUND,Selma Augusta Emilia,Female,38,3rd,TRUE,347077,7,31,7,9
+ASSAM,Ali,Male,23,3rd,FALSE,3101309,1,7,1,0
+ASTOR,John Jacob,Male,47,1st,FALSE,17757,5,247,10,6
+ASTOR,Madeleine Talmage,Female,18,1st,TRUE,17757,5,247,10,6
+ATA ALLAH,Malakah,Female,18,3rd,FALSE,2627,2,14,9,2
+ATTALA,Sleiman Khalil,Male,27,3rd,FALSE,2694,1,7,4,6
+AUBART,Leontine Pauline,Female,24,1st,TRUE,17477,2,69,6,0
+AUGUSTSSON,Albert,Male,23,3rd,FALSE,347468,1,7,17,1
+AVERY,James Albert,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+AYLING,Edwin George,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+AYYUB-DAHIR,Bannurah,Female,15,3rd,TRUE,2687,1,7,4,7
+BACK,Charles Frederick,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+BACKSTROM,Karl Alfred,Male,32,3rd,FALSE,3101278,2,15,17,0
+BACKSTROM,Maria Mathilda,Female,33,3rd,TRUE,3101278,2,15,17,0
+BADMAN,Emily Louisa,Female,18,3rd,TRUE,31416,1,8,1,0
+BADT,Mohamed,Male,40,3rd,FALSE,2623,1,7,4,6
+BAGGOTT,Allen Marden,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+BAGLEY,Edward Henry,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+BAILEY,George,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+BAILEY,George Frank,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+BAILEY,Henry Joseph,Male,46,Crew,TRUE,NA,NA,NA,NA,NA
+BAILEY,Percy,Male,18,2nd,FALSE,29108,1,11,10,0
+BAINBRIGGE,Charles Robert,Male,22,2nd,FALSE,31030,1,10,10,0
+BAINES,Richard,Male,58,Crew,FALSE,NA,NA,NA,NA,NA
+BAKIC,Cerin,Male,26,3rd,FALSE,349248,1,7,17,11
+BALL,Percy,Male,18,Crew,TRUE,NA,NA,NA,NA,NA
+BALLS,Ada E.,Female,36,2nd,TRUE,28551,1,13,0,0
+BANEWER,Solomon,Male,42,2nd,FALSE,211535,1,13,0,0
+BANFI,Ugo,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+BANFIELD,Frederick James,Male,28,2nd,FALSE,34068,1,10,10,0
+BANNON,John Joseph,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+BARBARA,Saiide,Female,18,3rd,FALSE,2691,2,14,9,1
+BARBARA,Catherine David,Female,45,3rd,FALSE,2691,2,14,9,1
+BARBER,Ellen Mary,Female,26,Crew,TRUE,19877,3,78,17,0
+BARKER,Albert Vale,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+BARKER,Ernest Thomas,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+BARKER,Reginald Lomond,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+BARKWORTH,Algernon Henry,Male,47,1st,TRUE,27042,1,30,0,0
+BARLOW,Charles Henry,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BARLOW,George,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+BARNES,Charles,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+BARNES,Frederick Charles,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+BARNES,John,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+BARRATT,Arthur,Male,16,Crew,FALSE,NA,NA,NA,NA,NA
+BARRETT,Frederick William,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+BARRETT,Frederick William,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+BARRINGER,Arthur William,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+BARROW,Charles Henry John,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+BARROWS,Edward William Peter,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+BARRY,Julia,Female,30,3rd,FALSE,330844,1,7,17,7
+BARTON,David John,Male,22,3rd,FALSE,324669,1,8,1,0
+BARTON,Sidney John,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+BASILICO,Giovanni,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+BASSANI,Albina,Female,31,Crew,TRUE,11813,2,76,5,10
+BATEMAN,Robert James,Male,52,2nd,FALSE,1166,1,12,10,6
+BATOSHEV,Hristo Lalev,Male,23,3rd,FALSE,349217,1,7,17,11
+BAUMANN,John David,Male,48,1st,FALSE,17318,1,25,18,6
+BAXTER,Harry Ross,Male,53,Crew,FALSE,NA,NA,NA,NA,NA
+BAXTER,Quigg Edmond,Male,24,1st,FALSE,17558,3,247,10,5
+BAXTER,Thomas Ferguson,Male,55,Crew,FALSE,NA,NA,NA,NA,NA
+BAXTER,Helene,Female,50,1st,TRUE,17558,3,247,10,5
+BAZZI,Rashid Al-Haj 'Adb al-Husayn,Male,30,3rd,FALSE,2629,1,7,4,7
+BAZZI,Narciso,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+BEANE,Edward,Male,32,2nd,TRUE,2908,2,26,0,0
+BEANE,Ethel Louisa,Female,22,2nd,TRUE,2908,2,26,0,0
+BEATTIE,Joseph John,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+BEATTIE,Thomson,Male,36,1st,FALSE,13050,2,75,4,10
+BEAUCHAMP,George William,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+BEAUCHAMP,Henry James,Male,43,2nd,FALSE,244358,2,26,0,0
+BEAVAN,William Thomas,Male,20,3rd,FALSE,323951,1,8,1,0
+BECKER,Richard F.,Male,1,2nd,TRUE,230136,4,39,0,0
+BECKER,Marion Louise,Female,4,2nd,TRUE,230136,4,39,0,0
+BECKER,Ruth Elizabeth,Female,12,2nd,TRUE,230136,4,39,0,0
+BECKER,Nellie E.,Female,35,2nd,TRUE,230136,4,39,0,0
+BECKWITH,Richard Leonard,Male,37,1st,TRUE,11751,2,52,11,1
+BECKWITH,Sarah Maybell,Female,46,1st,TRUE,11751,2,52,11,1
+BEDFORD,William Barnett,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+BEEDEM,George Arthur,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+BEERE,William,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+BEESLEY,Lawrence,Male,34,2nd,TRUE,248698,1,13,0,0
+BEHR,Karl Howell,Male,26,1st,TRUE,111369,1,30,0,0
+BELL,Joseph,Male,51,Crew,FALSE,NA,NA,NA,NA,NA
+BENDELL,Frank,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+BENGTSSON,Jan Viktor,Male,26,3rd,FALSE,347068,1,7,15,6
+BENHAM,Fred John,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BENNETT,George Alfred,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BENNETT,Mabel Kate,Female,33,Crew,TRUE,NA,NA,NA,NA,NA
+BENTHAM,Lillian Winifred,Female,19,2nd,TRUE,28404,1,13,0,0
+BENVILLE,Edward,Male,47,Crew,FALSE,NA,NA,NA,NA,NA
+BERGLUND,Karl Ivar Sven,Male,22,3rd,FALSE,4348,1,9,7,0
+BERNARDI,Battista,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+BERRIMAN,William John,Male,23,2nd,FALSE,28425,1,13,0,0
+BESSANT,Edward,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+BESSANT,William Edward Lowe,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+BESSETTE,Nellie Mayo,Female,39,Crew,TRUE,17760,1,63,7,2
+BEST,Edwin Alfred,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+BEUX,David,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+BEVIS,Joseph Henry,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+BIDDLECOMBE,Reginald Charles,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+BIDOIS,Rosalie,Female,46,Crew,TRUE,17757,5,247,10,6
+BIETRIX,George Baptiste,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+BIGGS,Edward Charles,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+BILLOWS,James,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+BING,Lee,Male,32,3rd,TRUE,1601,8,56,9,11
+BINSTEAD,Walter William,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+BIRD,Ellen,Female,31,Crew,TRUE,17483,4,221,15,7
+BIRKELAND,Hans Martin Monsen,Male,21,3rd,FALSE,312992,1,7,15,6
+BIRNBAUM,Jakob,Male,24,1st,FALSE,13905,1,26,0,0
+BISHOP,Dickinson H.,Male,25,1st,TRUE,11967,2,91,1,7
+BISHOP,Walter Alexander,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+BISHOP,Helen Margaret,Female,19,1st,TRUE,11967,2,91,1,7
+BJORKLUND,Ernst Herbert,Male,18,3rd,FALSE,347090,1,7,15,0
+BJORNSTROM-STEFFANSSON,Mauritz Hakan,Male,28,1st,TRUE,110564,1,26,11,0
+BLACK,Alexander,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+BLACK,D.,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+BLACKMAN,Albert Edward,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+BLACKWELL,Stephen Weart,Male,45,1st,FALSE,113784,1,35,10,0
+BLADES,Frederick Charles,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+BLAKE,John Douglas Stanley George,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+BLAKE,Percival Albert,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+BLAKE,Thomas Henry,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+BLANEY,James,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+BLANK,Henry,Male,39,1st,TRUE,112277,1,31,0,0
+BLANN,Eustace Horatius,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+BLISS,Emma,Female,45,Crew,TRUE,NA,NA,NA,NA,NA
+BLUMET,Jean Baptiste,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+BOCHATAY,Alexis Joseph,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BOCHET,Pietro Giuseppe,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+BOGIE,Norman Leslie,Male,59,Crew,FALSE,NA,NA,NA,NA,NA
+BOLHUIS,Hendrik,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+BOND,William John,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+BONNELL,Caroline,Female,30,1st,TRUE,36928,4,164,17,4
+BONNELL,Elizabeth,Female,61,1st,TRUE,113783,1,26,11,0
+BOOTHBY,Walter Thomas,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+BOREBANK,John James,Male,41,1st,FALSE,110489,1,26,11,0
+BOSTANDJIEV,Gencho,Male,26,3rd,FALSE,349224,1,7,17,11
+BOSTON,William John,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+BOTSFORD,William Hull,Male,25,2nd,FALSE,237670,1,13,0,0
+BOTT,William Thomas,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+BOUGHTON,Bernard John,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+BOULOS,Hanna,Male,18,3rd,FALSE,2664,1,7,4,6
+BOURKE,Mary,Female,40,3rd,FALSE,364848,1,7,15,0
+BOURKE,John,Male,42,3rd,FALSE,364849,2,15,10,0
+BOURKE,Catherine,Female,32,3rd,FALSE,364849,2,15,10,0
+BOWEN,Grace Scott,Female,45,Crew,TRUE,17608,7,262,7,6
+BOWEN,David John 'Dai',Male,20,3rd,FALSE,54636,2,16,2,0
+BOWERMAN,Elsie Edith,Female,22,1st,TRUE,113505,2,55,0,0
+BOWKER,Ruth Harwood,Female,31,Crew,TRUE,NA,NA,NA,NA,NA
+BOXHALL,Joseph Groves,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+BOYD,John,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+BOYES,John Henry,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+BRACKEN,James Hollen,Male,30,2nd,FALSE,220367,1,13,0,0
+BRADLEY,Bridget,Female,22,3rd,TRUE,334914,1,7,14,6
+BRADLEY,Patrick Joseph,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+BRADLEY,Thomas Henry,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+BRADSHAW,John Albert Perkin,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+BRADY,John Bertram,Male,41,1st,FALSE,113054,1,30,10,0
+BRAF,Elin Ester Maria,Female,20,3rd,FALSE,347471,1,7,17,1
+BRAILEY,William Theodore Ronald,Male,24,Crew,FALSE,250654,8,0,0,0
+BRANDEIS,Emil Franklin,Male,48,1st,FALSE,17591,1,50,9,11
+BRAUND,Lewis Richard,Male,29,3rd,FALSE,3460,1,7,0,11
+BRAUND,Owen Harris,Male,22,3rd,FALSE,21171,1,7,5,0
+BRERETON,George Andrew,Male,37,1st,TRUE,111427,1,26,11,0
+BREWE,Arthur Jackson,Male,45,1st,FALSE,112379,1,39,12,0
+BREWER,Harry,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BREWSTER,George Henry,Male,52,Crew,FALSE,NA,NA,NA,NA,NA
+BRIANT,Albert,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+BRIANT,Arthur,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BRICE,Walter Thomas,Male,42,Crew,TRUE,NA,NA,NA,NA,NA
+BRICOUX,Roger Marie,Male,20,Crew,FALSE,250654,8,0,0,0
+BRIDE,Harold Sydney,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+BRIGHT,Arthur John,Male,42,Crew,TRUE,NA,NA,NA,NA,NA
+BRISTOW,Harry,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+BRISTOW,Robert Charles,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+BRITO,Jose Joaquim de,Male,40,2nd,FALSE,244360,1,13,0,0
+BROBACK,Karl Rudolf,Male,22,3rd,FALSE,350045,1,7,15,11
+BROCKLEBANK,William Alfred,Male,40,3rd,FALSE,364512,1,8,1,0
+BROOKMAN,John Cress,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+BROOKS,J.,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+BROOM,Herbert George,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+BROOME,Athol Frederick,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+BROWN,Amelia Mary,Female,18,Crew,TRUE,248733,1,13,0,0
+BROWN,Edith Eileen,Female,15,2nd,TRUE,29750,3,39,0,0
+BROWN,Edward,Male,34,Crew,TRUE,NA,NA,NA,NA,NA
+BROWN,John,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+BROWN,Joseph,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BROWN,Thomas William Solomon,Male,60,2nd,FALSE,29750,3,39,0,0
+BROWN,Walter James,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+BROWN,Caroline Lane,Female,59,1st,TRUE,11769,2,51,9,7
+BROWN,Elizabeth Catherine,Female,39,2nd,TRUE,29750,3,39,0,0
+BROWN,Margaret,Female,44,1st,TRUE,17610,1,27,14,5
+BRYHL,Dagmar Jenny Ingeborg,Female,20,2nd,TRUE,236853,2,26,0,0
+BRYHL,Kurt Arnold Gottfrid,Male,25,2nd,FALSE,236853,2,26,0,0
+BUCKLEY,Catherine,Female,23,3rd,FALSE,329944,1,7,5,8
+BUCKLEY,Daniel,Male,21,3rd,TRUE,330920,1,7,15,17
+BUCKLEY,H. E.,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+BUCKNELL,Emma Eliza,Female,58,1st,TRUE,11813,2,76,5,10
+BULEY,Edward John,Male,26,Crew,TRUE,NA,NA,NA,NA,NA
+BULL,Walter Edward,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+BULLEY,Henry Ashburnham,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+BULUS,Akar,Male,7,3rd,FALSE,2678,3,15,4,11
+BULUS,Nur al-'ayn,Female,10,3rd,FALSE,2678,3,15,4,11
+BULUS,Sultanah,Female,40,3rd,FALSE,2678,3,15,4,11
+BUNNELL,Wilfred James,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+BURGESS,Charles,Male,18,Crew,TRUE,NA,NA,NA,NA,NA
+BURKE,Jeremiah,Male,19,3rd,FALSE,365222,1,6,15,0
+BURKE,Richard Edward,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+BURKE,William,Male,39,Crew,TRUE,NA,NA,NA,NA,NA
+BURNS,Elizabeth Margaret,Female,41,Crew,TRUE,16966,5,134,10,0
+BURNS,Mary Delia,Female,15,3rd,FALSE,330963,1,7,17,7
+BURR,Ewart Sydenham,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+BURRAGE,Arthur Victor Edwards,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+BURROUGHS,Arthur Peckham,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+BURTON,Edward John,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+BUSS,Kate,Female,36,2nd,TRUE,27849,1,13,0,0
+BUTLER,Reginald Fenton,Male,25,2nd,FALSE,234686,1,13,0,0
+BUTRUS-KA'WI,Tannus,Male,21,3rd,FALSE,2648,1,7,4,7
+BUTT,Archibald Willingham,Male,46,1st,FALSE,113050,1,26,11,0
+BUTT,Robert Henry,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+BUTT,William John,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+BUTTERWORTH,John,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+BYLES,Thomas Roussel Davids,Male,42,2nd,FALSE,244310,1,13,0,0
+BYRNE,James Edward,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+BYSTROM,Karolina,Female,39,2nd,TRUE,236852,1,13,0,0
+CACIC,Manda,Female,21,3rd,FALSE,315087,1,8,13,3
+CACIC,Marija,Female,36,3rd,FALSE,315084,1,8,13,3
+CACIC,Jego Grga,Male,18,3rd,FALSE,315091,1,8,13,3
+CACIC,Luka,Male,38,3rd,FALSE,315089,1,8,13,3
+CAIRNS,Alexander Milne,Male,28,Crew,FALSE,113798,2,31,0,0
+CALDERHEAD,Edward Pennington,Male,42,1st,TRUE,17476,1,26,5,9
+CALDERWOOD,Hugh,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+CALDWELL,Alden Gates,Male,0,2nd,TRUE,248738,3,29,0,0
+CALDWELL,Albert Francis,Male,26,2nd,TRUE,248738,3,29,0,0
+CALDWELL,Sylvia Mae,Female,28,2nd,TRUE,248738,3,29,0,0
+CALIC,Jovo,Male,17,3rd,FALSE,315093,1,8,13,3
+CALIC,Petar,Male,17,3rd,FALSE,315086,1,8,13,3
+CAMERON,Clear Annie,Female,35,2nd,TRUE,13528,2,21,0,0
+CAMPBELL,Donald Samuel,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+CAMPBELL,William,Male,20,2nd,FALSE,239853,3,0,0,0
+CANAVAN,Mary,Female,22,3rd,FALSE,364846,1,7,15,0
+CANAVAN,Patrick,Male,21,3rd,FALSE,364858,1,7,15,0
+CANDEE,Helen Churchill,Female,52,1st,TRUE,17606,1,27,8,11
+CANN,Ernest,Male,29,3rd,FALSE,2152,1,8,1,0
+CANNER,John,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+CARAM,Joseph,Male,28,3rd,FALSE,2689,2,14,9,2
+CARAM,Maria Elias,Female,18,3rd,FALSE,2689,2,14,9,2
+CARBINES,William,Male,19,2nd,FALSE,28424,1,13,0,0
+CARDEZA,Thomas Drake Martinez,Male,36,1st,TRUE,17755,4,512,6,7
+CARDEZA,Charlotte Wardle,Female,58,1st,TRUE,17755,4,512,6,7
+CARLSSON,August Sigfrid,Male,28,3rd,FALSE,350042,1,7,15,11
+CARLSSON,Carl Robert,Male,24,3rd,FALSE,350409,1,7,17,1
+CARLSSON,Frans Olof,Male,33,1st,FALSE,695,1,5,0,0
+CARNEY,William,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+CARR,Jane,Female,45,3rd,FALSE,368364,1,7,15,0
+CARR,Richard Stephen,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+CARRAU-ESTEVES,Jose Pedro,Male,17,1st,FALSE,113059,2,47,2,0
+CARRAU,Francisco Mauro Severiano,Male,27,1st,FALSE,113059,2,47,2,0
+CARTER,William Thornton II,Male,11,1st,TRUE,113760,4,120,0,0
+CARTER,Lucile Polk,Female,14,1st,TRUE,113760,4,120,0,0
+CARTER,James,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+CARTER,William Ernest,Male,36,1st,TRUE,113760,4,120,0,0
+CARTER,Lilian,Female,45,2nd,FALSE,244252,2,26,0,0
+CARTER,Lucile,Female,36,1st,TRUE,113760,4,120,0,0
+CARTER,Ernest Courtenay,Male,54,2nd,FALSE,244252,2,26,0,0
+CARTWRIGHT,James Edward,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+CARVER,Alfred John,Male,27,3rd,FALSE,370160,1,7,5,0
+CASALI,Giulio,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+CASE,Howard Brown,Male,49,1st,FALSE,19924,1,26,0,0
+CASEY,Thomas,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+CASSEBEER,Eleanor Genevieve,Female,36,1st,TRUE,17770,1,27,14,5
+CASSWILL,Charles,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+CASTLEMAN,Edward,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+CATON,Annie,Female,33,Crew,TRUE,NA,NA,NA,NA,NA
+CAUNT,William Ewart,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+CAVE,Herbert,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+CAVELL,George Henry,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+CAVENDISH,Tyrell William,Male,36,1st,FALSE,19877,3,78,17,0
+CAVENDISH,Julia Florence,Female,25,1st,TRUE,19877,3,78,17,0
+CECIL,Charles Thomas,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+CELOTTI,Francesco,Male,24,3rd,FALSE,343275,1,8,1,0
+CHABOISSON,Adrien Firmin,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+CHAFFEE,Herbert Fuller,Male,46,1st,FALSE,5734,2,61,3,6
+CHAFFEE,Carrie Constance,Female,47,1st,TRUE,5734,2,61,3,6
+CHAMBERS,Norman Campbell,Male,27,1st,TRUE,113806,2,53,2,0
+CHAMBERS,Bertha,Female,32,1st,TRUE,113806,2,53,2,0
+CHAPMAN,Charles Henry,Male,51,2nd,FALSE,248731,1,13,10,0
+CHAPMAN,John Henry,Male,37,2nd,FALSE,29037,2,26,0,0
+CHAPMAN,Joseph Charles,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+CHAPMAN,Sarah Elizabeth,Female,30,2nd,FALSE,29037,2,26,0,0
+CHARMAN,John James,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+CHARTERS,David,Male,20,3rd,FALSE,13032,1,7,14,8
+CHAUDANSON,Victorine,Female,36,Crew,TRUE,17608,7,262,7,6
+CHERRETT,William Victor,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+CHERRY,Gladys,Female,30,1st,TRUE,110152,3,86,10,0
+CHEVERTON,William Frederick,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+CHEVRE,Paul Romaine Marie Leonce,Male,45,1st,TRUE,17594,1,29,14,0
+CHIBNALL,Edith Martha Bowerman,Female,48,1st,TRUE,113505,2,55,0,0
+CHIP,Chang,Male,32,3rd,TRUE,1601,8,56,9,11
+CHISHOLM,Roderick,Male,43,1st,FALSE,112051,1,0,0,0
+CHISNALL,George Alexander,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+CHITTY,Archibald George,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+CHITTY,George Henry,Male,50,Crew,FALSE,NA,NA,NA,NA,NA
+CHORLEY,John Henry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+CHRISTMANN,Emil,Male,29,3rd,FALSE,343276,1,8,1,0
+CHRISTMAS,Herbert Harry,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+CHRISTY,Rachel Juli Cohen,Female,25,2nd,TRUE,237789,2,30,0,0
+CHRISTY,Alice Frances,Female,52,2nd,TRUE,237789,2,30,0,0
+CHRONOPOULOS,Apostolos M.,Male,26,3rd,FALSE,2680,2,14,9,1
+CHRONOPOULOS,Dimitrios M.,Male,21,3rd,FALSE,2680,2,14,9,1
+CLARK,Walter Miller,Male,27,1st,FALSE,13508,2,136,15,7
+CLARK,William,Male,40,Crew,TRUE,NA,NA,NA,NA,NA
+CLARK,Virginia Estelle,Female,26,1st,TRUE,13508,2,136,15,7
+CLARKE,Charles Valentine,Male,29,2nd,FALSE,2003,1,26,0,0
+CLARKE,John Frederick Preston,Male,28,Crew,FALSE,250654,8,0,0,0
+CLARKE,Ada Maria,Female,28,2nd,TRUE,2003,1,27,0,0
+CLEAVER,Alice Catherine,Female,22,Crew,TRUE,113781,6,151,16,0
+CLENCH,Frederick Charles,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+CLENCH,George James,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+CLIFFORD,George Quincy,Male,40,1st,FALSE,110465,2,52,0,0
+COE,Harry,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+COELHO,Domingos Fernandeo,Male,20,3rd,FALSE,3101307,1,7,1,0
+COHEN,Gurshon,Male,19,3rd,TRUE,3540,1,8,1,0
+COLBERT,Patrick,Male,24,3rd,FALSE,371109,1,7,5,0
+COLEMAN,Albert Edward,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+COLEMAN,John,Male,57,Crew,FALSE,NA,NA,NA,NA,NA
+COLERIDGE,Reginald Charles,Male,29,2nd,FALSE,14263,1,10,10,0
+COLGAN,E. Joseph,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+COLLANDER,Erik Gustaf,Male,27,2nd,FALSE,248740,1,13,0,0
+COLLETT,Sidney Clarence Stuart,Male,25,2nd,TRUE,28034,1,10,10,0
+COLLEY,Edward Pomeroy,Male,37,1st,FALSE,5727,1,25,11,9
+COLLINS,John,Male,38,Crew,TRUE,NA,NA,NA,NA,NA
+COLLINS,John,Male,17,Crew,TRUE,NA,NA,NA,NA,NA
+COLLYER,Marjorie Lottie,Female,8,2nd,TRUE,31921,3,26,5,0
+COLLYER,Harvey,Male,31,2nd,FALSE,31921,3,26,5,0
+COLLYER,Charlotte Caroline,Female,30,2nd,TRUE,31921,3,26,5,0
+COMBES,George,Male,34,Crew,TRUE,NA,NA,NA,NA,NA
+COMPTON,Sara Rebecca,Female,39,1st,TRUE,17756,3,83,3,2
+COMPTON,Alexander Taylor jr,Male,37,1st,FALSE,17756,3,83,3,2
+COMPTON,Mary Eliza,Female,64,1st,TRUE,17756,3,83,3,2
+CONLIN,Thomas Henry,Male,31,3rd,FALSE,21332,1,7,14,8
+CONNAUGHTON,Michael,Male,40,3rd,FALSE,335097,1,7,15,0
+CONNOLLY,Catherine,Female,23,3rd,TRUE,370373,1,7,15,0
+CONNOLLY,Kate,Female,41,3rd,FALSE,330972,1,7,12,7
+CONNORS,Patrick,Male,66,3rd,FALSE,370369,1,7,15,0
+CONWAY,Percy Walter,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+COOK,Gilbert William,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+COOK,Jacob,Male,43,3rd,FALSE,3536,1,8,1,0
+COOK,Selena,Female,22,2nd,TRUE,14266,1,10,10,0
+COOMBS,Charles Augustus,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+COOPER,H.,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+COOPER,James Edward,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+COPPERTHWAITE,Albert Harry,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+COR,Bartol,Male,35,3rd,FALSE,349230,1,7,17,11
+COR,Ivan,Male,27,3rd,FALSE,349229,1,7,17,11
+COR,Liudevit,Male,19,3rd,FALSE,349231,1,7,17,11
+CORBEN,Ernest Theodore,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+CORBETT,Irene,Female,30,2nd,FALSE,237249,1,13,0,0
+CORCORAN,Dennis,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+COREY,Mary Emma,Female,32,2nd,FALSE,13534,2,21,0,0
+CORNAIRE,Marcel Raymond Andre,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+CORNBLATT,Harris,Male,30,3rd,FALSE,SOTON/OQ 392090,1,8,1,0
+CORNELL,Malvina Helen,Female,55,1st,TRUE,11770,1,25,14,10
+CORR,Ellen,Female,16,3rd,TRUE,367231,1,7,15,0
+COTTERILL,Henry,Male,21,2nd,FALSE,29107,1,11,10,0
+COTTON,Alfred,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+COUCH,Frank,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+COUCH,Joseph Henry,Male,49,Crew,FALSE,NA,NA,NA,NA,NA
+COUPER,Robert Frederick William,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+COUTIN,Auguste Louis,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+COUTTS,Neville Leslie,Male,3,3rd,TRUE,37671,3,15,18,0
+COUTTS,William Loch,Male,9,3rd,TRUE,37671,3,15,18,0
+COUTTS,Winnie,Female,36,3rd,TRUE,37671,3,15,18,0
+COX,William Denton,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+COXON,Daniel,Male,58,3rd,FALSE,364500,1,7,5,0
+COY,Francis Ernest George,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+CRABB,Henry James,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+CRAFTER,Frederick Horace,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+CRAFTON,John Bertram,Male,58,1st,FALSE,113791,1,26,11,0
+CRAWFORD,Alfred George,Male,43,Crew,TRUE,NA,NA,NA,NA,NA
+CREASE,Ernest James,Male,20,3rd,FALSE,3464,1,8,3,2
+CREESE,Henry Philip,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+CRIBB,Laura Mae,Female,16,3rd,TRUE,371362,2,16,2,0
+CRIBB,John Hatfield,Male,43,3rd,FALSE,371362,2,16,2,0
+CRIMMINS,James,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+CRISP,Albert Hector,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+CRISPIN,William,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+CROSBIE,John Borthwick,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+CROSBY,Edward Gifford,Male,70,1st,FALSE,5735,2,71,0,0
+CROSBY,Harriette Rebecca,Female,39,1st,TRUE,112901,1,26,11,0
+CROSBY,Catherine Elizabeth,Female,64,1st,TRUE,5735,2,71,0,0
+CROSS,William Alfred,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+CROVELLA,Paolo Luigi,Male,16,Crew,FALSE,NA,NA,NA,NA,NA
+CROWE,George Frederick,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+CRUMPLIN,Charles George Chandler,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+CULLEN,Charles James,Male,49,Crew,TRUE,NA,NA,NA,NA,NA
+CULUMOVIC,Jeso,Male,17,3rd,FALSE,315090,1,8,13,3
+CUMINGS,John Bradley,Male,39,1st,FALSE,17599,2,71,5,8
+CUMINGS,Florence Briggs,Female,35,1st,TRUE,17599,2,71,5,8
+CUNNINGHAM,Alfred Fleming,Male,21,2nd,FALSE,239853,3,0,0,0
+CUNNINGHAM,Andrew Orr,Male,38,Crew,TRUE,NA,NA,NA,NA,NA
+CUNNINGHAM,Bernard,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+CURTIS,Arthur,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+DAHIR,Tannus,Male,28,3rd,FALSE,2686,1,7,4,7
+DAHL,Charles Edward,Male,45,3rd,TRUE,7598,1,8,1,0
+DAHLBERG,Gerda Ulrika,Female,22,3rd,FALSE,7552,1,10,10,4
+DAKIC,Branko,Male,19,3rd,FALSE,349228,1,10,3,5
+DALY,Margaret,Female,33,3rd,TRUE,382650,1,6,19,0
+DALY,Eugene Patrick,Male,29,3rd,TRUE,382651,1,7,15,0
+DALY,Peter Dennis,Male,51,1st,TRUE,113055,1,26,11,0
+DANBOM,Gilbert Sigvard Emanuel,Male,0,3rd,FALSE,347080,3,14,8,0
+DANBOM,Ernst Gilbert,Male,34,3rd,FALSE,347080,3,14,8,0
+DANBOM,Anna Sigrid Maria,Female,28,3rd,FALSE,347080,3,14,8,0
+DANIEL,Robert Williams,Male,27,1st,TRUE,113804,1,30,10,0
+DANIELS,Sarah Rebecca,Female,36,Crew,TRUE,113781,6,151,16,0
+DANIELS,Sidney Edward,Male,18,Crew,TRUE,NA,NA,NA,NA,NA
+DASHWOOD,William George,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+DAVIDSON,Thornton,Male,31,1st,FALSE,12750,2,52,0,0
+DAVIDSON,Orian,Female,27,1st,TRUE,12750,2,52,0,0
+DAVIES,John Morgan jr,Male,8,2nd,TRUE,33112,4,36,15,0
+DAVIES,Alfred James,Male,24,3rd,FALSE,48871,3,24,3,0
+DAVIES,Charles Henry,Male,19,2nd,FALSE,14879,7,73,10,0
+DAVIES,Evan Lewis,Male,22,3rd,FALSE,23568,1,8,1,0
+DAVIES,Gordon Raleigh,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+DAVIES,John,Male,22,3rd,FALSE,48871,3,24,3,0
+DAVIES,Joseph,Male,17,3rd,FALSE,48873,1,8,1,0
+DAVIES,Robert J.,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+DAVIES,Thomas,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+DAVIES,Agnes,Female,48,2nd,TRUE,33112,4,36,15,0
+DAVIS,Mary Ann Charlotte,Female,28,2nd,TRUE,237668,1,13,0,0
+DAVIS,John,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+DAVIS,Stephen James,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+DAVISON,Thomas Henry,Male,32,3rd,FALSE,386525,2,16,2,0
+DAVISON,Mary Elizabeth,Female,34,3rd,TRUE,386525,2,16,2,0
+DAWSON,Joseph,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+DE MARSICO,Govanni,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+DE MESSEMAEKER,Guillaume Joseph,Male,36,3rd,TRUE,345572,2,17,8,0
+DE MESSEMAEKER,Anna,Female,36,3rd,TRUE,345572,2,17,8,0
+DE MULDER,Theodoor,Male,30,3rd,TRUE,345774,1,9,10,0
+DE PELSMAEKER,Alfons,Male,16,3rd,FALSE,345778,1,9,10,0
+DEACON,Percy William,Male,17,2nd,FALSE,14879,7,73,10,0
+DEAN,Bertram Vere,Male,1,3rd,TRUE,2315,4,20,11,6
+DEAN,Elizabeth Gladys Millvina,Female,0,3rd,TRUE,2315,4,20,11,6
+DEAN,Bertram Frank,Male,25,3rd,FALSE,2315,4,20,11,6
+DEAN,George Fox Hopkins,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+DEAN,Eva Georgetta,Female,32,3rd,TRUE,2315,4,20,11,6
+DEBREUCQ,Maurice Emile Victor,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+DEEBLE,Alfred Arnold,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+DEL CARLO,Sebastiano,Male,29,2nd,FALSE,2167,2,27,14,5
+DEL CARLO,Argene,Female,24,2nd,TRUE,2167,2,27,14,5
+DELALIC,Redjo,Male,25,3rd,FALSE,349250,1,7,17,11
+DENBUOY,Albert Joseph,Male,25,2nd,FALSE,31029,3,31,10,0
+DENKOV,Mityu,Male,30,3rd,FALSE,349225,1,7,17,11
+DENNIS,Samuel,Male,22,3rd,FALSE,21172,1,7,5,0
+DENNIS,William,Male,26,3rd,FALSE,21175,1,7,5,0
+DENOV,Yoto,Male,27,3rd,FALSE,349219,1,7,17,11
+DERRETT,Arthur Henry,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+DESLANDES,Percival Stainer,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+DESVERNINE,Louis Gabriel,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+DEVANEY,Margaret Bedelia,Female,20,3rd,TRUE,330958,1,7,17,7
+DIAPER,John Joseph,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+DIBDEN,William,Male,18,2nd,FALSE,14879,7,73,10,0
+DIBU,Ilyas,Male,29,3rd,FALSE,2674,1,7,4,6
+DICK,Albert Adrian,Male,31,1st,TRUE,17474,2,57,0,0
+DICK,Vera,Female,17,1st,TRUE,17474,2,57,0,0
+DICKSON,William,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+DIKA,Mirko,Male,17,3rd,FALSE,349232,1,7,17,11
+DILLON,Thomas Patrick,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+DIMIC,Jovan,Male,42,3rd,FALSE,315088,1,8,13,3
+DINCHEV,Vulcho,Male,43,3rd,FALSE,349226,1,7,17,11
+DINENAGE,James Richard,Male,49,Crew,FALSE,NA,NA,NA,NA,NA
+DODD,Edward Charles,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+DODD,George Charles,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+DODDS,Henry Watson,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+DODGE,Washington,Male,52,1st,TRUE,33638,3,81,17,2
+DODGE,Washington,Male,4,1st,TRUE,33638,3,81,17,2
+DODGE,Ruth,Female,38,1st,TRUE,33638,3,81,17,2
+DOEL,Frederick,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+DOHERTY,William John,Male,22,3rd,FALSE,330877,1,8,9,2
+DOLBY,Joseph,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+DOLING,Elsie,Female,18,2nd,TRUE,231919,2,23,0,0
+DOLING,Ada Julia Elizabeth,Female,34,2nd,TRUE,231919,2,23,0,0
+DONATI,Italo Francesco,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+DONOGHUE,Florence Thomas,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+DONOHOE,Bridget,Female,21,3rd,FALSE,364856,1,7,15,0
+DOOLY,Patrick,Male,37,3rd,FALSE,370376,1,7,15,0
+DORE,Albert James,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+DORKING,Edward Arthur,Male,18,3rd,TRUE,10482,1,8,1,0
+DORNIER,Louis Auguste,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+DOUGHTY,Walter Thomas,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+DOUGLAS,Walter Donald,Male,50,1st,FALSE,17761,3,106,8,6
+DOUGLAS,Mahala,Female,48,1st,TRUE,17761,3,106,8,6
+DOUGLAS,Mary Helene,Female,27,1st,TRUE,17558,3,247,10,5
+DOUTON,William Joseph,Male,55,2nd,FALSE,28403,2,26,0,0
+DOWDELL,Elizabeth,Female,31,3rd,TRUE,364516,2,12,9,6
+DOYLE,Elizabeth,Female,28,3rd,FALSE,368702,1,7,15,0
+DOYLE,Laurence,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+DRAZENOVIC,Jozef,Male,33,3rd,FALSE,349241,1,7,17,11
+DREW,Marshall Brines,Male,8,2nd,TRUE,28220,3,32,10,0
+DREW,James Vivian,Male,42,2nd,FALSE,28220,3,32,10,0
+DREW,Maria Louisa Thorne,Female,34,2nd,TRUE,28220,3,32,10,0
+DRISCOLL,Bridget,Female,27,3rd,TRUE,14311,1,7,15,0
+DROPKIN,Jennie,Female,24,3rd,TRUE,392083,1,8,1,0
+DUFF GORDON,Lucy Christiana,Male,48,1st,TRUE,17485,2,56,18,7
+DUFF GORDON,Cosmo Edmund,Male,49,1st,TRUE,11755,1,39,12,0
+DUFFY,William Luke,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+DULLES,William Crothers,Male,39,1st,FALSE,17580,1,29,14,0
+DUNFORD,William,Male,48,Crew,FALSE,NA,NA,NA,NA,NA
+DUQUEMIN,Joseph Pierre,Male,24,3rd,TRUE,752,1,7,11,0
+DURAN I MONE,Asuncion,Female,27,2nd,TRUE,2149,1,13,17,2
+DURAN I MONE,Florentina,Female,30,2nd,TRUE,2148,1,13,17,2
+DWAN,Frank,Male,65,3rd,FALSE,336439,1,7,15,0
+DYER,Henry Ryland,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+DYER,William Henry,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+DYKER,Adolf Fredrik,Male,23,3rd,FALSE,347072,2,13,18,0
+DYKER,Anna Elisabeth Judith,Female,22,3rd,TRUE,347072,2,13,18,0
+DYMOND,Frank,Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+EAGLE,Alfred James Jacob,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+EARNSHAW,Olive,Female,23,1st,TRUE,11767,3,83,3,2
+EASTMAN,Charles,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+EDBROOKE,Francis Samuel Jacob,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+EDE,George Bulkeley,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+EDGE,Frederick William,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+EDVARDSSON,Gustaf Hjalmar,Male,18,3rd,FALSE,349912,1,7,15,6
+EDWARDS,Charles Essex,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+EGG,William Henry,Male,48,Crew,FALSE,NA,NA,NA,NA,NA
+EITEMILLER,George Floyd,Male,25,2nd,FALSE,29751,1,13,0,0
+EKLUND,Hans Linus,Male,16,3rd,FALSE,347074,1,7,15,6
+EKSTROM,Johan,Male,45,3rd,FALSE,347061,1,6,19,6
+ELIAS NASRALLAH,Tannous,Male,22,3rd,FALSE,2695,1,7,4,7
+ELIAS,Joseph,Male,39,3rd,FALSE,2675,1,7,4,7
+ELIAS,Joseph jr.,Male,15,3rd,FALSE,2690,1,7,4,7
+ELLIOTT,Everett Edward,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+ELLIS,John Bertie,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+ELSBURY,William James,Male,48,3rd,FALSE,3902,1,7,5,0
+EMANUEL,Virginia Ethel,Female,6,3rd,TRUE,364516,2,12,9,6
+ENANDER,Ingvar,Male,21,2nd,FALSE,236854,1,13,0,0
+ENDRES,Caroline Louise,Female,39,Crew,TRUE,17757,5,247,10,6
+ENNIS,Walter,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+ERVINE,Albert George,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+ESTANISLAU,Manuel Goncalves,Male,37,3rd,FALSE,3101306,1,7,1,0
+ETCHES,Henry Samuel,Male,43,Crew,TRUE,NA,NA,NA,NA,NA
+EUSTIS,Elizabeth Mussey,Female,54,1st,TRUE,36947,2,78,5,4
+EVANS,Edith Corse,Female,36,1st,FALSE,17531,1,31,13,7
+EVANS,Alfred Frank,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+EVANS,Frank Oliver,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+EVANS,George Richard,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+EVANS,William Thomas,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+EVERETT,Thomas James,Male,37,3rd,FALSE,6212,2,15,2,0
+FAHLSTROM,Arne Joma,Male,18,2nd,FALSE,236171,1,13,0,0
+FAIRALL,Henry Charles,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+FARDON,Charles Richard,Male,46,3rd,FALSE,3101314,1,7,5,0
+FARENDEN,Ernest John,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+FARQUHARSON,William Edward,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+FARRELL,James,Male,26,3rd,FALSE,367232,1,7,15,0
+FARTHING,John,Male,48,Crew,FALSE,17483,4,221,15,7
+FAULKNER,William Stephen,Male,37,Crew,TRUE,NA,NA,NA,NA,NA
+FAUNTHORPE,Harry Bartram,Male,31,2nd,FALSE,2926,2,26,0,0
+FAY,Thomas Joseph,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+FEI,Carlo,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+FELLOWES,Alfred James,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+FELTHAM,George William,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+FERRARY,Antonio,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+FERRIS,William,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+FILLBROOK,Joseph Charles,Male,18,2nd,FALSE,15185,1,10,10,0
+FINCH,Henry Herman,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+FINOLI,Luigi,Male,41,3rd,TRUE,3101308,1,7,1,0
+FIORAVANTE,Giuseppe Bertoldo,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+FISCHER,Eberhard Thelander,Male,18,3rd,FALSE,350036,1,7,15,11
+FITZPATRICK,Cecil William,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+FITZPATRICK,Hugh Joseph,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+FLAHERTY,Edward,Male,52,Crew,TRUE,NA,NA,NA,NA,NA
+FLEET,Frederick,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+FLEGENHEIM,Antoinette,Female,48,1st,TRUE,17598,1,31,13,8
+FLEMING,Honor,Female,22,3rd,FALSE,364859,1,7,15,0
+FLEMING,Margaret,Female,42,Crew,TRUE,17421,4,110,17,8
+FLETCHER,Percy William,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+FLYNN,James,Male,28,3rd,FALSE,364851,1,7,15,0
+FLYNN,John,Male,48,3rd,FALSE,368323,1,6,19,0
+FLYNN,John Irwin,Male,36,1st,TRUE,PC 14474,1,26,5,9
+FOLEY,John,Male,46,Crew,TRUE,NA,NA,NA,NA,NA
+FOLEY,Joseph,Male,19,3rd,FALSE,330910,1,7,17,7
+FOLEY,Wilfred Cyril,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+FOLEY,William,Male,20,3rd,FALSE,365235,1,7,15,0
+FOO,Choong,Male,32,3rd,TRUE,1601,8,56,9,11
+FORD,Dollina Margaret,Female,20,3rd,FALSE,6608,5,34,7,6
+FORD,Robina Maggie,Female,7,3rd,FALSE,6608,5,34,7,6
+FORD,Arthur,Male,23,3rd,FALSE,1478,1,8,1,0
+FORD,Edward Watson,Male,18,3rd,FALSE,6608,5,34,7,6
+FORD,Ernest,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+FORD,Francis,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+FORD,H.,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+FORD,Thomas,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+FORD,William Neal Thomas,Male,14,3rd,FALSE,6608,5,34,7,6
+FORD,Margaret Ann Watson,Female,54,3rd,FALSE,6608,5,34,7,6
+FOREMAN,Benjamin Laventall,Male,30,1st,FALSE,113051,1,27,15,0
+FORTUNE,Alice Elizabeth,Female,24,1st,TRUE,19950,6,263,0,0
+FORTUNE,Ethel Flora,Female,28,1st,TRUE,19950,6,263,0,0
+FORTUNE,Mabel Helen,Female,23,1st,TRUE,19950,6,263,0,0
+FORTUNE,Charles Alexander,Male,19,1st,FALSE,19950,6,263,0,0
+FORTUNE,Mark,Male,64,1st,FALSE,19950,6,263,0,0
+FORTUNE,Mary,Female,60,1st,TRUE,19950,6,263,0,0
+FORWARD,James,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+FOSTER,Alfred Charles,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+FOX,Patrick,Male,28,3rd,FALSE,368573,1,7,15,0
+FOX,Stanley Harrington,Male,38,2nd,FALSE,229236,1,13,0,0
+FOX,William Thomas,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+FRANCATELLI,Laura Mabel,Female,31,Crew,TRUE,17485,2,56,18,7
+FRANKLIN,Alan Vincent,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+FRANKLIN,Thomas Parnham,Male,37,1st,FALSE,113778,1,26,11,0
+FRASER,J.,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+FRASER,James,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+FRAUENTHAL,Henry William,Male,49,1st,TRUE,17611,2,133,13,0
+FRAUENTHAL,Isaac Gerald,Male,43,1st,TRUE,17765,1,27,14,5
+FRAUENTHAL,Clara,Female,42,1st,TRUE,17611,2,133,13,0
+FREDERICKS,Walter Francis,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+FREEMAN,Ernest Edward Samuel,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+FROLICHER-STEHLI,Maximilian Josef,Male,60,1st,TRUE,13567,2,79,4,0
+FROLICHER-STEHLI,Margaretha Emerentia,Female,48,1st,TRUE,13567,2,79,4,0
+FROLICHER,Hedwig Margaritha,Female,22,1st,TRUE,13568,1,49,10,0
+FROST,Anthony Wood,Male,38,2nd,FALSE,239854,1,0,0,0
+FRY,Richard Thomas,Male,39,Crew,FALSE,112058,2,0,0,0
+FRYER,Albert Ernest,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+FUNK,Annie Clemmer,Female,38,2nd,FALSE,237671,1,13,0,0
+FUTRELLE,Jacques Heath,Male,37,1st,FALSE,113803,2,53,2,0
+FUTRELLE,Lily May,Female,35,1st,TRUE,113803,2,53,2,0
+FYNNEY,Joseph J.,Male,36,2nd,FALSE,239865,2,26,0,0
+GALE,Harry,Male,37,2nd,FALSE,28664,2,21,0,0
+GALE,Shadrach,Male,33,2nd,FALSE,28664,2,21,0,0
+GALLAGHER,Martin,Male,29,3rd,FALSE,36864,1,7,14,10
+GARFIRTH,John,Male,21,3rd,FALSE,358585,2,14,10,0
+GARSIDE,Ethel,Female,39,2nd,TRUE,243880,1,13,0,0
+GASKELL,William Alfred,Male,19,2nd,FALSE,239865,2,26,0,0
+GATTI,Gaspare Antonio Pietro,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+GAVEY,Laurence,Male,26,2nd,FALSE,31028,1,10,10,0
+GEDDES,Richard Charles,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+GEE,Arthur H.,Male,47,1st,FALSE,111320,1,38,10,0
+GEER,Alfred Emest,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+GEORGIEV,Stenyu,Male,NA,3rd,FALSE,349254,1,7,17,11
+GIBBONS,Jacob William,Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+GIBSON,Dorothy Winifred,Female,22,1st,TRUE,112378,2,59,8,0
+GIBSON,Pauline Caroline,Female,45,1st,TRUE,112378,2,59,8,0
+GIEGER,Amalie Henriette,Female,35,Crew,TRUE,113503,5,211,10,0
+GIGLIO,Victor Gaitan Andrea,Male,23,Crew,FALSE,17593,2,79,4,0
+GILARDINO,Vincenzo Pio,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+GILBERT,William,Male,46,2nd,FALSE,30769,1,10,10,0
+GILES,Edgar,Male,18,2nd,FALSE,28133,1,11,10,0
+GILES,Frederick Edward,Male,20,2nd,FALSE,28134,1,11,10,0
+GILES,John Robert,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+GILES,Ralph,Male,24,2nd,FALSE,248726,1,13,10,0
+GILINSKI,Eliezer,Male,23,3rd,FALSE,14973,1,8,1,0
+GILL,John,Male,24,2nd,FALSE,233866,1,13,0,0
+GILL,Joseph Stanley,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+GILL,Patrick,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+GILLESPIE,William Henry,Male,31,2nd,FALSE,12233,1,13,0,0
+GILNAGH,Kate,Female,17,3rd,TRUE,35851,1,7,14,8
+GIVARD,Hans Kristensen,Male,27,2nd,FALSE,250646,1,13,0,0
+GLYNN,Mary Agatha,Female,18,3rd,TRUE,335677,1,7,15,0
+GODLEY,George Auguste,Male,38,Crew,TRUE,NA,NA,NA,NA,NA
+GODWIN,Frederick Charles,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+GOLD,Jane Kate Coulson,Female,45,Crew,TRUE,NA,NA,NA,NA,NA
+GOLDENBERG,Samuel Levi,Male,47,1st,TRUE,17453,2,89,2,1
+GOLDENBERG,Nella Carlynne,Female,46,1st,TRUE,17453,2,89,2,1
+GOLDER,Martin William,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+GOLDSCHMIDT,George B.,Male,71,1st,FALSE,17754,1,34,13,1
+GOLDSMITH,Frank John William,Male,9,3rd,TRUE,363291,3,20,10,6
+GOLDSMITH,Frank John,Male,33,3rd,FALSE,363291,3,20,10,6
+GOLDSMITH,Nathan,Male,41,3rd,FALSE,3101263,1,7,17,0
+GOLDSMITH,Emily Alice,Female,31,3rd,TRUE,363291,3,20,10,6
+GOLLOP,Percival Salisbury,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+GOODWIN,Harold Victor,Male,10,3rd,FALSE,2144,8,46,18,0
+GOODWIN,Sidney Leslie,Male,1,3rd,FALSE,2144,8,46,18,0
+GOODWIN,William Frederick,Male,13,3rd,FALSE,2144,8,46,18,0
+GOODWIN,Jessie Allis Mary,Female,12,3rd,FALSE,2144,8,46,18,0
+GOODWIN,Lillian Augusta,Female,16,3rd,FALSE,2144,8,46,18,0
+GOODWIN,Charles Edward,Male,14,3rd,FALSE,2144,8,46,18,0
+GOODWIN,Frederick Joseph,Male,42,3rd,FALSE,2144,8,46,18,0
+GOODWIN,Augusta,Female,43,3rd,FALSE,2144,8,46,18,0
+GORDON,J.,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+GOREE,Frank,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+GOSHAWK,Alfred James,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+GOSLING,Bertram James,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+GOSLING,Frank Henry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+GRACIE,Archibald,Male,53,1st,TRUE,113780,1,28,10,0
+GRADIDGE,Ernest Edward,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+GRAHAM,Margaret Edith,Female,19,1st,TRUE,17582,3,153,9,3
+GRAHAM,George Edward,Male,38,1st,FALSE,112053,1,30,0,0
+GRAHAM,Thomas Gibson,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+GRAHAM,Edith,Female,58,1st,TRUE,17582,3,153,9,3
+GREEN,George,Male,41,3rd,FALSE,21440,1,8,1,0
+GREEN,George,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+GREENBERG,Samuel,Male,51,2nd,FALSE,250647,2,13,0,0
+GREENFIELD,William Bertram,Male,23,1st,TRUE,17759,2,63,7,2
+GREENFIELD,Blanche,Female,45,1st,TRUE,17759,2,63,7,2
+GREGORY,David,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+GREGSON,Mary Josephine,Female,45,Crew,TRUE,NA,NA,NA,NA,NA
+GRONNESTAD,Daniel Danielsen,Male,32,3rd,FALSE,8471,1,8,6,15
+GROSCLAUDE,Gerald,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+GUEST,Charles Robert,Male,24,3rd,FALSE,376563,1,8,1,0
+GUGGENHEIM,Benjamin,Male,46,1st,FALSE,17593,2,79,4,0
+GUMERY,George,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+GUNN,Joseph Alfred,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+GUSTAFSSON,Alfred Ossian,Male,19,3rd,FALSE,7534,1,9,16,11
+GUSTAFSSON,Anders Vilhelm,Male,37,3rd,FALSE,3101276,1,7,18,6
+GUSTAFSSON,Johan Birger,Male,28,3rd,FALSE,3101277,1,7,18,6
+GUSTAFSSON,Karl Gideon,Male,19,3rd,FALSE,347069,1,7,15,6
+GUY,Elgar John,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+GWINN,William Logan,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+HAAS,Aloisia,Female,24,3rd,FALSE,349236,1,8,17,0
+HAGGAN,John,Male,35,Crew,TRUE,NA,NA,NA,NA,NA
+HAGLAND,Ingvald Olai Olsen,Male,28,3rd,FALSE,65303,1,6,19,4
+HAGLAND,Konrad Mathias Reiersen,Male,19,3rd,FALSE,65304,1,6,19,4
+HAINES,Albert,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+HAKKARAINEN,Pekka Pietari,Male,28,3rd,FALSE,3101279,2,15,17,0
+HAKKARAINEN,Elin Matilda,Female,24,3rd,TRUE,3101279,2,15,17,0
+HALE,Reginald,Male,31,2nd,FALSE,250653,1,13,0,0
+HALFORD,Richard,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+HALL,Frank Alfred James,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+HALL,J.,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+HALLETT,George Alexander,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+HAMALAINEN,Viljo Unto Johannes,Male,1,2nd,TRUE,250649,2,14,10,0
+HAMALAINEN,Anna Lydia Amanda,Female,23,2nd,TRUE,250649,2,14,10,0
+HAMBLYN,Ernest William,Male,47,Crew,FALSE,NA,NA,NA,NA,NA
+HAMILTON,Ernest,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+HAMPE,Leon Jerome,Male,19,3rd,FALSE,345769,1,9,10,0
+HANDS,Bernard,Male,54,Crew,FALSE,NA,NA,NA,NA,NA
+HANNA AL-HAJ,Mansur,Male,35,3rd,FALSE,2693,1,7,4,7
+HANNA,Mubarik Sulayman Abi Asi,Male,27,3rd,TRUE,2663,1,7,4,7
+HANNAM,George,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+HANSEN,Claus Peter,Male,41,3rd,FALSE,350026,2,14,2,2
+HANSEN,Henry Damsgaard,Male,20,3rd,FALSE,350029,1,7,17,1
+HANSEN,Jens Henrik Marius Juul,Male,25,3rd,FALSE,350025,1,7,17,1
+HANSEN,Jennie Louise,Female,45,3rd,TRUE,350026,2,14,2,2
+HARBECK,William H.,Male,45,2nd,FALSE,248746,1,13,0,0
+HARDER,George Achilles,Male,25,1st,TRUE,11765,2,55,8,10
+HARDER,William,Male,39,Crew,TRUE,NA,NA,NA,NA,NA
+HARDER,Dorothy,Female,21,1st,TRUE,11765,2,55,8,10
+HARDING,Alfred John,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+HARDWICK,Reginald,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+HARDY,John,Male,40,Crew,TRUE,NA,NA,NA,NA,NA
+HARGADON,Kate,Female,17,3rd,FALSE,30631,1,7,14,8
+HARKNETT,Alice Phoebe,Female,21,3rd,FALSE,6609,1,7,11,0
+HARPER,Annie Jessie,Female,6,2nd,TRUE,248727,3,33,0,0
+HARPER,Henry Sleeper,Male,48,1st,TRUE,17572,3,76,14,7
+HARPER,Myra Raymond,Female,49,1st,TRUE,17572,3,76,14,7
+HARPER,John,Male,39,2nd,FALSE,248727,3,33,0,0
+HARRINGTON,Charles Henry,Male,37,Crew,FALSE,113796,2,42,8,0
+HARRIS,Amos,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+HARRIS,Charles William,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+HARRIS,Clifford Henry,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+HARRIS,Edward John,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+HARRIS,Edward Matthew,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+HARRIS,Fred,Male,39,Crew,TRUE,NA,NA,NA,NA,NA
+HARRIS,George,Male,62,2nd,TRUE,752,1,10,10,0
+HARRIS,Henry Burkhardt,Male,45,1st,FALSE,36973,2,83,9,6
+HARRIS,Walter,Male,45,2nd,FALSE,14208,1,10,10,0
+HARRIS,Irene,Female,35,1st,TRUE,36973,2,83,9,6
+HARRISON,Aragoa Drummond,Male,40,Crew,TRUE,NA,NA,NA,NA,NA
+HARRISON,Norman E.,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+HARRISON,William Henry,Male,45,Crew,FALSE,112059,1,0,0,0
+HART,Eva Miriam,Female,7,2nd,TRUE,13529,3,26,5,0
+HART,Benjamin,Male,47,2nd,FALSE,13529,3,26,5,0
+HART,Henry,Male,29,3rd,FALSE,394140,1,6,17,2
+HART,James,Male,54,Crew,FALSE,NA,NA,NA,NA,NA
+HART,John Edward,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+HART,Emily Esther Louisa,Female,48,2nd,TRUE,13529,3,26,5,0
+HARTLEY,Wallace Henry,Male,33,Crew,FALSE,250654,8,0,0,0
+HARTNELL,Fred,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+HARVEY,Herbert Gifford,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+HASSAB,Hammad,Male,27,Crew,TRUE,17572,3,76,14,7
+HATCH,Hugh,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+HAWKESWORTH,James,Male,52,Crew,FALSE,NA,NA,NA,NA,NA
+HAWKESWORTH,William Walter,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+HAWKSFORD,Walter James,Male,45,1st,TRUE,16988,1,30,0,0
+HAYS,Margaret Bechstein,Female,24,1st,TRUE,11767,3,83,3,2
+HAYS,Charles Melville,Male,55,1st,FALSE,12749,4,93,10,0
+HAYS,Clara Jennings,Female,52,1st,TRUE,12749,4,93,10,0
+HAYTER,Arthur,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+HEAD,Alfred,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+HEAD,Christopher,Male,42,1st,FALSE,113038,1,42,10,0
+HEALY,Honor,Female,33,3rd,TRUE,370375,1,7,15,0
+HEBB,William Albert Thomas,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+HEDMAN,Oskar Arvid,Male,27,3rd,TRUE,347089,1,6,19,6
+HEE,Ling,Male,24,3rd,TRUE,1601,8,56,9,11
+HEGARTY,Hanora,Female,20,3rd,FALSE,365226,1,6,15,0
+HEIKKINEN,Laina Maria,Female,16,3rd,TRUE,3101282,1,7,18,6
+HEINEN,Joseph Dominichus,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+HEININEN,Wendla Maria,Female,23,3rd,FALSE,3101290,1,7,18,6
+HELLSTROM,Hilda Maria,Female,22,3rd,TRUE,7548,1,8,19,3
+HEMMING,Samuel Ernest,Male,43,Crew,TRUE,NA,NA,NA,NA,NA
+HENDEKOVIC,Ignjac,Male,30,3rd,FALSE,349243,1,7,17,11
+HENDRICKSON,Charles Osker,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+HENDY,Edward Martin,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+HENRIKSSON,Jenny Lovisa,Female,28,3rd,FALSE,347086,1,7,15,6
+HENRY,Bridget,Female,22,3rd,FALSE,382649,1,7,15,0
+HENSFORD,Herbert George Ernest,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+HERMAN,Alice,Female,24,2nd,TRUE,220845,5,65,0,0
+HERMAN,Kate,Female,24,2nd,TRUE,220845,5,65,0,0
+HERMAN,Samuel,Male,50,2nd,FALSE,220845,5,65,0,0
+HERMAN,Jane,Female,50,2nd,TRUE,220845,5,65,0,0
+HESKETH,John Henry,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+HESLIN,James,Male,51,Crew,FALSE,NA,NA,NA,NA,NA
+HEWITT,Thomas,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+HEWLETT,Mary Dunbar,Female,56,2nd,TRUE,248706,1,16,0,0
+HICHENS,Robert,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+HICKMAN,Leonard Mark,Male,24,2nd,FALSE,14879,7,73,10,0
+HICKMAN,Lewis,Male,30,2nd,FALSE,14879,7,73,10,0
+HICKMAN,Stanley George,Male,21,2nd,FALSE,14879,7,73,10,0
+HILL,Henry Parkinson,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+HILL,James,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+HILL,James Colston,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+HILLIARD,Herbert Henry,Male,44,1st,FALSE,17463,2,51,17,3
+HILTUNEN,Martta Maria,Female,18,2nd,FALSE,250650,1,13,0,0
+HINCKLEY,George Herbert,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+HINE,William Edward,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+HINTON,Stephen William,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+HIPKINS,William Edward,Male,55,1st,FALSE,680,1,50,0,0
+HIPPACH,Gertrude Isabelle,Female,17,1st,TRUE,111361,2,57,19,7
+HIPPACH,Ida Sophia,Female,44,1st,TRUE,111361,2,57,19,7
+HIRVONEN,Hildur Elisabeth,Female,2,3rd,TRUE,3101298,2,12,5,9
+HIRVONEN,Helga Elisabeth Lindqvist,Female,22,3rd,TRUE,3101298,2,12,5,9
+HISCOCK,Sydney George,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+HOARE,Leonard James,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+HOCKING,Ellen,Female,20,2nd,TRUE,29105,2,23,0,0
+HOCKING,Richard George,Male,23,2nd,FALSE,29104,1,11,10,0
+HOCKING,Samuel James Metcalfe,Male,36,2nd,FALSE,242963,1,13,0,0
+HOCKING,Eliza,Female,54,2nd,TRUE,29105,2,23,0,0
+HODGE,Charley,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+HODGES,Henry Price,Male,50,2nd,FALSE,250643,1,13,0,0
+HODGES,W.,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+HODGKINSON,Leonard,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+HOGAN,Albert John,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+HOGEBOOM,Anna Louisa,Female,51,1st,TRUE,13502,3,77,19,2
+HOGG,Charles William,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+HOGG,George Alfred,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+HOGUE,E.,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+HOLD,Stephen,Male,44,2nd,FALSE,26707,2,26,0,0
+HOLD,Annie Margaret,Female,29,2nd,TRUE,26707,2,26,0,0
+HOLLAND,Thomas,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+HOLLOWAY,Sidney,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+HOLM,John Fredrik Alexander,Male,43,3rd,FALSE,7075,1,6,9,0
+HOLMAN,Harry,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+HOLTEN,Johan Martin,Male,18,3rd,FALSE,4001,3,22,10,6
+HOLVERSON,Alexander Oskar,Male,42,1st,FALSE,113789,2,52,0,0
+HOLVERSON,Mary Alice,Female,35,1st,TRUE,113789,2,52,0,0
+HOMER,Harry Haven,Male,40,1st,TRUE,111426,1,26,11,0
+HONKANEN,Eliina,Female,28,3rd,TRUE,3101283,1,7,18,6
+HOOD,Ambrose,Male,21,2nd,FALSE,14879,7,73,10,0
+HOPGOOD,Roland John C.,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+HOPKINS,Frederick William,Male,14,Crew,FALSE,NA,NA,NA,NA,NA
+HOPKINS,Robert John,Male,43,Crew,TRUE,NA,NA,NA,NA,NA
+HORGAN,John,Male,22,3rd,FALSE,370377,1,7,15,0
+HORSWILL,Albert Edward James,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+HOSGOOD,Richard William,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+HOSKING,George Fox,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+HOSONO,Masabumi,Male,41,2nd,TRUE,237798,1,13,0,0
+HOUSE,William John,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+HOWARD,May Elizabeth,Female,26,3rd,TRUE,39186,1,8,1,0
+HOWARD,Benjamin,Male,63,2nd,FALSE,24065,2,26,0,0
+HOWARD,Ellen Truelove,Female,61,2nd,FALSE,24065,2,26,0,0
+HOWELL,Arthur Albert,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+HOYT,Frederick Maxfield,Male,38,1st,TRUE,19943,2,100,0,0
+HOYT,William Fisher,Male,43,1st,FALSE,17600,1,30,13,11
+HOYT,Jane Anne,Female,33,1st,TRUE,19943,2,100,0,0
+HUGHES,William Thomas,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+HUMBLEN,Adolf Mathias Nicolai Olsen,Male,42,3rd,FALSE,348121,1,7,13,0
+HUMBY,Frederick,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+HUME,John Law,Male,21,Crew,FALSE,250654,8,0,0,0
+HUMPHREYS,Humphrey,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+HUMPHREYS,Sidney,Male,52,Crew,TRUE,NA,NA,NA,NA,NA
+HUNT,Albert Sylvanus,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+HUNT,George Henry,Male,34,2nd,FALSE,1585,1,12,5,6
+HUNT,Tom,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+HURST,Charles John,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+HURST,Walter,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+HUTCHINSON,James,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+HUTCHINSON,John Hall,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+HYLAND,Leo James,Male,19,Crew,TRUE,NA,NA,NA,NA,NA
+HYMAN,Joseph Abraham,Male,31,3rd,TRUE,3470,1,7,17,9
+IBRAHIM-SHAWAH,Yusuf Hani,Male,33,3rd,FALSE,2627,2,14,9,2
+IBRAHIM,Husayn Mahmud Husayn,Male,11,3rd,FALSE,2699,2,18,15,9
+IBRAHIM,Safiyah,Female,18,3rd,TRUE,2657,1,7,4,7
+ICARD,Rose Amelie,Female,39,Crew,TRUE,113572,2,80,0,0
+IDE,Harry John,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+ILETT,Bertha,Female,17,2nd,TRUE,14885,1,10,10,0
+ILIEV,Ilyo,Male,32,3rd,FALSE,349220,1,7,17,11
+ILMAKANGAS,Ida Livija,Female,17,3rd,FALSE,3101270,1,7,18,6
+ILMAKANGAS,Pieta Sofia,Female,25,3rd,FALSE,3101271,1,7,18,6
+INGRAM,George,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+INGROUILLE,Henry,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+INGS,William Ernest,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+INSTANCE,Thomas,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+ISHAM,Ann Elizabeth,Female,50,1st,FALSE,17595,1,28,14,3
+ISMAY,Joseph Bruce,Male,49,1st,TRUE,112058,2,0,0,0
+IVYANOV,Kostya,Male,20,3rd,FALSE,349201,1,7,17,11
+JABBUR (ZABOUR),Hileni,Female,16,3rd,FALSE,2665,2,14,9,1
+JABBUR (ZABOUR),Thamine,Female,19,3rd,FALSE,2665,2,14,9,1
+JACKOPSON,John Henry,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+JACKSON,Cecil,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+JACOBSEN,Gunhilde Oline 'Lena',Female,63,3rd,FALSE,65305,1,8,2,3
+JACOBSOHN,Sidney Samuel,Male,42,2nd,FALSE,243847,2,27,0,0
+JACOBSOHN,Amy Frances Christy,Female,24,2nd,TRUE,243847,2,27,0,0
+JAGO,Joseph,Male,59,Crew,FALSE,NA,NA,NA,NA,NA
+JAILLET,Henri Marie,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+JALSEVAC,Ivan,Male,30,3rd,TRUE,349240,1,7,17,11
+JAMES,Thomas,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+JANAWAY,William Frank,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+JANIN,Claude Marie,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+JANSSON,Carl Olof,Male,21,3rd,TRUE,350034,1,7,15,11
+JARDIM,Jose Neto,Male,21,3rd,FALSE,3101305,1,7,1,0
+JARVIS,Denzil John,Male,46,2nd,FALSE,237565,1,15,0,0
+JEFFERY,William Alfred,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+JEFFERYS,Clifford Thomas,Male,24,2nd,FALSE,31029,3,31,10,0
+JEFFERYS,Ernest Wilfred,Male,21,2nd,FALSE,31029,3,31,10,0
+JENKIN,Stephen Curnow,Male,32,2nd,FALSE,33111,1,10,10,0
+JENNER,Thomas Henry (Harry),Male,55,Crew,FALSE,NA,NA,NA,NA,NA
+JENSEN,Charles Valdemar,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+JENSEN,Hans Peder,Male,20,3rd,FALSE,350050,1,7,17,1
+JENSEN,Niels Rasmus,Male,48,3rd,FALSE,350048,1,7,1,1
+JENSEN,Svend Lauritz,Male,16,3rd,FALSE,350047,1,7,17,1
+JERMYN,Annie Jane,Female,26,3rd,TRUE,14313,1,7,15,0
+JERWAN,Marie Marthe,Female,23,2nd,TRUE,541,1,13,15,10
+JESSOP,Violet Constance,Female,24,Crew,TRUE,NA,NA,NA,NA,NA
+JEWELL,Archie,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+JOAS,N.,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+JOHANNESEN,Bernt Johannes,Male,29,3rd,TRUE,65306,1,8,2,3
+JOHANSON,Jakob Alfred,Male,34,3rd,FALSE,3101264,1,6,9,11
+JOHANSSON,Erik,Male,22,3rd,FALSE,350052,1,7,15,11
+JOHANSSON,Gustaf Joel,Male,33,3rd,FALSE,7540,1,8,13,1
+JOHANSSON,Karl Johan,Male,31,3rd,FALSE,347063,1,7,15,6
+JOHANSSON,Nils,Male,30,3rd,FALSE,347467,1,7,17,1
+JOHANSSON,Oscar Wilhelm,Male,32,3rd,TRUE,347079,1,7,15,6
+JOHNSON,Harold Theodor,Male,4,3rd,TRUE,347742,3,11,2,8
+JOHNSON,Eleanor Ileen,Female,1,3rd,TRUE,347742,3,11,2,8
+JOHNSON,August,Male,49,3rd,FALSE,370160,5,0,0,0
+JOHNSON,Malkolm Joackim,Male,33,3rd,FALSE,347062,1,7,15,6
+JOHNSON,William Cahoone Jr.,Male,19,3rd,FALSE,370160,5,0,0,0
+JOHNSON,Aliina Vilhelmina,Female,27,3rd,TRUE,347742,3,11,2,8
+JOHNSTON,William Andrew,Male,8,3rd,FALSE,6607,4,23,9,0
+JOHNSTON,Catherine Nellie,Female,7,3rd,FALSE,6607,4,23,9,0
+JOHNSTON,Andrew Emslie,Male,35,3rd,FALSE,6607,4,23,9,0
+JOHNSTON,Eliza,Female,36,3rd,FALSE,6607,4,23,9,0
+JOHNSTONE,James,Male,52,Crew,TRUE,NA,NA,NA,NA,NA
+JONES,Albert Hugh Brabner,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+JONES,Arthur Ernest,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+JONES,Charles Cresson,Male,46,1st,FALSE,694,1,26,0,0
+JONES,Harry Owen Glendower,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+JONES,Thomas William,Male,34,Crew,TRUE,NA,NA,NA,NA,NA
+JONES,Victor Reginald,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+JONSSON,Karl,Male,25,3rd,TRUE,350417,1,7,17,1
+JONSSON,Nils Hilding,Male,27,3rd,FALSE,350408,1,7,17,1
+JOUANNAULT,Georges Jules,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+JOUGHIN,Charles John,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+JUDD,Charles Edward,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+JUKES,Henry James,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+JULIAN,Henry Forbes,Male,50,1st,FALSE,113044,1,26,0,0
+JUPE,Boykett Herbert,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+JUSSILA,Katriina,Female,20,3rd,FALSE,4136,1,9,16,10
+JUSSILA,Mari Aina,Female,21,3rd,FALSE,4137,1,9,16,10
+JUSSILA,Eiriik,Male,32,3rd,TRUE,3101286,1,7,18,6
+KALLIO,Nikolai Erland,Male,17,3rd,FALSE,3101274,1,7,2,6
+KALVIK,Johannes Halvorsen,Male,21,3rd,FALSE,8475,1,8,8,8
+KANTOR,Sinai,Male,34,2nd,FALSE,244367,2,26,0,0
+KANTOR,Miriam,Female,24,2nd,TRUE,244367,2,26,0,0
+KARAJIC,Milan,Male,30,3rd,FALSE,349246,1,7,17,11
+KARLSSON,Einar Gervasius,Male,21,3rd,TRUE,350053,1,7,15,11
+KARLSSON,Julius Konrad Eugen,Male,33,3rd,FALSE,347465,1,7,17,1
+KARLSSON,Nils August,Male,22,3rd,FALSE,350060,1,7,10,5
+KARNES,Claire,Female,22,2nd,FALSE,13534,2,21,0,0
+KARUN,Manca,Female,5,3rd,TRUE,349256,2,13,8,4
+KARUN,Franz,Male,39,3rd,TRUE,349256,2,13,8,4
+KASPER,F.,Male,40,Crew,TRUE,NA,NA,NA,NA,NA
+KATAVELOS,Vasilios G.,Male,19,3rd,FALSE,2682,1,7,4,7
+KEANE,Nora Agnes,Female,46,2nd,TRUE,226593,1,12,7,0
+KEANE,Andrew,Male,23,3rd,FALSE,12460,1,7,15,0
+KEANE,Daniel,Male,35,2nd,FALSE,233734,1,12,7,0
+KEARL,Charles Henry,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+KEARL,George Edward,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+KEEGAN,James,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+KEEN,Percy Edward,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+KEEPING,Edwin Herbert,Male,33,Crew,FALSE,113503,5,211,10,0
+KELLAND,Thomas,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+KELLY,Anna Katherine,Female,20,3rd,TRUE,9234,1,7,15,0
+KELLY,Mary,Female,22,3rd,TRUE,14312,1,7,15,0
+KELLY,James,Male,19,3rd,FALSE,363592,1,8,1,0
+KELLY,James,Male,44,3rd,FALSE,330911,1,7,16,7
+KELLY,James,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+KELLY,William Patrick,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+KELLY,Fanny Maria,Female,49,2nd,TRUE,223596,1,13,10,0
+KEMISH,George,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+KEMP,Thomas Hulman,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+KENNEDY,John,Male,24,3rd,TRUE,368783,1,7,15,0
+KENNELL,Charles,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+KENT,Edward Austin,Male,58,1st,FALSE,11771,1,29,14,0
+KENYON,Frederick Roland,Male,41,1st,FALSE,17464,2,51,17,3
+KENYON,Marion Estelle,Female,40,1st,TRUE,17464,2,51,17,3
+KENZLER,August,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+KERLEY,William Thomas,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+KERR,Thomas Russell,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+KETCHLEY,Henry,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+KHALIL 'ATTA ALLAH,Sulayman,Male,27,3rd,FALSE,2672,1,7,4,6
+KHALIL,Betros,Male,25,3rd,FALSE,2660,2,14,9,1
+KHALIL,Zahie,Female,20,3rd,FALSE,2660,2,14,9,1
+KIERAN,Edgar Michael,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+KIERAN,James William,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+KIERNAN,John Joseph,Male,26,3rd,FALSE,367227,1,7,15,0
+KIERNAN,Philip,Male,22,3rd,FALSE,367229,1,7,15,0
+KILGANNON,Thomas,Male,21,3rd,FALSE,36865,1,7,14,9
+KIMBALL,Edwin Nelson Jr.,Male,42,1st,TRUE,11753,2,52,11,1
+KIMBALL,Susan Gertrude,Female,45,1st,TRUE,11753,2,52,11,1
+KINCHENTEN,Frederick Charles,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+KING,Alfred John Moffett,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+KING,Ernest Waldron,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+KING,Thomas Walter,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+KINGSCOTE,William Ford,Male,48,Crew,FALSE,NA,NA,NA,NA,NA
+KINK-HEILMANN,Luise Gretchen,Female,4,3rd,TRUE,315153,3,22,0,6
+KINK-HEILMANN,Luise,Female,26,3rd,TRUE,315153,3,22,0,6
+KINK,Maria,Female,23,3rd,FALSE,315152,1,8,13,3
+KINK,Anton,Male,29,3rd,TRUE,315153,3,22,0,6
+KINK,Vincenz,Male,26,3rd,FALSE,315151,1,8,13,3
+KINSELLA,Louis,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+KIRKALDY,Thomas Benjamin,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+KIRKHAM,James,Male,43,Crew,FALSE,NA,NA,NA,NA,NA
+KIRKLAND,Charles Leonard,Male,71,2nd,FALSE,219533,1,12,7,0
+KITCHING,Arthur Alfred,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+KLABER,Herman,Male,41,1st,FALSE,113028,1,26,11,0
+KLASEN,Gertrud Emilia,Female,1,3rd,FALSE,350405,2,12,3,8
+KLASEN,Klas Albin,Male,18,3rd,FALSE,350404,1,7,17,1
+KLASEN,Hulda Kristina Eugenia,Female,36,3rd,FALSE,350405,2,12,3,8
+KLEIN,Herbert,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+KNIGHT,George,Male,46,Crew,TRUE,NA,NA,NA,NA,NA
+KNIGHT,Leonard George,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+KNIGHT,Robert,Male,42,2nd,FALSE,239855,1,0,0,0
+KNOWLES,Thomas,Male,44,Crew,TRUE,NA,NA,NA,NA,NA
+KOLEV,Petr,Male,36,3rd,FALSE,349210,1,7,17,11
+KOLEV,Sotir,Male,24,3rd,FALSE,349209,1,7,17,11
+KRAEFF,Theodor,Male,NA,3rd,FALSE,349253,1,7,17,11
+KREKORIAN,Neshan,Male,25,3rd,TRUE,2654,1,7,4,7
+KREUCHEN,Emilie,Female,29,Crew,TRUE,24160,3,211,6,9
+KRINS,Georges Alexandre,Male,23,Crew,FALSE,250654,8,0,0,0
+KUTSCHER (LITHMAN),Simon,Male,27,3rd,FALSE,251,1,7,11,0
+KVILLNER,Johan Henrik Johannesson,Male,31,2nd,FALSE,18723,1,10,10,0
+LACEY,Bertie William,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+LAHHUD ISHAQ MU'AWWAD,Sarkis,Male,35,3rd,FALSE,2624,1,7,4,6
+LAHTINEN,Anna Amelia,Female,34,2nd,FALSE,250651,2,26,0,0
+LAHTINEN,William,Male,35,2nd,FALSE,250651,2,26,0,0
+LAHY,T.,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+LAITINEN,Kristina Sofia,Female,38,3rd,FALSE,4135,1,9,11,9
+LAKE,William,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+LAM,Ali,Male,38,3rd,TRUE,1601,8,56,9,11
+LAM,Len,Male,23,3rd,FALSE,1601,8,56,9,11
+LAMB,John J.,Male,31,2nd,FALSE,240261,1,10,14,2
+LANDERGREN,Aurora Adelia,Female,22,3rd,TRUE,7077,1,7,5,0
+LANE,Albert Edward,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+LANE,Patrick,Male,16,3rd,FALSE,7935,1,7,15,0
+LANG,Fang,Male,32,3rd,TRUE,1601,8,56,9,11
+LAROCHE,Louise,Female,1,2nd,TRUE,2123,4,41,11,7
+LAROCHE,Simonne Marie Anne Andree,Female,3,2nd,TRUE,2123,4,41,11,7
+LAROCHE,Joseph Philippe Lemercier,Male,25,2nd,FALSE,2123,4,41,11,7
+LAROCHE,Juliette Marie Louise,Female,22,2nd,TRUE,2123,4,41,11,7
+LARSSON,August Viktor,Male,29,3rd,FALSE,7545,1,9,9,8
+LARSSON,Bengt Edvin,Male,29,3rd,FALSE,347067,1,7,15,6
+LATIMER,Andrew,Male,55,Crew,FALSE,NA,NA,NA,NA,NA
+LAVINGTON,Elizabeth,Female,40,Crew,TRUE,NA,NA,NA,NA,NA
+LAWRANCE,Arthur,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+LEADER,Alice May,Female,49,1st,TRUE,17465,1,25,18,7
+LEADER,Archibald,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+LEATHER,Elizabeth Mary,Female,50,Crew,TRUE,NA,NA,NA,NA,NA
+LEE,Henry Reginald,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+LEE,Herbert Henry,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+LEE,Reginald Robinson,Male,41,Crew,TRUE,NA,NA,NA,NA,NA
+LEFEBVRE,Henry,Male,5,3rd,FALSE,4133,5,25,9,4
+LEFEBVRE,Ida,Female,3,3rd,FALSE,4133,5,25,9,4
+LEFEBVRE,Jeannie,Female,8,3rd,FALSE,4133,5,25,9,4
+LEFEBVRE,Mathilde,Female,12,3rd,FALSE,4133,5,25,9,4
+LEFEBVRE,Paul Georges,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+LEFEBVRE,Frances Marie,Female,40,3rd,FALSE,4133,5,25,9,4
+LEHMANN,Bertha,Female,17,2nd,TRUE,1748,1,12,0,0
+LEINONEN,Antti Gustaf,Male,32,3rd,FALSE,3101292,1,7,18,6
+LEITCH,Jessie Wills,Female,31,2nd,TRUE,248727,3,33,0,0
+LEMORE,Amelia,Female,39,2nd,TRUE,34260,1,10,10,0
+LENNON,Denis,Male,20,3rd,FALSE,370371,2,15,10,0
+LEONARD,Matthew,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+LEROY,Berthe,Female,27,Crew,TRUE,17761,3,106,8,6
+LESTER,James,Male,41,3rd,FALSE,48871,3,24,3,0
+LESUEUR,Louis Gustave Joseph,Male,35,Crew,TRUE,17755,4,512,6,7
+LEVETT,George Alfred,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+LEVY,Rene Jacques,Male,36,2nd,FALSE,2163,1,12,17,6
+LEWIS,Arthur Ernest Read,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+LEWY,Ervin G.,Male,30,1st,FALSE,17612,1,27,14,5
+LEYSON,Robert William Norman,Male,25,2nd,FALSE,29566,1,10,10,0
+LIEVENS,Rene Aime,Male,24,3rd,FALSE,345781,1,9,10,0
+LIGHT,Charles Edward,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+LIGHT,Christopher William,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+LIGHT,W.,Male,47,Crew,FALSE,NA,NA,NA,NA,NA
+LIGHTOLLER,Charles Herbert,Male,38,Crew,TRUE,NA,NA,NA,NA,NA
+LIND,Erik Gustaf,Male,42,1st,FALSE,17475,1,26,11,0
+LINDAHL,Agda Thorilda Viktoria,Female,25,3rd,FALSE,347071,1,7,15,6
+LINDBLOM,Augusta Charlotta,Female,45,3rd,FALSE,347073,1,7,15,0
+LINDELL,Edvard Bengtsson,Male,36,3rd,FALSE,349910,2,15,11,0
+LINDELL,Elin Gerda,Female,30,3rd,FALSE,349910,2,15,11,0
+LINDQVIST,Eino William,Male,20,3rd,TRUE,3101285,1,7,18,6
+LINDSAY,William Charles,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+LINDSTROM,Sigrid,Female,55,1st,TRUE,112377,1,27,14,5
+LINEHAN,Michael,Male,21,3rd,FALSE,330971,1,7,17,7
+LINES,Mary Conover,Female,16,1st,TRUE,17592,2,39,8,0
+LINES,Elizabeth Lindsey,Female,50,1st,TRUE,17592,2,39,8,0
+LING,Lee,Male,28,3rd,FALSE,1601,8,56,9,11
+LINGANE,John,Male,61,2nd,FALSE,235509,1,12,7,0
+LINHART,Wenzel,Male,28,3rd,FALSE,345775,1,9,10,0
+LITTLEJOHN,Alexander James,Male,40,Crew,TRUE,NA,NA,NA,NA,NA
+LIVSHIN,David,Male,25,3rd,FALSE,374887,1,7,5,0
+LLOYD,Humphrey,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+LLOYD,William,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+LOBB,William Arthur,Male,31,3rd,FALSE,3336,2,16,2,0
+LOBB,Cordelia,Female,34,3rd,FALSE,3336,2,16,2,0
+LOCKE,Albert George,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+LOCKYER,Edward Thomas,Male,19,3rd,FALSE,1222,1,7,17,7
+LONG,Frank,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+LONG,Milton Clyde,Male,29,1st,FALSE,113501,1,30,0,0
+LONG,William,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+LONGLEY,Gretchen Fiske,Female,21,1st,TRUE,13502,3,77,19,2
+LONGMUIR,John Dickson,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+LORING,Joseph Holland,Male,30,1st,FALSE,113801,1,45,10,0
+LOUCH,Charles,Male,50,2nd,FALSE,3085,2,26,0,0
+LOUCH,Alice Adelaide,Female,42,2nd,TRUE,3085,2,26,0,0
+LOVELL,John,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+LOVELL,John Hall,Male,20,3rd,FALSE,21173,1,7,5,0
+LOWE,Harold Godfrey,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+LUCAS,William Arthur,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+LUCAS,William Watson,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+LULIC,Nikola,Male,29,3rd,TRUE,315098,1,8,13,3
+LUNDAHL,Johan Svensson,Male,50,3rd,FALSE,347743,1,7,1,1
+LUNDIN,Olga Elida,Female,23,3rd,TRUE,347469,1,7,17,1
+LUNDSTROM,Thure Edvin,Male,32,3rd,TRUE,350403,1,7,11,7
+LURETTE,Eugenie Elise,Female,59,Crew,TRUE,17569,3,146,10,5
+LYDIATT,Charles,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+LYMPEROPOULUS,Panagiotis K.,Male,30,3rd,FALSE,2683,1,6,8,9
+LYNTAKOFF,Stanko,Male,44,3rd,FALSE,349235,1,7,17,11
+LYONS,William Henry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+MABEY,John Charles,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+MACK,Mary,Female,57,2nd,FALSE,S.O./C. 3,1,10,10,0
+MACKAY,George William,Male,20,3rd,FALSE,42795,1,7,11,0
+MACKIE,George William,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+MACKIE,William Dickson,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+MADIGAN,Margaret,Female,21,3rd,TRUE,370370,1,7,15,0
+MADILL,Georgette Alexandra,Female,16,1st,TRUE,24160,3,211,6,9
+MADSEN,Fridtjof Arne,Male,24,3rd,TRUE,17369,1,7,2,10
+MAENPAA,Matti Alexanteri,Male,22,3rd,FALSE,3101275,1,7,2,6
+MAGUIRE,John Edward,Male,30,1st,FALSE,110469,1,26,0,0
+MAHON,Bridget Delia,Female,20,3rd,FALSE,330924,1,7,17,7
+MAIONI,Roberta Elizabeth Mary,Female,20,Crew,TRUE,110152,3,86,10,0
+MAJOR,Thomas Edgar,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+MAJOR,William James,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+MAKINEN,Kalle Edvard,Male,29,3rd,FALSE,3101268,1,7,18,6
+MALACHARD,Jean-Noel,Male,25,2nd,FALSE,237735,1,15,0,11
+MALLET,Andre Clement,Male,1,2nd,TRUE,2079,3,37,0,1
+MALLET,Albert Denis Pierre,Male,45,2nd,FALSE,2079,3,37,0,1
+MALLET,Antonine Marie,Female,24,2nd,TRUE,2079,3,37,0,1
+MAMA,Hanna Mika'il,Male,20,3rd,TRUE,2677,1,7,4,7
+MANGAN,Mary,Female,32,3rd,FALSE,364850,1,7,15,0
+MANGIAVACCHI,Emilio Giovanni Andrea Onorato,Male,47,2nd,FALSE,32861,1,15,11,7
+MANNION,Margaret,Female,28,3rd,TRUE,36866,1,7,14,9
+MANTLE,Roland Frederick,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+MARCH,John Starr,Male,50,Crew,FALSE,NA,NA,NA,NA,NA
+MARDIROSIAN,Sarkis,Male,25,3rd,FALSE,2655,1,7,4,7
+MARECHAL,Pierre,Male,29,1st,TRUE,11774,1,29,14,0
+MARETT,George John,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+MARINKO,Dmitri,Male,23,3rd,FALSE,349238,1,7,17,11
+MARKOFF,Marin,Male,35,3rd,FALSE,349213,1,7,17,11
+MARKS,James,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+MARKUN,Johann,Male,33,3rd,FALSE,349257,1,7,17,11
+MARRIOTT,John William,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+MARSDEN,Evelyn,Female,28,Crew,TRUE,NA,NA,NA,NA,NA
+MARSH,Frederick Charles,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+MARTIN,Mabel Elvina,Female,20,Crew,TRUE,NA,NA,NA,NA,NA
+MARTIN,Annie Martha,Female,39,Crew,TRUE,NA,NA,NA,NA,NA
+MARVIN,Daniel Warner,Male,18,1st,FALSE,113773,2,53,2,0
+MARVIN,Mary Graham Carmichael,Female,18,1st,TRUE,113773,2,53,2,0
+MASKELL,Leopold Adolphus,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+MASON,Frank Archibald Robert,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+MASON,J.,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+MATHERSON,David,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+MATHIAS,Montague Vincent,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+MATINOFF,Nicola,Male,30,3rd,FALSE,349255,1,7,17,11
+MATTHEWS,William John,Male,23,2nd,FALSE,28228,1,13,0,0
+MATTMANN,Adolf,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+MAUGE,Paul Achille Maurice Germain,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+MAXWELL,John,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+MAY,Arthur William,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+MAY,Arthur William,Male,59,Crew,FALSE,NA,NA,NA,NA,NA
+MAYBERY,Frank Hubert,Male,36,2nd,FALSE,239059,1,16,0,0
+MAYNARD,Isaac Hiram,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+MAYNE,Berthe Antonine,Female,24,1st,TRUE,17482,1,49,10,1
+MAYO,William Peter,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+MAYTUM,Alfred,Male,53,Crew,FALSE,NA,NA,NA,NA,NA
+MAYZES,Thomas Jubilee,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+MCANDREW,Thomas Patrick,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+MCANDREWS,William,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+MCCAFFRY,Thomas Francis,Male,46,1st,FALSE,13050,2,75,4,10
+MCCARTHY,Catherine,Female,24,3rd,TRUE,383123,1,7,15,0
+MCCARTHY,Frederick James,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+MCCARTHY,Timothy John,Male,54,1st,FALSE,17463,2,51,17,3
+MCCARTHY,William,Male,48,Crew,TRUE,NA,NA,NA,NA,NA
+MCCASTLIN,William,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+MCCAWLEY,Thomas W.,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+MCCORMACK,Thomas Joseph,Male,19,3rd,TRUE,367228,1,7,15,0
+MCCOY,Agnes,Female,29,3rd,TRUE,367226,3,23,5,0
+MCCOY,Alice,Female,26,3rd,TRUE,367226,3,23,5,0
+MCCOY,Bernard,Male,24,3rd,TRUE,367226,3,23,5,0
+MCCRAE,Arthur Gordon,Male,32,2nd,FALSE,237216,1,13,10,0
+MCCRIE,James Matthew,Male,32,2nd,FALSE,233478,1,13,0,0
+MCDERMOTT,Bridget Delia,Female,31,3rd,TRUE,330932,1,7,15,8
+MCELROY,Hugh Walter,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+MCEVOY,Michael,Male,20,3rd,FALSE,36568,2,15,10,0
+MCGANN,James,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+MCGARVEY,Edward Joseph,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+MCGAW,Erroll Victor,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+MCGOUGH,George Francis 'Paddy',Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+MCGOUGH,James Robert,Male,35,1st,TRUE,17473,1,26,5,9
+MCGOVERN,Mary,Female,20,3rd,TRUE,330931,1,7,17,7
+MCGOWAN,Anna Louise,Female,17,3rd,TRUE,330923,1,8,0,7
+MCGOWAN,Catherine,Female,42,3rd,FALSE,9232,1,7,15,0
+MCGRADY,James,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+MCINERNEY,Thomas,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+MCINTYRE,William,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+MCKANE,Peter Daniel,Male,46,2nd,FALSE,28403,2,26,0,0
+MCKAY,Charles Donald,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+MCLAREN,Hypatia,Female,42,Crew,TRUE,NA,NA,NA,NA,NA
+MCMAHON,Martin,Male,19,3rd,FALSE,370372,1,7,15,0
+MCMICKEN,Arthur,Male,26,Crew,TRUE,NA,NA,NA,NA,NA
+MCMICKEN,Benjamin Tucker,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+MCMULLIN,John Richard,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+MCMURRAY,William,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+MCNAMEE,Neal,Male,27,3rd,FALSE,376566,2,16,2,0
+MCNAMEE,Eileen,Female,19,3rd,FALSE,376566,2,16,2,0
+MCNEILL,Bridget,Female,32,3rd,FALSE,370368,1,7,15,0
+MCQUILLAN,William,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+MCRAE,William Alexander,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+MCREYNOLDS,William Thomas Carson,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+MEANWELL,Marian,Female,62,3rd,FALSE,392087,1,8,1,0
+MEEHAN,John,Male,22,3rd,FALSE,3130,1,7,15,0
+MEEK,Annie Louisa,Female,32,3rd,FALSE,343095,1,8,1,0
+MEISNERE,Simon,Male,34,3rd,FALSE,2816,1,8,1,0
+MELLINGER,Violet Madeline,Female,13,2nd,TRUE,250644,2,19,10,0
+MELLINGER,Elizabeth Anne,Female,42,2nd,TRUE,250644,2,19,10,0
+MELLOR,Arthur,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+MELLORS,William John,Male,19,2nd,TRUE,SW/PP 751,1,10,10,0
+MEO (MARTINO),Alfonzo,Male,48,3rd,FALSE,11206,1,8,1,0
+MERNAGH,Robert,Male,28,3rd,FALSE,368703,1,7,15,0
+MEYER,August,Male,31,2nd,FALSE,248723,1,13,0,0
+MEYER,Edgar Joseph,Male,28,1st,FALSE,17604,2,82,3,5
+MEYER,Leila,Female,25,1st,TRUE,17604,2,82,3,5
+MIDDLETON,Alfred Pirrie,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+MIDDLETON,Mark Victor,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+MIDTSJO,Karl Albert,Male,21,3rd,TRUE,345501,1,7,15,6
+MIHOFF,Stoytcho,Male,28,3rd,FALSE,349207,1,7,17,11
+MILES,Frank,Male,23,3rd,FALSE,359306,1,8,1,0
+MILFORD,George,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+MILLAR,Robert,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+MILLAR,Thomas,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+MILLET,Francis Davis,Male,65,1st,FALSE,13509,1,26,11,0
+MILLING,Jacob Christian,Male,48,2nd,FALSE,234360,1,13,0,0
+MILLS,Christopher,Male,51,Crew,TRUE,NA,NA,NA,NA,NA
+MINAHAN,William Edward,Male,44,1st,FALSE,19928,3,90,0,0
+MINAHAN,Ida Daisy,Female,33,1st,TRUE,19928,3,90,0,0
+MINAHAN,Lillian Mae,Female,37,1st,TRUE,19928,3,90,0,0
+MINEFF,Ivan,Male,24,3rd,FALSE,349233,1,7,17,11
+MINKOFF,Lazar,Male,21,3rd,FALSE,349211,1,7,17,11
+MINTRAM,William,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+MISH'ALANI,Ibrahim Mansur,Male,53,Crew,FALSE,NA,NA,NA,NA,NA
+MITCHELL,Henry Michael,Male,71,2nd,FALSE,24580,1,10,10,0
+MITCHELL,Lorenzo Horace,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+MITKOFF,Mito,Male,23,3rd,FALSE,349221,1,7,17,11
+MOCK,Philipp Edmund,Male,30,1st,TRUE,13236,2,57,15,0
+MOCKLER,Ellen Mary,Female,23,3rd,TRUE,330980,1,7,17,7
+MOEN,Sigurd Hansen,Male,27,3rd,FALSE,348123,1,7,13,0
+MOLSON,Harry Markland,Male,55,1st,FALSE,113787,1,30,10,0
+MONROS,Joan Javier,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+MONTEVERDI,Giovanni,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+MONTVILA,Juozas,Male,27,2nd,FALSE,211536,1,13,0,0
+MOODY,James Paul,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+MOOR,Meier,Male,7,3rd,TRUE,392096,2,12,9,6
+MOOR,Beila,Female,29,3rd,TRUE,392096,2,12,9,6
+MOORE,Alfred Ernest,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+MOORE,Clarence,Male,47,1st,FALSE,113796,2,42,8,0
+MOORE,George Alfred,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+MOORE,J.,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+MOORE,Leonard Charles,Male,19,3rd,FALSE,54510,1,8,1,0
+MOORE,Ralph,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+MOORES,Richard Henry,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+MORAN,Bridget,Female,28,3rd,TRUE,371110,3,24,3,0
+MORAN,Daniel J.,Male,28,3rd,FALSE,371110,3,24,3,0
+MORAWECK,Ernest,Male,54,2nd,FALSE,29011,1,14,0,0
+MORGAN (BIRD),Charles Frederick,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+MORGAN,Arthur Herbert,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+MORGAN,Thomas A.,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+MORLEY,Henry Samuel,Male,38,2nd,FALSE,250655,2,26,0,0
+MORLEY,William,Male,34,3rd,FALSE,364506,1,8,1,0
+MORRIS,Frank Herbert,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+MORRIS,William Edward,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+MORROW,Thomas Rowan,Male,31,3rd,FALSE,372622,1,7,15,0
+MOSS,Albert Johan,Male,29,3rd,TRUE,312991,1,7,15,6
+MOSS,William,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+MOUSSA,Mantoura Boulos,Female,35,3rd,TRUE,2626,1,7,4,7
+MOUTAL,Rahamin Haim,Male,28,3rd,FALSE,374746,1,8,1,0
+MOYES,William Young,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+MUBARIK,Halim,Male,4,3rd,TRUE,2661,3,15,4,11
+MUBARIK,Jirjis,Male,7,3rd,TRUE,2661,3,15,4,11
+MUBARIK,Aminah,Female,25,3rd,TRUE,2661,3,15,4,11
+MUDD,Thomas Cupper,Male,16,2nd,FALSE,S.O./P.P 3,1,10,10,0
+MULLER,Ludwig,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+MULLIN,Catherine,Female,21,3rd,TRUE,35852,1,7,14,8
+MULLIN,Mary,Female,18,3rd,FALSE,370371,2,15,10,0
+MULLIN,Thomas,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+MULVIHILL,Bridget Elizabeth,Female,25,3rd,TRUE,382653,1,7,15,0
+MURDLIN,Joseph,Male,22,3rd,FALSE,3235,1,8,1,0
+MURDOCH,William McMaster,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+MURDOCK,William John,Male,37,Crew,TRUE,NA,NA,NA,NA,NA
+MURPHY,Catherine,Female,18,3rd,TRUE,367230,2,15,10,0
+MURPHY,Margaret,Female,25,3rd,TRUE,367230,2,15,10,0
+MURPHY,Nora,Female,31,3rd,TRUE,36568,2,15,10,0
+MUSLAMANI,Fatimah Muhammad,Female,22,3rd,TRUE,2649,1,7,4,6
+MYHRMAN,Pehr Fabian Oliver Malkolm,Male,18,3rd,FALSE,347078,1,7,15,0
+MYLES,Thomas Francis,Male,63,2nd,FALSE,240276,1,9,13,9
+NAIDENOFF,Penko,Male,22,3rd,FALSE,349206,1,7,17,11
+NAJIB QIYAMAH,Adal,Female,15,3rd,TRUE,2667,1,7,4,6
+NAKHLI,Toufik,Male,17,3rd,FALSE,2641,1,7,4,7
+NAKID,Mariayam,Female,1,3rd,TRUE,2653,3,15,14,10
+NAKID,Sa'id Antun,Male,20,3rd,TRUE,2653,3,15,14,10
+NAKID,Wadi'ah,Female,19,3rd,TRUE,2653,3,15,14,10
+NANCARROW,William Henry,Male,36,3rd,FALSE,3338,1,8,1,0
+NANKOFF,Minko,Male,32,3rd,FALSE,349218,1,7,17,11
+NANNINI,Francesco Luigi Arcangelo,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+NASR 'ALMA,Mustafa,Male,20,3rd,FALSE,2652,1,7,4,7
+NASR ALLAH,Niqula Khalil,Male,29,2nd,FALSE,237736,2,30,1,5
+NASR ALLAH,Adal,Female,17,2nd,TRUE,237736,2,30,1,5
+NASR ALLAH,Zad,Female,45,3rd,TRUE,2696,1,7,4,6
+NASR-RIZQ,Su'adah Hanna,Male,20,3rd,FALSE,2676,1,7,4,6
+NATSCH,Charles,Male,36,1st,FALSE,17596,1,29,14,0
+NAUGHTON,Hannah,Female,21,3rd,FALSE,365237,1,7,15,0
+NAVRATIL,Edmond Roger,Male,2,2nd,TRUE,230080,3,26,0,0
+NAVRATIL,Michel Marcel,Male,3,2nd,TRUE,230080,3,26,0,0
+NAVRATIL,Michel,Male,31,2nd,FALSE,230080,3,26,0,0
+NEAL,Harold Bentley,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+NENKOV,Hristo,Male,22,3rd,FALSE,349234,1,7,17,11
+NESSON,Israel,Male,26,2nd,FALSE,244368,1,13,0,0
+NETTLETON,George Walter,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+NEWELL,Madeleine,Female,31,1st,TRUE,35273,3,113,5,6
+NEWELL,Marjorie Anne,Female,23,1st,TRUE,35273,3,113,5,6
+NEWELL,Arthur Webster,Male,58,1st,FALSE,35273,3,113,5,6
+NEWMAN,Charles Thomas,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+NEWSOM,Helen Monypeny,Female,19,1st,TRUE,11752,1,26,5,8
+NICHOLLS,Joseph Charles,Male,19,2nd,FALSE,33112,4,36,15,0
+NICHOLLS,Sidney,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+NICHOLS,Albert William Stanley,Male,47,Crew,FALSE,NA,NA,NA,NA,NA
+NICHOLS,Arthur,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+NICHOLS,Walter Henry,Male,35,Crew,TRUE,NA,NA,NA,NA,NA
+NICHOLSON,Arthur Ernest,Male,59,1st,FALSE,693,1,26,0,0
+NIEMINEN,Manta Josefina,Female,29,3rd,FALSE,3101297,1,7,18,6
+NIKLASSON,Samuel,Male,28,3rd,FALSE,363611,1,8,1,0
+NILSSON,Berta Olivia,Female,18,3rd,TRUE,347066,1,7,15,6
+NILSSON,Helmina Josefina,Female,26,3rd,TRUE,347470,1,7,17,1
+NILSSON,August Ferdinand,Male,21,3rd,FALSE,350410,1,7,17,1
+NIQULA YARID,Ilyas,Male,11,3rd,TRUE,2651,2,11,4,10
+NIQULA YARID,Jamilah,Female,14,3rd,TRUE,2651,2,11,4,10
+NISKANEN,Juho,Male,NA,3rd,TRUE,3101289,1,7,18,6
+NIVEN,John Brown,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+NOFAL,Mansouer,Male,20,3rd,FALSE,2697,1,7,4,7
+NOON,John Thomas,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+NORMAN,Robert Douglas,Male,27,2nd,FALSE,218629,1,13,10,0
+NORRIS,James,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+NOSS,Bertram Arthur,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+NOSS,Henry,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+NOSWORTHY,Richard Cater,Male,21,3rd,FALSE,39886,1,7,16,0
+NOURNEY,Alfred,Male,20,1st,TRUE,2166,1,13,17,3
+NUTBEAN,William,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+NYE,Elizabeth,Female,29,2nd,TRUE,29395,1,10,10,0
+NYSTEN,Anna Sofia,Female,22,3rd,TRUE,347081,1,7,15,0
+NYSVEEN,Johannes Hansen,Male,60,3rd,FALSE,345364,1,6,4,9
+O'BRIEN,Denis,Male,22,3rd,FALSE,330979,1,7,16,7
+O'BRIEN,Thomas,Male,26,3rd,FALSE,370365,2,15,10,0
+O'BRIEN,Hannah,Female,27,3rd,TRUE,370365,2,15,10,0
+O'CONNELL,Patrick Denis,Male,18,3rd,FALSE,334912,1,7,14,8
+O'CONNOR,John,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+O'CONNOR,Maurice,Male,15,3rd,FALSE,371060,1,7,15,0
+O'CONNOR,Patrick,Male,23,3rd,FALSE,366713,1,7,15,0
+O'CONNOR,Thomas Peter,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+O'DWYER,Ellen,Female,22,3rd,TRUE,330959,1,7,17,7
+O'KEEFE,Arthur,Male,44,3rd,FALSE,323592,1,7,5,0
+O'KEEFFE,Patrick,Male,21,3rd,TRUE,368402,1,7,15,0
+O'LEARY,Hanora,Female,16,3rd,TRUE,330919,1,7,16,7
+O'LOUGHLIN,William Francis Norman,Male,63,Crew,FALSE,NA,NA,NA,NA,NA
+O'SULLIVAN,Bridget Mary,Female,21,3rd,FALSE,330909,1,7,12,7
+ODAHL,Nils Martin,Male,23,3rd,FALSE,7267,1,9,4,6
+OHMAN,Velin Matilda,Female,22,3rd,TRUE,347085,1,7,15,6
+OLIVA Y OCANA,Fermina,Female,39,Crew,TRUE,17758,3,108,18,0
+OLIVE,Charles,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+OLIVE,Ernest Roskelly,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+OLIVER,Harry,Male,41,Crew,TRUE,NA,NA,NA,NA,NA
+OLLIVER,Alfred John,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+OLSEN,Artur Karl,Male,9,3rd,TRUE,17368,1,3,3,5
+OLSEN,Henry Margido,Male,28,3rd,FALSE,4001,3,22,10,6
+OLSEN,Karl Siegwart Andreas,Male,42,3rd,FALSE,4579,1,8,8,1
+OLSEN,Ole Martin,Male,27,3rd,FALSE,265302,1,7,6,3
+OLSSON,Elina,Female,31,3rd,FALSE,350407,1,7,17,1
+OLSSON,Nils Johan Goransson,Male,28,3rd,FALSE,347464,1,7,17,1
+OLSVIGEN,Thor Anderson,Male,20,3rd,FALSE,6563,1,9,4,6
+OMONT,Alfred Fernand,Male,29,1st,TRUE,12998,1,25,14,10
+ORESKOVIC,Jelka,Female,30,3rd,FALSE,315085,1,8,13,3
+ORESKOVIC,Marija,Female,19,3rd,FALSE,315096,1,8,13,3
+ORESKOVIC,Luka,Male,20,3rd,FALSE,315094,1,8,13,3
+ORPET,Walter Hayward,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+ORR,James,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+OSBORNE,William Edward,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+OSEN,Olaf Elon,Male,16,3rd,FALSE,7534,1,9,4,4
+OSMAN,Frank,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+OSMAN,Mara,Female,31,3rd,TRUE,349244,1,8,13,8
+OSTBY,Helen Ragnhild,Female,22,1st,TRUE,113509,2,61,19,7
+OSTBY,Engelhart Cornelius,Male,64,1st,FALSE,113509,2,61,19,7
+OTHEN,Charles Alfred,Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+OTTER,Richard,Male,38,2nd,FALSE,28213,1,13,0,0
+OVIES Y RODRIGUEZ,Servando Jose Florentino,Male,36,1st,FALSE,17562,1,27,14,5
+OWEN,Lewis,Male,49,Crew,FALSE,NA,NA,NA,NA,NA
+OXENHAM,Percy Thomas,Male,22,2nd,TRUE,14260,1,10,10,0
+PACEY,Reginald lvan,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+PACHERA,Jean Baptiste Stanislas,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+PADRON MANENT,Julian,Male,26,2nd,TRUE,2146,1,13,17,3
+PAICE,Richard Charles John,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+PAIN,Alfred,Male,23,2nd,FALSE,244278,1,10,10,0
+PAINTER,Charles,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+PAINTER,Frank,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+PAINTIN,James Arthur,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+PALLAS I CASTELLO,Emili,Male,29,2nd,TRUE,2147,1,13,17,2
+PALLES,Thomas Henry Michael,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+PALMQUIST,Oskar Leander Johansson,Male,26,3rd,TRUE,347070,1,7,15,6
+PALSSON,Gosta Leonard,Male,2,3rd,FALSE,349909,5,21,1,6
+PALSSON,Paul Folke,Male,6,3rd,FALSE,349909,5,21,1,6
+PALSSON,Stina Viola,Female,3,3rd,FALSE,349909,5,21,1,6
+PALSSON,Torborg Danira,Female,8,3rd,FALSE,349909,5,21,1,6
+PALSSON,Alma Cornelia,Female,29,3rd,FALSE,349909,5,21,1,6
+PANULA,Eino Viljam,Male,1,3rd,FALSE,3101295,7,39,13,9
+PANULA,Jaako Arnold,Male,15,3rd,FALSE,3101295,7,39,13,9
+PANULA,Juha Niilo,Male,7,3rd,FALSE,3101295,7,39,13,9
+PANULA,Urho Abraham,Male,2,3rd,FALSE,3101295,7,39,13,9
+PANULA,Ernesti Arvid,Male,16,3rd,FALSE,3101295,7,39,13,9
+PANULA,Maija Emelia Abrahamintytar,Female,41,3rd,FALSE,3101295,7,39,13,9
+PARKER,Clifford Richard,Male,17,2nd,FALSE,14888,1,10,10,0
+PARKES,Francis,Male,21,2nd,FALSE,239853,3,0,0,0
+PARR,William Henry Marsh,Male,29,1st,FALSE,112052,1,0,0,0
+PARRISH,Lutie Davis,Female,59,2nd,TRUE,230433,2,26,0,0
+PARSONS,Edward,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+PARSONS,Frank Alfred,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+PARSONS,Richard Henry,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+PARTNER,Austin,Male,40,1st,FALSE,113043,1,28,10,0
+PASCOE,Charles Henry,Male,45,Crew,TRUE,NA,NA,NA,NA,NA
+PASIC,Jakob,Male,21,3rd,FALSE,315097,1,8,13,3
+PATCHETT,George,Male,18,3rd,FALSE,358585,2,14,10,0
+PAVLOVIC,Stefo,Male,32,3rd,FALSE,349242,1,7,17,11
+PAYNE,Vivian Ponsonby,Male,23,Crew,FALSE,12749,4,93,10,0
+PEACOCK,Albert Edward,Male,0,3rd,FALSE,3101315,3,13,15,6
+PEACOCK,Treasteall,Female,4,3rd,FALSE,3101315,3,13,15,6
+PEACOCK,Edith,Female,26,3rd,FALSE,3101315,3,13,15,6
+PEARCE,Alfred Ernest,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+PEARCE,Ernest,Male,31,3rd,FALSE,343271,1,7,0,0
+PEARCE,John,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+PEARCEY,Albert Victor,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+PEARS,Thomas,Male,29,1st,FALSE,113776,2,66,12,0
+PEARS,Edith,Female,22,1st,TRUE,113776,2,66,12,0
+PEDERSEN,Olaf,Male,28,3rd,FALSE,345498,1,7,15,6
+PEDRINI,Alessandro,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+PEDUZZI,Joseph,Male,24,3rd,FALSE,2817,1,8,1,0
+PEKONIEMI,Edvard,Male,21,3rd,FALSE,3101294,1,7,18,6
+PELHAM,George,Male,39,Crew,TRUE,NA,NA,NA,NA,NA
+PELTOMAKI,Nikolai Johannes,Male,25,3rd,FALSE,3101291,1,7,18,6
+PENASCO Y CASTELLANA,Victor,Male,24,1st,FALSE,17758,3,108,18,0
+PENASCO Y CASTELLANA,Maria Josefa Perezde Soto y Vallejo,Female,22,1st,TRUE,17758,3,108,18,0
+PENGELLY,Frederick William,Male,19,2nd,FALSE,28665,1,10,10,0
+PENNAL,Thomas Frederick Cohen,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+PENNY,William Farr,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+PENROSE,John Poole,Male,49,Crew,FALSE,NA,NA,NA,NA,NA
+PERACCHIO,Alberto,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+PERACCHIO,Sebastiano,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+PERKIN,John Henry,Male,23,3rd,FALSE,21174,1,7,5,0
+PERKINS,Laurence Alexander,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+PERKIS,Walter John,Male,37,Crew,TRUE,NA,NA,NA,NA,NA
+PERNOT,Rene,Male,39,Crew,FALSE,2131,1,15,1,0
+PEROTTI,Alfonso,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+PERREAULT,Mary Anne,Female,33,Crew,TRUE,12749,4,93,10,0
+PERREN,William Charles,Male,47,Crew,FALSE,NA,NA,NA,NA,NA
+PERRITON,Hubert Prouse,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+PERRY,Edgar Lionel,Male,19,Crew,TRUE,NA,NA,NA,NA,NA
+PERRY,Henry Frederick,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+PERSSON,Ernst Ulrik,Male,25,3rd,TRUE,347083,1,7,15,6
+PERUSCHITZ,Josef,Male,41,2nd,FALSE,237393,1,13,0,0
+PETERANEC KRAMARIC,Mathilda,Female,28,3rd,FALSE,349245,1,7,17,11
+PETERS,Catherine,Female,27,3rd,FALSE,330935,1,8,2,9
+PETERS,William Chapman,Male,26,Crew,TRUE,NA,NA,NA,NA,NA
+PETERSEN,Marius,Male,24,3rd,FALSE,342441,1,8,1,0
+PETROFF,Nedialco,Male,19,3rd,FALSE,349212,1,7,17,11
+PETROFF,Pastcho,Male,29,3rd,FALSE,349215,1,7,17,11
+PETTERSSON,Elin Natalia,Female,18,3rd,FALSE,347087,1,7,15,6
+PETTERSSON,Johan Emil,Male,25,3rd,FALSE,347076,1,7,15,6
+PETTY,Edwin Henry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+PEUCHEN,Arthur Godfrey,Male,52,1st,TRUE,113786,1,30,10,0
+PFROPPER,Richard Paul Jozef,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+PHILLIMORE,Harold Charles William,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+PHILLIPS,Alice Frances Louisa,Female,21,2nd,TRUE,2,2,21,0,0
+PHILLIPS,Kate Florence,Female,19,2nd,TRUE,250655,2,26,0,0
+PHILLIPS,Escott Robert,Male,43,2nd,FALSE,2,2,21,0,0
+PHILLIPS,George,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+PHILLIPS,John George,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+PHILLIPS,Walter John,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+PIATTI,Louis,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+PIAZZA,Pompeo Gaspro,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+PICARD,Benoit,Male,33,3rd,TRUE,392078,1,8,1,0
+PINSKY,Rosa,Female,32,2nd,TRUE,234604,1,13,0,0
+PITFIELD,William James,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+PITMAN,Herbert John,Male,34,Crew,TRUE,NA,NA,NA,NA,NA
+PLATT,Wilfred George,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+PLOTCHARSKY,Vasil,Male,27,3rd,FALSE,349227,1,7,17,11
+POCRNIC,Mate,Male,17,3rd,FALSE,315095,1,8,13,3
+POCRNIC,Tome,Male,24,3rd,FALSE,315092,1,8,13,3
+PODESTA,Alfred John Alexander,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+POGGI,Emilio,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+POINGDESTRE,John Thomas,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+POND,George,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+PONESELL,Martin,Male,24,2nd,FALSE,250647,2,13,0,0
+POOK,Percy Robert,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+PORT,Frank,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+PORTALUPPI,Emilio Ilario Giuseppe,Male,30,2nd,TRUE,34644,1,12,14,9
+PORTER,Walter Chamberlain,Male,46,1st,FALSE,110465,2,52,0,0
+PORTEUS,Thomas Henry,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+POTTER,Lily Alexenia,Female,56,1st,TRUE,11767,3,83,3,2
+PRANGNELL,George Alexander,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+PRENTICE,Frank Winnold,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+PRESTON,Thomas Charles Alfred,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+PRICE,Ernest Cyril,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+PRICHARD,Alice Maud,Female,36,Crew,TRUE,NA,NA,NA,NA,NA
+PRIDEAUX,John Arthur (Jack),Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+PRIEST,Arthur John,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+PRIOR,Harold John Arnold,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+PROCTOR,Charles,Male,46,Crew,FALSE,NA,NA,NA,NA,NA
+PROUDFOOT,Richard Royston,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+PRYCE,Charles William,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+PUGH,Alfred,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+PUGH,Arthur Percy,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+PULBAUM,Franz,Male,27,2nd,FALSE,2168,1,15,0,8
+PULNER,Uscher,Male,16,3rd,FALSE,3411,1,8,14,3
+PUSEY,William Robert Holland,Male,22,Crew,TRUE,NA,NA,NA,NA,NA
+PUZEY,John Edward,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+QUICK,Phyllis May,Female,2,2nd,TRUE,26360,3,26,0,0
+QUICK,Winnifred Vera,Female,8,2nd,TRUE,26360,3,26,0,0
+QUICK,Jane,Female,33,2nd,TRUE,26360,3,26,0,0
+RADEFF,Alexander,Male,27,3rd,FALSE,349223,1,7,17,11
+RAFUL-BULUS,Bakhus,Male,21,3rd,FALSE,2679,1,7,4,6
+RANDALL,Frank Henry,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+RANGER,Thomas,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+RANSOM,James Augustus,Male,50,Crew,FALSE,NA,NA,NA,NA,NA
+RATTENBURY,William Henry,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+RATTI,Enrico,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+RAY,Frederick Dent,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+READ,Joseph,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+REED,James George,Male,18,3rd,FALSE,362316,1,7,5,0
+REED,Thomas Charles Prowse,Male,54,Crew,FALSE,NA,NA,NA,NA,NA
+REEVES,David,Male,36,2nd,FALSE,17248,1,10,10,0
+REEVES,Frederick Simms,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+REEVES,Frederick Vernon Hilton,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+REID,Robert Thomas,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+REKIC,Tido,Male,38,3rd,FALSE,349249,1,7,17,11
+RENOUF,Peter Henry,Male,33,2nd,FALSE,31027,2,21,0,0
+RENOUF,Lillian,Female,30,2nd,TRUE,31027,2,21,0,0
+RENTOWL,Philip Charles Thomas,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+REUCHLIN,Johan George,Male,37,1st,FALSE,19972,1,0,0,0
+REVELL,William James Francis,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+REYNALDO,Encarnacion,Female,29,2nd,TRUE,230434,1,13,0,0
+REYNOLDS,Harold,Male,21,3rd,FALSE,342684,1,8,1,0
+RHEIMS,George Alexander Lucien,Male,33,1st,TRUE,17607,1,39,12,0
+RICALDONE,Rinaldo Renato,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+RICE,Albert,Male,10,3rd,FALSE,382652,6,29,2,6
+RICE,Arthur,Male,4,3rd,FALSE,382652,6,29,2,6
+RICE,Eric,Male,6,3rd,FALSE,382652,6,29,2,6
+RICE,Francis,Male,2,3rd,FALSE,382652,6,29,2,6
+RICE,George,Male,8,3rd,FALSE,382652,6,29,2,6
+RICE,Charles John,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+RICE,John Reginald,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+RICE,Percy,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+RICE,Margaret,Female,39,3rd,FALSE,382652,6,29,2,6
+RICHARD,Emile Phillippe,Male,23,2nd,FALSE,2133,1,15,0,11
+RICHARDS,Sibley George,Male,0,2nd,TRUE,29106,3,18,15,0
+RICHARDS,William Rowe,Male,3,2nd,TRUE,29106,3,18,15,0
+RICHARDS,Joseph James,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+RICHARDS,Emily,Female,24,2nd,TRUE,29106,3,18,15,0
+RICKMAN,George Albert,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+RICKS,Cyril Gordon,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+RIDOUT,Walter George,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+RIDSDALE,Lucy,Female,58,2nd,TRUE,14258,1,10,10,0
+RIGHINI,Sante,Male,28,Crew,FALSE,17760,3,135,12,8
+RIGOZZI,Abele,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+RIIHIVUORI,Susanna Juhantytar,Female,22,3rd,FALSE,3101295,7,39,13,9
+RIMMER,Gilbert,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+RINTAMAKI,Matti,Male,35,3rd,FALSE,3101273,1,7,2,6
+RIORDAN,Hannah,Female,21,3rd,TRUE,334915,1,7,14,5
+RISIEN,Samuel Beard,Male,69,3rd,FALSE,364498,2,14,10,0
+RISIEN,Emma Jane,Female,64,3rd,FALSE,364498,2,14,10,0
+ROBERT,Elisabeth Walton,Female,43,1st,TRUE,24160,3,211,6,9
+ROBERTON,George Edward,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+ROBERTS,Frank John,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+ROBERTS,Hugh H.,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+ROBERTS,Robert George,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+ROBERTS,Mary Kezia,Female,41,Crew,TRUE,NA,NA,NA,NA,NA
+ROBINS,Alexander,Male,50,3rd,FALSE,3337,2,14,10,0
+ROBINS,Victor,Male,45,Crew,FALSE,17757,5,247,10,6
+ROBINS,Charity,Female,48,3rd,FALSE,3337,2,14,10,0
+ROBINSON,James William,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+ROBINSON,Annie,Female,47,Crew,TRUE,NA,NA,NA,NA,NA
+ROEBLING,Washington Augustus,Male,31,1st,FALSE,17590,1,50,9,11
+ROGERS,Edward James William,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+ROGERS,Michael Joseph,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+ROGERS,Reginald Harry,Male,18,2nd,FALSE,28004,1,10,10,0
+ROGERS,William John,Male,29,3rd,FALSE,23567,1,8,1,0
+ROMAINE,Charles Hallace,Male,45,1st,TRUE,111428,1,26,11,0
+ROMMETVEDT,Knud Paust,Male,49,3rd,FALSE,312993,1,7,15,6
+RONDBERG,Edvard Larsson,Male,22,3rd,FALSE,347065,1,7,15,6
+ROOD,Hugh Roscoe,Male,39,1st,FALSE,113767,1,50,0,0
+ROSBLOM,Salli Helena,Female,2,3rd,FALSE,370129,3,20,4,3
+ROSBLOM,Viktor Richard,Male,18,3rd,FALSE,370129,3,20,4,3
+ROSBLOM,Helena Wilhelmina,Female,41,3rd,FALSE,370129,3,20,4,3
+ROSENBAUM,Edith Louise,Female,32,1st,TRUE,17613,1,27,14,5
+ROSENSHINE,George,Male,45,1st,FALSE,17585,1,79,0,4
+ROSS,Horace Leopold,Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+ROSS,John Hugo,Male,36,1st,FALSE,13049,1,40,2,6
+ROTH,Sarah,Female,26,3rd,TRUE,342712,1,8,1,0
+ROTHES,Lucy Noel Martha,Male,33,1st,TRUE,110152,3,86,10,0
+ROTHSCHILD,Martin,Male,46,1st,FALSE,17603,2,59,8,0
+ROTHSCHILD,Elizabeth Jane Anne,Female,54,1st,TRUE,17603,2,59,8,0
+ROTTA,Angelo Mario,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+ROUS,Arthur John,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+ROUSE,Richard Henry,Male,55,3rd,FALSE,3594,1,8,1,0
+ROUSSEAU,Pierre,Male,48,Crew,FALSE,NA,NA,NA,NA,NA
+ROWE,Alfred G.,Male,59,1st,FALSE,113790,1,26,11,0
+ROWE,Edgar Maurice,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+ROWE,George Thomas,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+RUDD,Henry,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+RUGG,Emily,Female,22,2nd,TRUE,31026,1,10,10,0
+RULE,Samuel James,Male,58,Crew,TRUE,NA,NA,NA,NA,NA
+RUSH,Alfred George John,Male,17,3rd,FALSE,20589,1,8,1,0
+RUSSELL,Boysie Richard,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+RUTTER,Sidney Frank,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+RYAN,Edward,Male,24,3rd,TRUE,383162,1,7,15,0
+RYAN,Patrick,Male,32,3rd,FALSE,371110,3,24,3,0
+RYAN,Thomas,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+RYERSON,John Borie,Male,13,1st,TRUE,17608,7,262,7,6
+RYERSON,Emily Borie,Female,18,1st,TRUE,17608,7,262,7,6
+RYERSON,Susan Parker,Female,21,1st,TRUE,17608,7,262,7,6
+RYERSON,Arthur Larned,Male,61,1st,FALSE,17608,7,262,7,6
+RYERSON,William Edwy,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+RYERSON,Emily Maria,Female,48,1st,TRUE,17608,7,262,7,6
+SAAD,Amin Houssein,Male,30,3rd,FALSE,2671,1,7,4,7
+SAALFELD,Adolphe,Male,47,1st,TRUE,19988,1,30,10,0
+SACCAGGI,Giovanni Giuseppe Emilio,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+SADLIER,Matthew,Male,19,3rd,FALSE,367655,1,7,14,7
+SADOWITZ,Henry,Male,17,3rd,FALSE,1855,1,7,11,10
+SAETHER,Simon Sivertsen,Male,43,3rd,FALSE,3101262,1,7,5,0
+SAGE,Anthony William,Male,12,3rd,FALSE,2343,11,69,11,0
+SAGE,Thomas Henry,Male,5,3rd,FALSE,2343,11,69,11,0
+SAGE,Constance Gladys,Female,7,3rd,FALSE,2343,11,69,11,0
+SAGE,Dorothy Florence,Female,14,3rd,FALSE,2343,11,69,11,0
+SAGE,Elizabeth Ada,Female,10,3rd,FALSE,2343,11,69,11,0
+SAGE,Stella Anne,Female,20,3rd,FALSE,2343,11,69,11,0
+SAGE,Douglas Bullen,Male,18,3rd,FALSE,2343,11,69,11,0
+SAGE,Frederick,Male,16,3rd,FALSE,2343,11,69,11,0
+SAGE,George John,Male,19,3rd,FALSE,2343,11,69,11,0
+SAGE,John George,Male,44,3rd,FALSE,2343,11,69,11,0
+SAGE,Annie Elizabeth,Female,44,3rd,FALSE,2343,11,69,11,0
+SAGESSER,Emma,Female,24,Crew,TRUE,17477,2,69,6,0
+SALANDER,Karl Johan,Male,24,3rd,FALSE,7266,1,9,6,6
+SALKJELSVIK,Anna Kristine,Female,21,3rd,TRUE,343120,1,7,13,0
+SALOMON,Abraham Lincoln,Male,43,1st,TRUE,111163,1,26,0,0
+SALONEN,Johan Werner,Male,29,3rd,FALSE,3101296,1,7,18,6
+SALUSSOLIA,Govanni,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+SAMAAN,Elias,Male,17,3rd,FALSE,2662,3,21,13,7
+SAMAAN,Hanna Elias,Male,40,3rd,FALSE,2662,3,21,13,7
+SAMAAN,Youssef,Male,16,3rd,FALSE,2662,3,21,13,7
+SAMUEL,Owen Wilmore,Male,47,Crew,FALSE,NA,NA,NA,NA,NA
+SANDSTROM,Beatrice Irene,Female,1,3rd,TRUE,9549,3,16,14,0
+SANDSTROM,Marguerite Rut,Female,4,3rd,TRUE,9549,3,16,14,0
+SANDSTROM,Agnes Charlotta,Female,24,3rd,TRUE,9549,3,16,14,0
+SANGSTER,Charles Edward,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+SAP,Julius,Male,21,3rd,TRUE,345768,1,9,10,0
+SARTORI,Lazar,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+SAUNDERCOCK,William Henry,Male,19,3rd,FALSE,2151,1,8,1,0
+SAUNDERS,F.,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+SAUNDERS,Walter Ernest,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+SAUNDERS,William Ernest,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+SAUNDERS,William Henry,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+SAVAGE,Charles James,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+SAWYER,Frederick Charles,Male,24,3rd,FALSE,342826,1,8,1,0
+SAWYER,Robert James,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+SCANLAN,James,Male,20,3rd,FALSE,36209,1,7,14,6
+SCARROTT,Joseph George,Male,33,Crew,TRUE,NA,NA,NA,NA,NA
+SCAVINO,Candido,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+SCHABERT,Emma,Female,35,1st,TRUE,13236,2,57,15,0
+SCHEERLINCK,Jean,Male,29,3rd,TRUE,345779,1,9,10,0
+SCHMIDT,Augustus,Male,22,2nd,FALSE,248659,1,13,0,0
+SCOTT,Archibald,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+SCOTT,Frederick William,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+SCOTT,John,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+SCOVELL,Robert,Male,55,Crew,FALSE,NA,NA,NA,NA,NA
+SDYCOFF,Todor,Male,42,3rd,FALSE,349222,1,7,17,11
+SEDGWICK,Charles Frederick Waddington,Male,28,2nd,FALSE,244361,1,13,0,0
+SEDUNARY,Samuel Francis,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+SELF,Albert Charles Edward,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+SELF,Alfred Henry,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+SEMAN,Betros,Male,10,3rd,FALSE,2622,1,4,0,3
+SENIOR,Harry,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+SERREPLAA,Augusta Jeanne,Female,30,Crew,TRUE,113798,2,31,0,0
+SESIA,Giacomo,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+SEWARD,Frederic Kimber,Male,34,1st,TRUE,113794,1,26,11,0
+SEWARD,Wilfred Deable,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+SHANNON,Andrew John,Male,35,3rd,FALSE,370160,5,0,0,0
+SHARP,Percival,Male,29,2nd,FALSE,244358,2,26,0,0
+SHAUGHNESSY,Patrick,Male,25,3rd,FALSE,370374,1,7,15,0
+SHAW,Henry,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+SHEA,John Joseph,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+SHEA,Thomas,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+SHEATH,Frederick,Male,20,Crew,TRUE,NA,NA,NA,NA,NA
+SHELLARD,Frederick William Blainey,Male,55,3rd,FALSE,6212,2,15,2,0
+SHELLEY,Imanita Parrish,Female,24,2nd,TRUE,230433,2,26,0,0
+SHEPHERD,Jonathan,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+SHIERS,Alfred Charles,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+SHIHAB,Al-Amir Faris,Male,26,3rd,FALSE,2631,1,7,4,6
+SHILLABEER,Charles Frederick,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+SHINE,Ellen,Female,20,3rd,TRUE,330968,1,7,16,7
+SHORNEY,Charles Joseph,Male,22,3rd,FALSE,374910,1,8,1,0
+SHULVER,Christopher Arthur,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+SHUTES,Elizabeth Weed,Female,40,Crew,TRUE,17582,3,153,9,3
+SIEBERT,Sidney Conrad,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+SILVEN,Lyyli Karoliina,Female,17,2nd,TRUE,250652,1,13,0,0
+SILVERTHORNE,Spencer Victor,Male,35,1st,TRUE,17475,1,26,5,9
+SILVEY,William Baird,Male,51,1st,FALSE,13507,2,55,18,0
+SILVEY,Alice Gray,Female,39,1st,TRUE,13507,2,55,18,0
+SIMMONS,Andrew George James,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+SIMMONS,Frederick Charles,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+SIMMONS,John,Male,40,3rd,FALSE,392082,1,8,1,0
+SIMMONS,William Simon C.,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+SIMONIUS-BLUMER,Colonel (Oberst) Alfons,Male,56,1st,TRUE,13213,1,35,10,0
+SIMPSON,John Edward,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+SINCOCK,Maude,Female,20,2nd,TRUE,33112,4,36,15,0
+SINKKONEN,Anna,Female,30,2nd,TRUE,250648,1,13,0,0
+SIRAYANIAN,Orsen,Male,22,3rd,FALSE,2669,1,7,4,7
+SIROTA,Morris,Male,19,3rd,FALSE,392092,1,8,1,0
+SIVIC,Husein,Male,40,3rd,FALSE,349251,1,7,17,11
+SIVIER,William,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+SIVOLA,Antti Wilhelm,Male,21,3rd,FALSE,3101280,1,7,18,6
+SJOBLOM,Anna Sofia,Female,18,3rd,TRUE,3101265,1,6,9,11
+SJOSTEDT,Ernst Adolf,Male,59,2nd,FALSE,237442,1,13,10,0
+SKEATES,William,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+SKINNER,Edward,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+SKOOG,Harald,Male,5,3rd,FALSE,347088,6,27,18,0
+SKOOG,Karl Thorsten,Male,11,3rd,FALSE,347088,6,27,18,0
+SKOOG,Mabel,Female,9,3rd,FALSE,347088,6,27,18,0
+SKOOG,Margit Elizabeth,Female,2,3rd,FALSE,347088,6,27,18,0
+SKOOG,Wilhelm Johansson,Male,40,3rd,FALSE,347088,6,27,18,0
+SKOOG,Anna Bernhardina,Female,43,3rd,FALSE,347088,6,27,18,0
+SLABENOFF,Petco,Male,42,3rd,FALSE,349214,1,7,17,11
+SLAYTER,Hilda Mary,Female,30,2nd,TRUE,234818,1,12,7,0
+SLEMEN,Richard James,Male,35,2nd,FALSE,28206,1,10,10,0
+SLIGHT,Harry John,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+SLIGHT,William Henry James,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+SLOAN,Mary Jane,Female,45,Crew,TRUE,NA,NA,NA,NA,NA
+SLOAN,Peter,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+SLOCOMBE,Maude Louise,Female,30,Crew,TRUE,NA,NA,NA,NA,NA
+SLOCOVSKI,Selman Francis,Male,20,3rd,FALSE,392086,1,8,1,0
+SLOPER,William Thompson,Male,28,1st,TRUE,113788,1,35,10,0
+SMALL,William McMillan,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+SMART,John Montgomery,Male,56,1st,FALSE,113792,1,26,11,0
+SMILJANIC,Mile,Male,37,3rd,FALSE,315037,1,8,13,3
+SMILLIE,John Downing,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Edward John,Male,62,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Kate Elizabeth,Female,44,Crew,TRUE,NA,NA,NA,NA,NA
+SMITH,Marion,Female,49,2nd,TRUE,31418,1,13,0,0
+SMITH,Charles Edwin,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Charles Henry James,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Ernest George,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,James Clinch,Male,56,1st,FALSE,17764,1,30,13,11
+SMITH,James Muil,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,James William,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,John Richard Jago,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Lucian Philip,Male,24,1st,FALSE,13695,2,60,0,0
+SMITH,Reginald George,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Richard William,Male,57,1st,FALSE,113056,1,26,0,0
+SMITH,William,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+SMITH,Mary Eloise,Female,18,1st,TRUE,13695,2,60,0,0
+SMITHER,Harry James,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+SMYTH,Julia,Female,18,3rd,TRUE,335432,1,7,14,8
+SMYTH,Thomas,Male,26,3rd,FALSE,384461,1,7,15,0
+SNAPE,Lucy Violet,Female,22,Crew,FALSE,NA,NA,NA,NA,NA
+SNELLGROVE,George,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+SNOOK,William Henry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+SNOW,Eustace Philip,Male,21,Crew,TRUE,NA,NA,NA,NA,NA
+SNYDER,John Pillsbury,Male,24,1st,TRUE,21228,2,82,5,4
+SNYDER,Nelle,Female,23,1st,TRUE,21228,2,82,5,4
+SOBEY,Samuel James Hayden,Male,25,2nd,FALSE,29178,1,13,0,0
+SOHOLT,Peter Andreas Lauritz Andersen,Male,19,3rd,FALSE,348124,1,7,13,0
+SOMERTON,Francis William,Male,31,3rd,FALSE,18509,1,8,1,0
+SPARKMAN,Henry William,Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+SPECTOR,Woolf,Male,23,3rd,FALSE,3236,1,8,1,0
+SPEDDEN,Robert Douglas,Male,6,1st,TRUE,16966,5,134,10,0
+SPEDDEN,Frederic Oakley,Male,45,1st,TRUE,16966,5,134,10,0
+SPEDDEN,Margaretta Corning,Female,39,1st,TRUE,16966,5,134,10,0
+SPENCER,William Augustus,Male,57,1st,FALSE,17569,3,146,10,5
+SPENCER,Marie Eugenie,Female,48,1st,TRUE,17569,3,146,10,5
+SPINNER,Henry John,Male,31,3rd,FALSE,369943,1,8,1,0
+STAGG,John Henry,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+STAHELIN-MAEGLIN,Max,Male,32,1st,TRUE,13214,1,30,10,0
+STANBROOK, Augustus George,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+STANEFF,Ivan,Male,23,3rd,FALSE,349208,1,7,17,11
+STANKOVIC,Ivan,Male,33,3rd,FALSE,349239,1,8,13,9
+STANLEY,Amy Zillah Elsie,Female,24,3rd,TRUE,2314,1,7,11,0
+STANLEY,Rowland Edwin,Male,22,3rd,FALSE,45380,1,8,1,0
+STANTON,Samuel Ward,Male,42,2nd,FALSE,237734,1,15,0,11
+STAP,Sarah Agnes,Female,47,Crew,TRUE,NA,NA,NA,NA,NA
+STEAD,William Thomas,Male,62,1st,FALSE,113514,1,26,11,0
+STEBBINGS,Sydney Frederick,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+STEEL,Robert Edward,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+STENGEL,Charles Emil Henry,Male,54,1st,TRUE,11778,2,55,8,10
+STENGEL,Annie May,Female,43,1st,TRUE,11778,2,55,8,10
+STEPHENSON,Martha,Female,52,1st,TRUE,36947,2,78,5,4
+STEWART,Albert Ankeny,Male,64,1st,FALSE,17605,1,27,14,5
+STEWART,John,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+STOCKER,Henry Dorey,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+STOKES,Philip Joseph,Male,24,2nd,FALSE,13540,1,10,10,0
+STONE,Edmund,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+STONE,Edward Thomas,Male,29,Crew,FALSE,NA,NA,NA,NA,NA
+STONE,Martha Evelyn,Female,61,1st,TRUE,113572,2,80,0,0
+STOREY,Thomas,Male,59,3rd,FALSE,370160,5,0,0,0
+STOYTCHEFF,Ilia,Male,19,3rd,FALSE,349205,1,7,17,11
+STRANDBERG,Ida Sofia,Female,22,3rd,FALSE,7553,1,9,16,9
+STRANDEN,Juho Niilosson,Male,30,3rd,TRUE,3101288,1,7,18,6
+STRAUS,Isidor,Male,67,1st,FALSE,17483,4,221,15,7
+STRAUS,Rosalie Ida,Female,63,1st,FALSE,17483,4,221,15,7
+STREET,Thomas Albert,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+STRILIC,Ivan,Male,26,3rd,FALSE,315083,1,8,13,3
+STROM,Telma Matilda,Female,2,3rd,FALSE,347054,1,10,9,3
+STROM,Elna Matilda,Female,29,3rd,FALSE,347054,1,10,9,3
+STROUD,Edward Alfred Orlando,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+STROUD,Harry John,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+STRUGNELL,John Herbert,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+STUBBINGS,Harry Robert,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+STUBBS,James Henry,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+SUNDERLAND,Victor Francis,Male,20,3rd,TRUE,392089,1,8,1,0
+SUNDMAN,Johan Julian,Male,45,3rd,TRUE,3101269,1,7,18,6
+SUTEHALL,Henry,Male,25,3rd,FALSE,392076,1,7,1,0
+SUTTON,Frederick,Male,61,1st,FALSE,36963,1,32,6,5
+SVENSSON,Johan,Male,74,3rd,FALSE,347060,1,7,15,6
+SVENSSON,Johan Cervin,Male,14,3rd,TRUE,7538,1,9,4,6
+SVENSSON,Olof,Male,24,3rd,FALSE,350035,1,7,15,11
+SWAN,William,Male,48,Crew,FALSE,NA,NA,NA,NA,NA
+SWANE,George,Male,19,Crew,FALSE,248734,1,13,0,0
+SWEET,George Frederick,Male,14,2nd,FALSE,220845,5,65,0,0
+SWIFT,Margaret Welles,Female,46,1st,TRUE,17466,1,25,18,7
+SYMONDS,John Crane,Male,44,Crew,FALSE,NA,NA,NA,NA,NA
+SYMONS,George Thomas Macdonald,Male,24,Crew,TRUE,NA,NA,NA,NA,NA
+TALBOT,George Frederick Charles,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+TAMLYN,Frederick,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+TANNUS MU'AWWAD,Hanna,Male,34,3rd,FALSE,2681,1,6,8,9
+TANNUS,As'ad,Male,0,3rd,TRUE,2625,2,8,10,4
+TANNUS,Bashir,Male,30,3rd,FALSE,2621,1,6,8,9
+TANNUS,Tannus Hanna Mu'awwad,Male,16,3rd,FALSE,2684,1,7,4,6
+TANNUS,Thamin,Female,16,3rd,TRUE,2625,2,8,10,4
+TAUSSIG,Ruth,Female,18,1st,TRUE,110413,3,79,13,0
+TAUSSIG,Emil,Male,54,1st,FALSE,110413,3,79,13,0
+TAUSSIG,Tillie,Female,39,1st,TRUE,110413,3,79,13,0
+TAYLOR,Bernard Cuthbert,Male,22,Crew,FALSE,NA,NA,NA,NA,NA
+TAYLOR,Charles William Frederick,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+TAYLOR,Elmer Zebley,Male,48,1st,TRUE,19996,2,52,0,0
+TAYLOR,George,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+TAYLOR,J.,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+TAYLOR,John Henry,Male,49,Crew,FALSE,NA,NA,NA,NA,NA
+TAYLOR,Leonard,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+TAYLOR,Percy Cornelius,Male,40,Crew,FALSE,250654,8,0,0,0
+TAYLOR,William Henry,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+TAYLOR,William John,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+TAYLOR,Juliet Cummins,Female,49,1st,TRUE,19996,2,52,0,0
+TENGLIN,Gunnar Isidor,Male,25,3rd,TRUE,350033,1,7,15,11
+TERRELL,Bertram,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+TERRILL,Frank,Male,27,Crew,TRUE,NA,NA,NA,NA,NA
+TESTONI,Ercole,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+TEUTON,Thomas Moore,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+THALER,Montague Donald,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+THAYER,John Borland,Male,17,1st,TRUE,17421,4,110,17,8
+THAYER,John Borland,Male,49,1st,FALSE,17421,4,110,17,8
+THAYER,Marian Longstreth,Female,39,1st,TRUE,17421,4,110,17,8
+THEISSINGER,Alfred,Male,46,Crew,TRUE,NA,NA,NA,NA,NA
+THEOBALD,Thomas Leonard,Male,34,3rd,FALSE,363294,1,8,1,0
+THOMAS,Albert Charles,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+THOMAS,Benjamin James,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+THOMAS,Joseph Wakefield,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+THOMPSON,Alexander Mellis,Male,36,3rd,FALSE,32302,1,8,1,0
+THOMPSON,Herbert Henry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+THOMPSON,John William,Male,36,Crew,TRUE,NA,NA,NA,NA,NA
+THORLEY,William Gordon,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+THORN,Harry,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+THORNE,Gertrude Maybelle,Female,37,1st,TRUE,17585,1,80,0,4
+THORNEYCROFT,Percival,Male,36,3rd,FALSE,376564,2,16,2,0
+THORNEYCROFT,Florence Kate,Female,32,3rd,TRUE,376564,2,16,2,0
+THRELFALL,Thomas,Male,44,Crew,TRUE,NA,NA,NA,NA,NA
+THRESHER,George Terrill,Male,25,Crew,TRUE,NA,NA,NA,NA,NA
+TIETZ,Carlo/Karl,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+TIKKANEN,Juho,Male,32,3rd,FALSE,3101293,1,7,18,6
+TIZARD,Arthur Leopold,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+TOBIN,Roger,Male,20,3rd,FALSE,383121,1,7,15,0
+TODOROFF,Lalio,Male,23,3rd,FALSE,349216,1,7,17,11
+TOMLIN,Ernest Portage,Male,21,3rd,FALSE,364499,1,8,1,0
+TOMS,Fred,Male,29,Crew,TRUE,NA,NA,NA,NA,NA
+TOOMEY,Ellen Mary,Female,50,2nd,TRUE,13531,1,10,10,0
+TOPP,Thomas,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+TORBER,Ernst Wilhelm,Male,41,3rd,FALSE,364511,1,8,1,0
+TORFA,Assad,Male,20,3rd,FALSE,2673,1,7,4,7
+TORNQVIST,Johan Vilhelm Henrik,Male,26,3rd,TRUE,370160,5,0,0,0
+TOSHACK,James Adamson,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+TOTEVSKI,Hristo Danchev,Male,25,3rd,FALSE,349203,1,7,17,11
+TOZER,James,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+TRIGGS,Robert,Male,41,Crew,TRUE,NA,NA,NA,NA,NA
+TROUPIANSKY,Moses Aaron,Male,23,2nd,FALSE,233639,1,13,0,0
+TROUT,Jessie Laird,Female,27,2nd,TRUE,240929,1,12,13,0
+TROUTT,Edwina Celia,Female,27,2nd,TRUE,34218,1,10,10,0
+TU'MAH AL-SAYQALI,Assaf Jirjis,Male,29,3rd,FALSE,2692,1,7,4,6
+TU'MAH,Jirjis Yusuf,Male,8,3rd,TRUE,2650,3,15,4,11
+TU'MAH,Mariyam,Female,9,3rd,TRUE,2650,3,15,4,11
+TU'MAH,Hinnah,Female,27,3rd,TRUE,2650,3,15,4,11
+TUCKER,Gilbert Milligan jr,Male,31,1st,TRUE,2543,1,28,10,9
+TURCIN,Stjepan,Male,36,3rd,FALSE,349247,1,7,17,11
+TURJA,Anna Sofia,Female,18,3rd,TRUE,4138,1,9,16,10
+TURKULA,Hedwig,Female,64,3rd,TRUE,4134,1,9,11,9
+TURLEY,Richard,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+TURNER,George Frederick,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+TURNER,Leopold Olerenshaw,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+TURPIN,William John,Male,29,2nd,FALSE,11668,2,21,0,0
+TURPIN,Dorothy Ann,Female,26,2nd,FALSE,11668,2,21,0,0
+TURVEY,Charles Thomas,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+URBINI,Roberto,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+URUCHURTU,Manuel Ramirez,Male,39,1st,FALSE,17601,1,27,14,5
+VALVASSORI,Ettore Luigi,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+VAN BILLIARD,James William,Male,10,3rd,FALSE,851,3,14,10,0
+VAN BILLIARD,Walter John,Male,9,3rd,FALSE,851,3,14,10,0
+VAN BILLIARD,Austin Blyler,Male,35,3rd,FALSE,851,3,14,10,0
+VAN DE VELDE,Johannes Josef,Male,35,3rd,FALSE,345780,1,9,10,0
+VAN DEN STEEN,Leo Peter,Male,28,3rd,FALSE,345783,1,9,10,0
+VAN DER BRUGGE,Wessel Adrianus,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+VAN DER HOEF,Wyckoff,Male,61,1st,FALSE,111240,1,33,10,0
+VAN IMPE,Catharina,Female,10,3rd,FALSE,345773,3,24,3,0
+VAN IMPE,Jean Baptiste,Male,36,3rd,FALSE,345773,3,24,3,0
+VAN IMPE,Rosalie Paula,Female,30,3rd,FALSE,345773,3,24,3,0
+VAN MELCKEBEKE,Philemon,Male,23,3rd,FALSE,345777,1,9,10,0
+VANDERCRUYSSEN,Victor,Male,46,3rd,FALSE,345765,1,9,0,0
+VANDERPLANCKE,Augusta Maria,Female,18,3rd,FALSE,345764,1,18,0,0
+VANDERPLANCKE,Julius,Male,31,3rd,FALSE,345763,3,18,0,0
+VANDERPLANCKE,Leo Edmondus,Male,15,3rd,FALSE,345763,3,18,0,0
+VANDERPLANCKE,Emelie Maria,Female,31,3rd,FALSE,345763,3,18,0,0
+VANDEWALLE,Nestor Cyriel,Male,28,3rd,FALSE,345770,1,9,10,0
+VARTANIAN,David,Male,22,3rd,TRUE,2658,1,7,4,6
+VEAL,Arthur,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+VEAL,James,Male,40,2nd,FALSE,28221,1,13,0,0
+VEAL,Thomas Henry Edom,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+VEAR,Henry,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+VEAR,William,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+VESTROM,Hulda Amanda Adolfina,Female,14,3rd,FALSE,350406,1,7,17,1
+VICAT,Alphonse Jean Eugene,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+VIGOTT,Philip Francis,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+VILLVARLANGE,Pierre Leon Gabriel,Male,19,Crew,FALSE,NA,NA,NA,NA,NA
+VINE,Herbert Thomas Gordon,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+VIONI,Roberto,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+VOGELIN-DUBACH,Johannes,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+VOVK,Janko,Male,21,3rd,FALSE,349252,1,7,17,11
+VULCHEV,Minko Anghelov,Male,26,3rd,FALSE,349202,1,7,17,11
+WAELENS,Achille,Male,22,3rd,FALSE,345767,1,9,0,0
+WAKE,Percy,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+WALKER,William Anderson,Male,48,1st,FALSE,36967,1,34,0,5
+WALLCROFT,Ellen 'Nellie',Female,36,2nd,TRUE,13528,2,21,0,0
+WALLIS,Catherine Jane,Female,36,Crew,FALSE,NA,NA,NA,NA,NA
+WALPOLE,James,Male,48,Crew,FALSE,NA,NA,NA,NA,NA
+WALSH,Catherine,Female,42,Crew,FALSE,NA,NA,NA,NA,NA
+WARD,Annie Moore,Female,37,Crew,TRUE,17755,4,512,6,7
+WARD,Arthur,Male,23,Crew,FALSE,NA,NA,NA,NA,NA
+WARD,Edward Bryon,Male,34,Crew,FALSE,NA,NA,NA,NA,NA
+WARD,James William,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+WARD,Percy Thomas,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+WARD,William,Male,37,Crew,TRUE,NA,NA,NA,NA,NA
+WARDNER,Fred Albert,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+WARE,Frederick,Male,35,3rd,FALSE,359309,1,8,1,0
+WARE,John James,Male,46,2nd,FALSE,31352,2,21,0,0
+WARE,William Jeffery,Male,22,2nd,FALSE,28666,1,10,10,0
+WARE,Florence Louise,Female,32,2nd,TRUE,31352,2,21,0,0
+WAREHAM,Robert Arthur,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+WARREN,Charles William,Male,31,3rd,FALSE,49867,1,7,11,0
+WARREN,Frank Manley,Male,63,1st,FALSE,110813,2,75,5,0
+WARREN,Anna Sophia,Female,60,1st,TRUE,110813,2,75,5,0
+WARWICK,Tom,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+WATERIDGE,Edward Lewis,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+WATSON,Ennis Hastings,Male,18,2nd,FALSE,239856,1,0,0,0
+WATSON,William,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+WATSON,William Albert,Male,14,Crew,FALSE,NA,NA,NA,NA,NA
+WATT,Robertha Josephine,Female,12,2nd,TRUE,33595,2,15,15,0
+WATT,Elizabeth,Female,40,2nd,TRUE,33595,2,15,15,0
+WAZNAH,Yusuf Ahmad,Male,23,3rd,FALSE,2647,1,7,4,6
+WEATHERSTON,Thomas Herbert,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+WEBB,Brook Holding,Male,50,Crew,FALSE,NA,NA,NA,NA,NA
+WEBB,Samuel Francis,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+WEBBER,Susan,Female,38,2nd,TRUE,27267,1,13,0,0
+WEBBER,Francis Albert,Male,30,Crew,FALSE,NA,NA,NA,NA,NA
+WEBBER,James,Male,66,3rd,FALSE,3101316,1,8,1,0
+WEIKMAN,Augustus Henry,Male,52,Crew,TRUE,NA,NA,NA,NA,NA
+WEIR,John,Male,61,1st,FALSE,113800,1,26,11,0
+WEISZ,Leopold,Male,37,2nd,FALSE,228414,2,26,0,0
+WEISZ,Mathilde Francoise,Female,37,2nd,TRUE,228414,2,26,0,0
+WELCH,William Harold,Male,21,Crew,FALSE,NA,NA,NA,NA,NA
+WELLER,William Clifford,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+WELLS,Ralph Lester,Male,2,2nd,TRUE,29103,3,23,0,0
+WELLS,Joan,Female,4,2nd,TRUE,29103,3,23,0,0
+WELLS,Addie Dart,Female,29,2nd,TRUE,29103,3,23,0,0
+WENDEL,Olof Edvin,Male,20,3rd,FALSE,350416,1,7,17,1
+WENNERSTROM,August,Male,27,3rd,TRUE,350043,1,7,15,11
+WEST,Barbara Joyce,Female,0,2nd,TRUE,34651,4,27,15,0
+WEST,Constance Miriam,Female,4,2nd,TRUE,34651,4,27,15,0
+WEST,Edwy Arthur,Male,36,2nd,FALSE,34651,4,27,15,0
+WEST,Ada Mary,Female,33,2nd,TRUE,34651,4,27,15,0
+WHEADON,Edward Henry,Male,65,2nd,FALSE,24579,1,10,10,0
+WHEAT,Joseph Thomas,Male,30,Crew,TRUE,NA,NA,NA,NA,NA
+WHEELER,Edwin Charles,Male,26,Crew,FALSE,2159,1,12,17,6
+WHEELTON,Edenser Edward,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+WHILEMS,Charles,Male,31,2nd,TRUE,244270,1,13,0,0
+WHITE,Albert,Male,17,Crew,FALSE,NA,NA,NA,NA,NA
+WHITE,Alfred,Male,32,Crew,TRUE,NA,NA,NA,NA,NA
+WHITE,Arthur,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+WHITE,Edward Joseph,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+WHITE,Frank Leonard,Male,27,Crew,FALSE,NA,NA,NA,NA,NA
+WHITE,Leonard Lisle Oliver,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+WHITE,Percival Wayland,Male,54,1st,FALSE,35281,2,77,5,9
+WHITE,Richard Frasar,Male,21,1st,FALSE,35281,2,77,5,9
+WHITE,William George,Male,23,Crew,TRUE,NA,NA,NA,NA,NA
+WHITE,Ella,Female,55,1st,TRUE,17760,3,135,12,8
+WHITELEY,Thomas Arthur,Male,18,Crew,TRUE,NA,NA,NA,NA,NA
+WHITFORD,Alfred Henry,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+WICK,George Dennick,Male,57,1st,FALSE,36928,4,164,17,4
+WICK,Mary Natalie,Female,31,1st,TRUE,36928,4,164,17,4
+WICK,Mary Peebles,Female,45,1st,TRUE,36928,4,164,17,4
+WIDEGREN,Carl Peter,Male,51,3rd,FALSE,347064,1,7,15,0
+WIDENER,George Dunton,Male,50,1st,FALSE,113503,5,211,10,0
+WIDENER,Harry Elkins,Male,27,1st,FALSE,113503,5,211,10,0
+WIDENER,Eleanor,Female,50,1st,TRUE,113503,5,211,10,0
+WIDGERY,Isaac George,Male,37,Crew,TRUE,NA,NA,NA,NA,NA
+WIKLUND,Jakob Alfred,Male,17,3rd,FALSE,3101267,1,6,9,11
+WIKLUND,Karl Johan,Male,18,3rd,FALSE,3101266,1,6,9,11
+WILDE,Henry Tingle,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+WILKES,Ellen,Female,47,3rd,TRUE,363272,1,7,0,0
+WILKINSON,Elizabeth Anne,Female,30,2nd,TRUE,2926,2,26,0,0
+WILLARD,Constance,Female,21,1st,TRUE,113795,1,26,11,0
+WILLER,Aaron,Male,37,3rd,FALSE,3410,1,8,14,3
+WILLEY,Edward John,Male,21,3rd,FALSE,751,1,7,11,0
+WILLIAMS,Arthur John,Male,42,Crew,FALSE,NA,NA,NA,NA,NA
+WILLIAMS,Charles Duane,Male,51,1st,FALSE,17597,2,61,7,7
+WILLIAMS,Charles Eugene,Male,23,2nd,TRUE,244373,1,13,0,0
+WILLIAMS,Fletcher Fellowes Lambert,Male,43,1st,FALSE,113510,1,35,0,0
+WILLIAMS,Howard Hugh,Male,28,3rd,FALSE,2466,1,8,1,0
+WILLIAMS,Leslie,Male,24,3rd,FALSE,54636,2,16,2,0
+WILLIAMS,Richard Norris,Male,21,1st,TRUE,17597,2,61,7,7
+WILLIAMS,Samuel Solomon,Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+WILLIAMS,Walter John,Male,28,Crew,TRUE,NA,NA,NA,NA,NA
+WILLIAMSON,James Bertram,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+WILLIS,William,Male,59,Crew,FALSE,NA,NA,NA,NA,NA
+WILLSHER,William Aubrey,Male,33,Crew,FALSE,NA,NA,NA,NA,NA
+WILSON,Helen Alice,Female,33,Crew,TRUE,16966,5,134,10,0
+WILSON,Herbert 'Bertie',Male,28,Crew,FALSE,NA,NA,NA,NA,NA
+WILTON,William Edward,Male,53,Crew,FALSE,NA,NA,NA,NA,NA
+WINDEBANK,Alfred Edgar,Male,38,Crew,TRUE,NA,NA,NA,NA,NA
+WINDELOV,Einar,Male,21,3rd,FALSE,3101317,1,7,5,0
+WINSER,Rowland,Male,36,Crew,FALSE,NA,NA,NA,NA,NA
+WIRZ,Albert,Male,17,3rd,FALSE,315154,1,8,13,3
+WISEMAN,Philippe,Male,53,3rd,FALSE,34244,1,7,5,0
+WITCHER,Albert Ernest,Male,39,Crew,FALSE,NA,NA,NA,NA,NA
+WITT,Henry Dennis,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+WITTER,James William Cheetham,Male,31,Crew,TRUE,NA,NA,NA,NA,NA
+WITTEVRONGEL,Camilius Aloysius,Male,36,3rd,FALSE,345771,1,9,10,0
+WITTMAN,Henry,Male,38,Crew,FALSE,NA,NA,NA,NA,NA
+WITTS,William Francis,Male,35,Crew,FALSE,NA,NA,NA,NA,NA
+WOOD,Henry,Male,31,Crew,FALSE,NA,NA,NA,NA,NA
+WOOD,James Thomas,Male,49,Crew,FALSE,NA,NA,NA,NA,NA
+WOODFORD,Frederick Ernest,Male,40,Crew,FALSE,NA,NA,NA,NA,NA
+WOODWARD,John Wesley,Male,32,Crew,FALSE,250654,8,0,0,0
+WOODY,Oscar Scott,Male,41,Crew,FALSE,NA,NA,NA,NA,NA
+WOOLNER,Hugh,Male,45,1st,TRUE,19947,1,35,10,0
+WORMALD,Henry Frederick Charles,Male,45,Crew,FALSE,NA,NA,NA,NA,NA
+WORTHMAN,William Henry,Male,37,Crew,FALSE,NA,NA,NA,NA,NA
+WRAPSON,Frederick Bernard,Male,18,Crew,FALSE,NA,NA,NA,NA,NA
+WRIGHT,Marion,Female,26,2nd,TRUE,220844,1,13,10,0
+WRIGHT,Frederick,Male,24,Crew,FALSE,NA,NA,NA,NA,NA
+WRIGHT,George,Male,62,1st,FALSE,113807,1,26,11,0
+WRIGHT,William,Male,47,Crew,TRUE,NA,NA,NA,NA,NA
+WYETH,James Robert,Male,25,Crew,FALSE,NA,NA,NA,NA,NA
+WYNN,William,Male,41,Crew,TRUE,NA,NA,NA,NA,NA
+YAZBAK,Antun Musa,Male,27,3rd,FALSE,2659,2,14,9,1
+YAZBAK,Silanah Iskandar Nasif Abi Daghir,Female,17,3rd,TRUE,2659,2,14,9,1
+YEARSLEY,Harry,Male,40,Crew,TRUE,NA,NA,NA,NA,NA
+YONKOV,"Lazar ""Lalyo""",Male,23,3rd,FALSE,349204,1,7,17,11
+YOUNG,Marie Grice,Female,36,1st,TRUE,17760,3,135,12,8
+YOUNG,Francis James,Male,32,Crew,FALSE,NA,NA,NA,NA,NA
+YOUSSIFF (SAM'AAN),Gerios,Male,45,3rd,FALSE,2628,1,7,4,7
+YUSUF,Michael (Shafiq) Peter,Male,4,3rd,TRUE,2668,3,22,7,2
+YUSUF,Nabiah (Mary),Female,2,3rd,TRUE,2668,3,22,7,2
+YUSUF,Katrin,Female,23,3rd,TRUE,2668,3,22,7,2
+YVOIS,Henriette Virginie,Female,22,2nd,FALSE,248747,1,13,0,0
+ZAKARIAN,Mapriededer,Male,22,3rd,FALSE,2656,1,7,4,6
+ZAKARIAN,Ortin,Male,27,3rd,FALSE,2670,1,7,4,6
+ZANETTI,Minio,Male,20,Crew,FALSE,NA,NA,NA,NA,NA
+ZARRACCHI,L.,Male,26,Crew,FALSE,NA,NA,NA,NA,NA
+ZIMMERMANN,Leo,Male,29,3rd,FALSE,315082,1,7,17,6
