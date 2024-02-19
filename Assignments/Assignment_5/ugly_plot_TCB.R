@@ -9,6 +9,8 @@ library(jpeg)
 library(grid)
 library(emojifont)
 library(ggimage)
+library(gganimate)
+
 
 original_titanic_deaths <- read_csv("./Assignments/Assignment_5/titanic.csv")
 View(titanic_deaths)
@@ -38,7 +40,7 @@ View(oceangate)
 #Fulljoin
 total_titanic_deaths <- full_join(original_titanic_deaths,oceangate)
 View(total_titanic_deaths)
-write_csv(total_titanic_deaths,file="./Assignments/Assignment_5/titanic_deaths_total.csv")
+#write_csv(total_titanic_deaths,file="./Assignments/Assignment_5/titanic_deaths_total.csv")
 
 # Total deaths by year bar chart #####
 total_deaths_by_year <- total_titanic_deaths %>%
@@ -46,32 +48,28 @@ total_deaths_by_year <- total_titanic_deaths %>%
   group_by(wreck_year) %>%
   summarise(total_deaths = n())
 
-write_csv(total_deaths_by_year,file = "./Assignments/Assignment_5/deaths_by_year.csv")
+#write_csv(total_deaths_by_year,file = "./Assignments/Assignment_5/deaths_by_year.csv")
 
 background4 <- readJPEG("./Assignments/Assignment_5/background4.jpeg")
 
-bar_chart <- total_deaths_by_year %>% 
+p1 <- total_deaths_by_year %>% 
   ggplot(aes(x=wreck_year,
          y=total_deaths)) +
   ggplot2::annotation_custom(rasterGrob(background4, 
                                         width = unit(1,"npc"),
                                         height = unit(1,"npc")), 
                              -Inf, Inf, -Inf, Inf)+
-  geom_col(width=19,color="pink", fill="green") +
+  geom_col(width=19,color="magenta", fill="magenta") +
   labs(x = "Year", y = "Total Deaths")+
   scale_x_continuous(breaks=c(1918,2023))+
-  scale_y_continuous(breaks = c(0,15000),limits=c(0,15000))+
-  theme(axis.text.x = element_text(angle = 90,hjust=1,vjust=0.5))
-print(bar_chart)
+  scale_y_continuous(breaks = c(0,150000),limits=c(0,150000),
+                     trans = "sqrt")+
+  theme(axis.text.x = element_text(angle = 90,hjust=1,vjust=0.5))+
+  theme(axis.text.y = element_text(color = "green1"))+
+  theme(plot.background = element_rect(fill="green1"))+
+print(p1)
 
 # Total deaths by year line #####
-line <- total_deaths_by_year %>% 
-  ggplot(aes(x=wreck_year,
-             y=total_deaths)) +
-  geom_line()+
-  labs(x = "Year", y = "Total Deaths")+
-  theme(axis.text.x = element_text(angle = 90,hjust=1,vjust=0.5))
-print(line)
 
 all_years <- data.frame(wreck_year = 1910:2023)
 all_years <- all_years %>%
@@ -82,7 +80,7 @@ background2 <- readJPEG("./Assignments/Assignment_5/background_2.jpeg")
 
 
 # Actual plot code
-line_plot <- all_years %>% 
+p2 <- all_years %>% 
   ggplot(aes(x = wreck_year, y = total_deaths)) +
   ggplot2::annotation_custom(rasterGrob(background2, 
                                         width = unit(1,"npc"),
@@ -93,12 +91,12 @@ line_plot <- all_years %>%
   theme(axis.ticks.x = element_blank())+
   theme(axis.text.x = element_text(angle=90,hjust=1,vjust=0.5))+
   scale_x_continuous(breaks = c(1918, 1945,1950,1999,2028), limits=c(1918,2030))
-
+print(p2)
 
 # Plot average titanic deaths per year
 background <- readJPEG("./Assignments/Assignment_5/background_.jpeg")
 
-avg_deaths_plot <- total_deaths_by_year %>% 
+p3 <- total_deaths_by_year %>% 
   ggplot(aes(x = wreck_year, y = total_deaths)) +
   ggplot2::annotation_custom(rasterGrob(background, 
                                         width = unit(1,"npc"),
@@ -110,6 +108,6 @@ avg_deaths_plot <- total_deaths_by_year %>%
   scale_x_continuous(breaks = c(1918, 2023), limits=c(1918,2023))+
   scale_y_continuous(breaks = c(0,1501),limits=c(0,1501))+
   theme(axis.text.x = element_text(angle=90,hjust=1,vjust=0.5,size=6))
-print(avg_deaths_plot)
+print(p3)
 
-ggsave("./Assignments/Assignment_5/average_titanic_deaths_by_year_plot.png", plot=avg_deaths_plot,dpi=300)
+#ggsave("./Assignments/Assignment_5/average_titanic_deaths_by_year_plot.png", plot=avg_deaths_plot,dpi=300)
