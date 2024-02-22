@@ -2,7 +2,8 @@
 ####### WEEK 6 NOTES #######
 ############################
 
-#### Tuesday February 13 ####
+#########################################
+#### Class 11: Tuesday February 13 ####
 library(tidyverse)
 library(readxl)
 
@@ -130,9 +131,9 @@ df %>%
 # Once you can make the above plot, then go compare what you did 
 
 
-################################
-####### Thursday, Feb 15 #######
-
+###########################################
+####### Class 12: Thursday, Feb 15 #######
+###########################################
 
 # First thing we did was go over the exam 
 df <- read_csv("./Data/Bird_Measurements.csv")
