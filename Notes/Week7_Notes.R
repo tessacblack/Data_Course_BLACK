@@ -85,7 +85,6 @@ df <- df %>%
 ####### Class 14: Thursday Feb 22 #####
 # Package highlight: hexsticker. makes hexagon stickers 
 # Other package highilght: measurements 
-install.packages("lubridate")
 library(lubridate)
 x <- c(12,31,44)
 library(measurements)
