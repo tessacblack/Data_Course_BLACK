@@ -30,7 +30,7 @@ dat <- dat %>%
     sample_id %in% c("Clear_Creek","Waste_Water") ~ "water",
     sample_id %in% c("Soil_1","Soil_2") ~ "soil"))
 
-# Task 3: Generates a plot that matches this one ####
+# Task 3: Generate a plot that matches this one ####
 dil0.1 <- dat %>% 
   filter(dilution == 0.1)
 
@@ -44,7 +44,7 @@ dil0.1 %>%
   theme_minimal() +
   labs(x = "Time", y = "Absorbance", color = "Type")
 
-# Task 4: Generates an animated plot that matches this one ####
+# Task 4: Generate an animated plot that matches this one ####
 itaconic_acid <- dat %>% 
   filter(substrate == "Itaconic Acid") %>% 
   group_by(sample_id, dilution, time) %>% 
