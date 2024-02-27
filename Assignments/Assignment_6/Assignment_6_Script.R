@@ -8,6 +8,7 @@ library(skimr)
 library(janitor)
 library(patchwork)
 library(gganimate)
+library(transformr)
 
 dat <- read_csv("../../Data/BioLog_Plate_Data.csv")
 
@@ -33,15 +34,6 @@ dat <- dat %>%
 dil0.1 <- dat %>% 
   filter(dilution == 0.1)
 
-
-dil0.1 %>% 
-  ggplot(aes(x = "time",
-             y = "absorbance"))+
-  geom_point()+
-  geom_line(aes(color = sample_source))+
-  facet_wrap(~substrate, scales = 'free')
-
-
 dil0.1 %>%
   ggplot(aes(x = time, 
              y = absorbance, 
@@ -53,3 +45,26 @@ dil0.1 %>%
   labs(x = "Time", y = "Absorbance", color = "Type")
 
 # Task 4: Generates an animated plot that matches this one ####
+itaconic_acid <- dat %>% 
+  filter(substrate == "Itaconic Acid") %>% 
+  group_by(rep, sample_id, dilution, time) %>% 
+  summarize(average_absorbance = mean(absorbance))
+
+itaconic_acid %>% 
+  ggplot(aes(x = time,
+             y = average_absorbance,
+             color = sample_id,
+             group = sample_id))+
+  #geom_point()+
+  geom_line()+ 
+  facet_wrap(~dilution)+
+  transition_reveal(time) +
+  theme_minimal()
+
+
+dat %>% 
+  ggplot(aes(x = time, y = mean(absorbance))) +
+  geom_point() +
+  facet_wrap(~substrate ~dilution)
+
+
