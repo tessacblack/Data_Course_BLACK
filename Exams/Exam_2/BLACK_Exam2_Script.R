@@ -12,7 +12,7 @@ unicef <- read_csv("unicef-u5mr.csv")
 # Task 2: Get it into tidy format (10 pts) ####
 
 # Clean names
-unicef <- clean_names(unicef)
+unicef <- janitor::clean_names(unicef)
 names(unicef)
 
 # Columns: country, u5mr, year. remove "u5mr_" from year column
@@ -37,7 +37,7 @@ plot1 <-
 print(plot1)  
 
 # Task 4: Save this plot as LASTNAME_Plot_1.png (5 pts) ####
-ggsave("./BLACK_Plot_1.png", plot = plot1)
+#ggsave("./BLACK_Plot_1.png", plot = plot1)
 
 # Task 5: Create another plot that shows the mean U5MR for all the countries within a given continent at each year (20 pts) ####
 # Another line plot (not smooth trendline)
@@ -58,24 +58,38 @@ print(plot2)
 
 
 # Task 6: Save that plot as LASTNAME_Plot_2.png (5 pts) ####
-ggsave("./BLACK_Plot_2.png", plot = plot2)
+#ggsave("./BLACK_Plot_2.png", plot = plot2)
 
 
 # Task 7: Create three models of U5MR (20 pts) ####
 # mod1 should account for only Year
 # mod2 should account for Year and Continent
 # mod3 should account for Year, Continent, and their interaction term
-
-
-
+mod1 <- glm(data = clean, formula = u5mr ~ year)
+mod2 <- glm(data = clean, formula = u5mr ~ year + continent)
+mod3 <- glm(data = clean, formula = u5mr ~ year * continent)
+summary(mod1)
 
 # Task 8: Compare the three models with respect to their performance ####
 # Your code should do the comparing
 # Include a comment line explaining which of these three models you think is best
+compare_models(mod1, mod2, mod3)
+compare_performance(mod1, mod2, mod3) %>% plot
+# I think mod3 is the best model. It has a higher R2 and RMSE
 
 
 # Task 9: Plot the 3 models’ predictions like so: (10 pts) ####
+clean$pred1 <- predict(mod1, clean)
+clean$pred2 <- predict(mod2, clean)
+clean$pred3 <- predict(mod3, clean)
+clean <- clean %>% 
+  pivot_longer(starts_with("pred"), names_to = "model", values_to = "prediction")
 
+clean %>% 
+  ggplot(aes(x = year, y = prediction, color = continent))+
+  geom_line()+
+  facet_wrap(~model)+
+  theme_minimal()
 
 
 # Task 10: BONUS - Using your preferred model, predict what the U5MR would be for 
