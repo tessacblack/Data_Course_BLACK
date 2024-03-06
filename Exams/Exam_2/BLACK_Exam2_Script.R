@@ -13,7 +13,6 @@ unicef <- read_csv("unicef-u5mr.csv")
 
 # Clean names
 unicef <- janitor::clean_names(unicef)
-names(unicef)
 
 # Columns: country, u5mr, year. remove "u5mr_" from year column
 unicef <- unicef %>% 

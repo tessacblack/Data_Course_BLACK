@@ -109,7 +109,7 @@ mod$R
 # Package time
 
 #install.packages("easystats")
-library(easystats)
+#library(easystats)
 report(mod) # I'm going to cum rn 
 performance(mod) 
 

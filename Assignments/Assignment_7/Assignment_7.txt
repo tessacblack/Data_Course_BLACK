@@ -1,0 +1,63 @@
+##################################
+########## Assignment 7 ##########
+##################################
+
+library(tidyverse)
+library(janitor)
+library(skimr)
+library(easystats)
+library(patchwork)
+
+###################################
+# Read in data and clean names ####
+df <- read_csv("./Utah_Religions_by_County.csv")
+df <- df %>% janitor::clean_names()
+names(df)
+skim(df)
+
+##################################
+# Tidy ####
+dat <- df %>% 
+  select(-religious) %>% 
+  pivot_longer(cols = 4:16,
+               names_to = "religion",
+               values_to = "proportion") %>% 
+  rename(population = pop_2010)
+
+##################################
+# Exploring religion in Utah county for my own interest ####
+dat %>% 
+  ggplot(aes(x = religion, y = proportion, 
+         fill = religion))+
+  geom_col()+
+  theme(axis.text.x = element_text(angle=90))
+
+#########################
+####### Question 1 ######
+# Does population correlate to proportion of specific religious groups in that county?
+dat %>% 
+  ggplot(aes(x = population, y = proportion, group = religion, color = religion))+
+  geom_point()+
+  geom_jitter(alpha = 0.25)+
+  theme(axis.text.x = element_text(angle = 90))
+
+#Comments: 
+# With the exception of the county with the pop of ~500,000, it looks like a lower
+# population correlates to a higher proportion of LDS, and a higher population
+# correlates to an overall lower proportion of religious groups 
+
+
+########################
+###### Question 2 ######
+#Does proportion of any specific religion in a given county correlate with the 
+#proportion of non-religious people?
+dat %>% 
+  ggplot(aes(x = non_religious,
+             y = proportion, 
+             color = religion))+
+  geom_point()+
+  facet_wrap(~county)
+
+#Comments: 
+# It does not obviously correlate, since there is one major religion that dominates in all counties 
+    # how would we be able to tell if there were? 
