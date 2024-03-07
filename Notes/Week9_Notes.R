@@ -4,9 +4,15 @@
 library(tidyverse)
 library(easystats)
 library(palmerpenguins)
+library(caret)
 library(broom)
+library(modelr)
 
-#### Tuesday March 5 ####
+# Show and tell: PDF tools
+library(pdftools)
+#pdftools::pdf_combine(p1,p2,p3,output = "~./Desktop/whatever.pdf")
+
+#### Class 17: Tuesday March 5 ####
 
 # Warm up: does body_mass_g vary significanctly between penguin species? 
 names(penguins)
@@ -101,3 +107,102 @@ rf
 vip(rf)
 summary(rf)
 # these tests don't give you coefficients, so this can be a bit of a black box
+
+
+#### Class 18: Thursday March 7 ####
+mod1 <- mpg %>% 
+  glm(data=.,
+      formula=cty~displ+drv)
+summary(mod1)
+# If you wanted to filter stuff out of your model, summary isn't super useful 
+broom::tidy(mod1) # this turns your model output into a dataframe, which allows you 
+# to run more analyses and do more things with it like filter for significance, etc 
+
+broom::tidy(mod1) %>% 
+  kableExtra::kable() %>% 
+  kableExtra::kable_classic(lightable_options='hover') # this lets us create cool outputs
+# such as interactive tables, but we don't have the kable packages installed yet :)
+
+
+# This is a shortcut for what we did when we did predict and then added it as another column
+  # it does both of those at the same time and creates a new column that is called 'pred'
+add_predictions(mpg,mod1) %>% 
+  ggplot(aes(x=pred,y=cty))+
+  geom_point()
+
+# this just plots all of the fucking residuals, which tells us how off we are 
+add_residuals(mpg,mod1) %>% 
+  ggplot(aes(x=resid,y=cty))+
+  geom_point() 
+# our model does better at predicting cty in the lower range than the higher range
+    # this is partially b/c we don't have many bigger cars like big trucks in our dataset, 
+    # so it hasn't been trained on those very well 
+
+# the true test of a model is how well does the model do at predicting things it hasn't already seen?
+  # this is called cross-validation
+  # it's not a good test to see how well your model predicts things it's already seen,
+  # since it's basically just memorized the patterns 
+
+# cross-validation
+# test your model on new data (and that data has to have actual answers for comparison)
+  # how do you get that new dataset? 
+  # before you start making your model, you split your data into a training set and a 
+  # testing set. So you train the model on part of the data and keep the other part of it 
+  # hidden from the model. After training, you give your model the new information
+
+
+# the y value is your outcome variable
+# the p value is the percent that should go into our training
+id <- caret::createDataPartition(mpg$cty, p = .8, list = FALSE) 
+train <- mpg[id,] # everything that is those row numbers
+test <- mpg[-id,] # everything that is not those row numbers
+
+# next, train model on training set
+mod2 <- glm(data = train, formula = mod1$formula)
+
+add_predictions(data=test,model = mod2) %>% # you could also write this as add_predictions(test,mod2)
+  mutate(error=abs(pred-cty)) %>% #adds a column that calculates error 
+  pluck("error") %>% 
+  summary()
+# on average, our model is ~1.7 gallons off 
+
+add_predictions(mpg,mod1) %>% 
+  mutate(error=abs(pred-cty)) %>%
+  pluck("error") %>% 
+  summary()
+# when you trained your model on the full dataset, the average error was 1.6
+
+library(vegan)
+iris %>% 
+  ggplot(aes(x=Sepal.Length,y=Petal.Length, color = Species))+
+  geom_point()+
+  stat_ellipse() # this gives you the 95% confidence around the centroid of these clusters
+
+mat <- iris %>% 
+  select(-Species) %>% 
+  as.matrix()
+
+
+# permutational ANOVA 
+adonis2(mat~iris$Species) # predicts a matrix based on other stuff 
+# the difference: so far we've been predicting a vector (numeric, true/false, etc). 
+# here, out output variable is the entire matrix of sepal lengths and widths 
+
+mds <- metaMDS(mat)
+data.frame(species=iris$Species,
+           mds1=mds$points[,1],
+           mds2=mds$points[,2]) %>% 
+  ggplot(aes(x=mds1,y=mds2,color=species))+
+  geom_point()+
+  stat_ellipse()
+
+# file-> new file -> R Markdown 
+# anything inside of backticks `` is R code that will be read as code. Outside of the bacticks
+# is just text or display. 
+# You knit that into an html which just exports the stuff 
+# It allows you to format reports and output code and show the output
+# What would normally show up in your console shows up in the document that it knits
+# ctrl + alt + i is the shortcut to add a new code chunk 
+
+# dillinger.io
+    # allows you to visually see what your html is going to look like
