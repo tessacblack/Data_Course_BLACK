@@ -45,7 +45,8 @@ dat %>%
 ?t.test()
 # T-tests want an x and y
 # The help file says that this test wants a formula. This is where I started voice recording
-x ~ y 
+x ~ y # This formula is ONLY for T tests!!! For basically all other statistical tests
+      # in R, the formula is Y ~ X 
 # LHS is a numeric variable
 # RHS can be either 1 or a factor with 2 levels 
 # The thing we measured that we want to know something about is always going to be 
@@ -151,7 +152,8 @@ mpg %>%
   theme_minimal()
 
 # plot of mod3
-# this says that the effect of displ could depend on cyl 
+# this says that the effect of displ on cty could depend on cyl. This isn't the case in mod2, 
+  # b/c it considers the effect of displ and cyl independently. 
 mpg %>% 
   ggplot(aes(x=displ,y=cty, color = factor(cyl)))+
   geom_smooth(method = 'glm')+
@@ -168,8 +170,7 @@ compare_models(mod1,mod2,mod3)
 compare_performance(mod1,mod2,mod3) %>% plot
 # According to this is the best model is mod3. R2 tells you how much of the variation your model explains
 # compared to just the mean.
-# AIC: smaller is better. you want your model to be as simple as possible. Re-listen 10:10-10:22 
-  # bc I missed some of this 
+# AIC: smaller is better. you want your model to be as simple as possible
 
 predict(mod1,mpg)
 mod1$formula # the only thing it knows is displ. this model can only predict city based on displ
