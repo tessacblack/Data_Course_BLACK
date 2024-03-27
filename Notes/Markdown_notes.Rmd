@@ -1,0 +1,79 @@
+---
+title: "Markdown notes"
+output: html_document
+date: "2024-03-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+data(mtcars)
+library(tidyverse)
+library(modelr)
+```
+
+The three little backticks tells R that we're going to be putting in code
+Anything outside of the three little backticks is treated as text. This lets you incorporate your methods, reasoning, etc. in this report 
+
+Here's a summary of mtcars 
+```{r}
+summary(mtcars)
+```
+
+
+Here's a plot of miles per gallon as a function of hp
+```{r,message = FALSE, warning = FALSE,fig.align='center',fig.width=3,fig.height=2}
+ggplot(mtcars, aes(x=hp,y=mpg))+
+  geom_point()+
+  geom_smooth(method="lm")
+```
+The message = false makes it so that R won't show the output message of this plot (e.g., it's not going to show ## `geom_smooth()` using formula = 'y ~ x')
+Warning = false means that it won't show any warnings that R spits out at you in the report 
+
+
+What about text??
+
+# Text
+## Text
+### Text
+#### Text 
+
+The hashtag no longer means comment, it formats the text into headings 
+
+**bold**
+
+*italic* 
+
+On the course website, the markdown live preview generator will let you see what your html will look like in real time 
+
+You can google R markdown cheat cheat and find some very helpful documents 
+In the code, if you put echo=FALSE, then it won't fucking put the code in the report 
+
+Let's do a simple model, modeling the effect of various factors on miles per gallon 
+```{r, echo=FALSE}
+mod1 <- glm(data = mtcars, 
+            formula = mpg ~ hp)
+mod2 <- glm(data = mtcars, 
+            formula = mpg ~ poly(hp,2))
+
+```
+We built two versions of the model. The first is linear, the second is a second-order polynomial. Both use hp as the only predictor
+
+Let's make a plot:
+
+```{r, echo=FALSE,message=FALSE}
+
+gather_predictions(mtcars,mod1,mod2) %>% 
+  ggplot(aes(x=hp,y=mpg))+
+  geom_point(size=3,alpha=0.25)+
+  geom_point(aes(y=pred,color=model))+
+  geom_smooth(aes(y=pred,color=model))
+
+```
+
+Which model is the best fit? 
+Let's look at the root mean-sq of error:
+
+```{r}
+mean(residuals(mod1)^2)
+mean(residuals(mod2)^2)
+```

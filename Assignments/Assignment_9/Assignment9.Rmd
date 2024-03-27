@@ -1,0 +1,94 @@
+---
+title: "Assignment 9 Report"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+First, I loaded the following packages to set up for my analysis
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(caret)
+library(broom)
+library(modelr)
+library(easystats)
+library(janitor)
+library(skimr)
+```
+<br>
+
+Next, I loaded the data and took a quick look at the structure.
+```{r,message=FALSE}
+df <- read_csv("./GradSchool_Admissions.csv")
+str(df)
+```
+<br>
+I then wanted to change the admit column from a numeric variable to a logical variable, and assigned this change to the df over itself. This change will allow me to run logistic regressions on the data. 
+```{r}
+df <- df %>% 
+  mutate(admit = case_when (admit == 1 ~ TRUE,
+                            TRUE ~ FALSE))
+```
+<br>
+Now that the data is loaded and cleaned, I'll make a few models investigating the effects of the different variables on acceptance. 
+```{r}
+names(df)
+```
+
+```{r}
+mod1 <- glm(data = df, formula = admit ~ rank, family = 'binomial')
+
+mod2 <- glm(data = df, formula = admit ~ gpa, family = 'binomial')
+
+mod3 <- glm(data = df, formula = admit ~ gre, family = 'binomial')
+
+mod4 <- glm(data = df, formula = admit ~ gpa * gre, family = 'binomial') # personal interest in the interaction between gpa and gre
+
+full_mod <- glm(data = df, formula = admit ~ gpa * gre * rank, family = 'binomial')
+```
+<br>
+
+Then I compared these models and their performance 
+```{r,fig.align='center'}
+compare_models(mod1, mod2, mod3, mod4, full_mod)
+
+compare_performance(mod1, mod2, mod3, mod4, full_mod)
+
+compare_performance(mod1, mod2, mod3, mod4, full_mod) %>% plot
+```
+
+From comparing performance, we can see that full_mod has the smallest RMSE 
+<br>
+<br>
+I then used the stepAIC function from the MASS package to optimize full_mod and see if there was a better way to structure it. 
+```{r}
+step <- MASS::stepAIC(full_mod, trace = 0)
+step$formula
+```
+
+I used the formula output above to create a new model (mod5), and then compared it to all of the other models 
+```{r}
+mod5 <- glm(data = df, formula = admit ~ gpa + gre + rank + gpa:gre, family = 'binomial')
+compare_performance(mod1, mod2, mod3, mod4, full_mod, mod5, rank = TRUE)
+compare_performance(mod1, mod2, mod3, mod4, full_mod, mod5, rank = TRUE) %>% plot
+```
+<br>
+We can see from this output that mod5 is the best model. 
+<br>
+<br>
+<br>
+Next, I generated predictions by mod5 and saved them in a new column in df called "mod5pred"
+```{r}
+df$mod5pred <- predict(mod5, df, type = 'response')
+```
+<br>
+Finally, I plotted the predictions made by mod5 alongside the original data.
+```{r,message=FALSE,fig.align='center'}
+df %>% 
+  ggplot(aes(x=gpa, y = mod5pred))+
+  geom_point(alpha = 0.25)+
+  geom_smooth()+
+  theme_minimal()
+```
